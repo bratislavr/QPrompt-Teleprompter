@@ -1,0 +1,4126 @@
+Folder PATH listing
+Volume serial number is DA06-CD3E
+C:.
+ÃÄÄÄ.github
+³   ÃÄÄÄISSUE_TEMPLATE
+³   ÀÄÄÄworkflows
+ÃÄÄÄ.idea
+³   ÀÄÄÄinspectionProfiles
+ÃÄÄÄ3rdparty
+³   ÃÄÄÄextra-cmake-modules
+³   ³   ÃÄÄÄcmake
+³   ³   ÃÄÄÄdocs
+³   ³   ³   ÃÄÄÄfind-module
+³   ³   ³   ÃÄÄÄkde-module
+³   ³   ³   ÃÄÄÄmanual
+³   ³   ³   ÃÄÄÄmodule
+³   ³   ³   ÃÄÄÄsphinx
+³   ³   ³   ³   ÀÄÄÄext
+³   ³   ³   ÀÄÄÄtoolchain
+³   ³   ÃÄÄÄfind-modules
+³   ³   ÃÄÄÄkde-modules
+³   ³   ³   ÀÄÄÄkde-git-commit-hooks
+³   ³   ÃÄÄÄLICENSES
+³   ³   ÃÄÄÄmodules
+³   ³   ÃÄÄÄtest-modules
+³   ³   ÃÄÄÄtests
+³   ³   ³   ÃÄÄÄECMAddAppIconTest
+³   ³   ³   ÃÄÄÄECMAddTests
+³   ³   ³   ³   ÃÄÄÄmulti_tests
+³   ³   ³   ³   ÀÄÄÄsingle_tests
+³   ³   ³   ÃÄÄÄECMCheckOutboundLicenseTest
+³   ³   ³   ³   ÀÄÄÄtestdata
+³   ³   ³   ÃÄÄÄECMConfiguredInstallTest
+³   ³   ³   ³   ÀÄÄÄexpected
+³   ³   ³   ÃÄÄÄECMFindQmlModuleTest
+³   ³   ³   ³   ÀÄÄÄqmlinstall
+³   ³   ³   ³       ÀÄÄÄorg
+³   ³   ³   ³           ÀÄÄÄkde
+³   ³   ³   ³               ÀÄÄÄecmtest
+³   ³   ³   ÃÄÄÄECMGenerateDBusServiceFileTest
+³   ³   ³   ³   ÃÄÄÄexpected
+³   ³   ³   ³   ÀÄÄÄwindowsexpected
+³   ³   ³   ÃÄÄÄECMGenerateExportHeaderTest
+³   ³   ³   ³   ÃÄÄÄconsumer
+³   ³   ³   ³   ÃÄÄÄformat_version
+³   ³   ³   ³   ÀÄÄÄlibrary
+³   ³   ³   ÃÄÄÄECMGenerateHeadersTest
+³   ³   ³   ³   ÀÄÄÄheadsubdir
+³   ³   ³   ÃÄÄÄECMGeneratePkgConfigFile
+³   ³   ³   ³   ÃÄÄÄtest_imported_targets
+³   ³   ³   ³   ÀÄÄÄtest_no_interface_include_dirs
+³   ³   ³   ÃÄÄÄECMInstallIconsTest
+³   ³   ³   ³   ÃÄÄÄexpected-tree
+³   ³   ³   ³   ³   ÃÄÄÄbadly-named-files-test
+³   ³   ³   ³   ³   ³   ÀÄÄÄhicolor
+³   ³   ³   ³   ³   ³       ÀÄÄÄ16x16
+³   ³   ³   ³   ³   ³           ÀÄÄÄactions
+³   ³   ³   ³   ³   ÃÄÄÄlang-test
+³   ³   ³   ³   ³   ³   ÀÄÄÄhicolor
+³   ³   ³   ³   ³   ³       ÃÄÄÄ128x128
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄdevices
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄemblems
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄplaces
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³           ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ÃÄÄÄ16x16
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄactions
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄanimations
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄapps
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄcategories
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄemotes
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄintl
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄstatus
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³           ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ÀÄÄÄscalable
+³   ³   ³   ³   ³   ³           ÀÄÄÄmimetypes
+³   ³   ³   ³   ³   ³               ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³                   ÀÄÄÄen_US
+³   ³   ³   ³   ³   ÃÄÄÄmulti-file-test
+³   ³   ³   ³   ³   ³   ÀÄÄÄhicolor
+³   ³   ³   ³   ³   ³       ÃÄÄÄ128x128
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄdevices
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄemblems
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄplaces
+³   ³   ³   ³   ³   ³       ÃÄÄÄ16x16
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄactions
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄanimations
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄapps
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄcategories
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄemotes
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄintl
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄstatus
+³   ³   ³   ³   ³   ³       ÀÄÄÄscalable
+³   ³   ³   ³   ³   ³           ÀÄÄÄmimetypes
+³   ³   ³   ³   ³   ÃÄÄÄsingle-file-test
+³   ³   ³   ³   ³   ³   ÀÄÄÄhicolor
+³   ³   ³   ³   ³   ³       ÀÄÄÄ16x16
+³   ³   ³   ³   ³   ³           ÀÄÄÄactions
+³   ³   ³   ³   ³   ÃÄÄÄthemed-lang-test
+³   ³   ³   ³   ³   ³   ÀÄÄÄoxygen
+³   ³   ³   ³   ³   ³       ÃÄÄÄ128x128
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄdevices
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄemblems
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄplaces
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³           ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ÃÄÄÄ16x16
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄactions
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄanimations
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄapps
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄcategories
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄemotes
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄintl
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄstatus
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³       ³           ÀÄÄÄen_US
+³   ³   ³   ³   ³   ³       ÀÄÄÄscalable
+³   ³   ³   ³   ³   ³           ÀÄÄÄmimetypes
+³   ³   ³   ³   ³   ³               ÀÄÄÄl10n
+³   ³   ³   ³   ³   ³                   ÀÄÄÄen_US
+³   ³   ³   ³   ³   ÃÄÄÄthemed-test
+³   ³   ³   ³   ³   ³   ÀÄÄÄtheme-name-2
+³   ³   ³   ³   ³   ³       ÃÄÄÄ128x128
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄdevices
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄemblems
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄplaces
+³   ³   ³   ³   ³   ³       ÃÄÄÄ16x16
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄactions
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄanimations
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄapps
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄcategories
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄemotes
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄintl
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄstatus
+³   ³   ³   ³   ³   ³       ÀÄÄÄscalable
+³   ³   ³   ³   ³   ³           ÀÄÄÄmimetypes
+³   ³   ³   ³   ³   ÀÄÄÄv1-icons
+³   ³   ³   ³   ³       ÃÄÄÄcrystalsvg
+³   ³   ³   ³   ³       ³   ÀÄÄÄ128x128
+³   ³   ³   ³   ³       ³       ÀÄÄÄemblems
+³   ³   ³   ³   ³       ³           ÀÄÄÄl10n
+³   ³   ³   ³   ³       ³               ÀÄÄÄen_US
+³   ³   ³   ³   ³       ÃÄÄÄhicolor
+³   ³   ³   ³   ³       ³   ÃÄÄÄ128x128
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄdevices
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄplaces
+³   ³   ³   ³   ³       ³   ³       ÀÄÄÄl10n
+³   ³   ³   ³   ³       ³   ³           ÀÄÄÄen_US
+³   ³   ³   ³   ³       ³   ÀÄÄÄ16x16
+³   ³   ³   ³   ³       ³       ÃÄÄÄactions
+³   ³   ³   ³   ³       ³       ³   ÀÄÄÄl10n
+³   ³   ³   ³   ³       ³       ³       ÀÄÄÄen_US
+³   ³   ³   ³   ³       ³       ÃÄÄÄanimations
+³   ³   ³   ³   ³       ³       ÃÄÄÄapps
+³   ³   ³   ³   ³       ³       ÃÄÄÄemotes
+³   ³   ³   ³   ³       ³       ÃÄÄÄintl
+³   ³   ³   ³   ³       ³       ÀÄÄÄstatus
+³   ³   ³   ³   ³       ÃÄÄÄlocolor
+³   ³   ³   ³   ³       ³   ÀÄÄÄscalable
+³   ³   ³   ³   ³       ³       ÀÄÄÄmimetypes
+³   ³   ³   ³   ³       ³           ÀÄÄÄl10n
+³   ³   ³   ³   ³       ³               ÀÄÄÄen_US
+³   ³   ³   ³   ³       ÀÄÄÄoxygen
+³   ³   ³   ³   ³           ÀÄÄÄ16x16
+³   ³   ³   ³   ³               ÀÄÄÄcategories
+³   ³   ³   ³   ³                   ÀÄÄÄl10n
+³   ³   ³   ³   ³                       ÀÄÄÄen_US
+³   ³   ³   ³   ÃÄÄÄsubdir
+³   ³   ³   ³   ÃÄÄÄv1-syntax
+³   ³   ³   ³   ÃÄÄÄv1-syntax-l10n
+³   ³   ³   ³   ÀÄÄÄv1-syntax-no-icons
+³   ³   ³   ÃÄÄÄECMPoQmToolsTest
+³   ³   ³   ³   ÃÄÄÄpo
+³   ³   ³   ³   ³   ÃÄÄÄes
+³   ³   ³   ³   ³   ÃÄÄÄfr
+³   ³   ³   ³   ³   ÀÄÄÄno-po
+³   ³   ³   ³   ÃÄÄÄpo-custom-dir1
+³   ³   ³   ³   ³   ÃÄÄÄes
+³   ³   ³   ³   ³   ÀÄÄÄfr
+³   ³   ³   ³   ÃÄÄÄpo-custom-dir2
+³   ³   ³   ³   ³   ÃÄÄÄes
+³   ³   ³   ³   ³   ÀÄÄÄfr
+³   ³   ³   ³   ÃÄÄÄsubdir
+³   ³   ³   ³   ÀÄÄÄtr_test-po
+³   ³   ³   ³       ÃÄÄÄde
+³   ³   ³   ³       ÀÄÄÄen
+³   ³   ³   ÃÄÄÄECMQmlModuleTest
+³   ³   ³   ÃÄÄÄECMQtDeclareLoggingCategoryTest
+³   ³   ³   ÃÄÄÄECMSetupVersionTest
+³   ³   ³   ³   ÃÄÄÄnew_explicit_header
+³   ³   ³   ³   ÃÄÄÄnew_explicit_header_abspath
+³   ³   ³   ³   ÃÄÄÄnew_explicit_simple
+³   ³   ³   ³   ÃÄÄÄnew_explicit_simple_no_version_string_vars
+³   ³   ³   ³   ÃÄÄÄnew_explicit_soversion
+³   ³   ³   ³   ÃÄÄÄnew_explicit_version_file
+³   ³   ³   ³   ÃÄÄÄnew_explicit_version_file_abspath
+³   ³   ³   ³   ÃÄÄÄnew_project_header
+³   ³   ³   ³   ÃÄÄÄnew_project_header_abspath
+³   ³   ³   ³   ÃÄÄÄnew_project_header_expected_zero_version
+³   ³   ³   ³   ÃÄÄÄnew_project_header_prefix
+³   ³   ³   ³   ÃÄÄÄnew_project_header_zero_prefixed_version
+³   ³   ³   ³   ÃÄÄÄnew_project_simple
+³   ³   ³   ³   ÃÄÄÄnew_project_simple_no_version_string_vars
+³   ³   ³   ³   ÃÄÄÄnew_project_simple_prefix
+³   ³   ³   ³   ÃÄÄÄnew_project_soversion
+³   ³   ³   ³   ÃÄÄÄnew_project_soversion_prefix
+³   ³   ³   ³   ÃÄÄÄnew_project_version_file
+³   ³   ³   ³   ÃÄÄÄnew_project_version_file_abspath
+³   ³   ³   ³   ÃÄÄÄold_header
+³   ³   ³   ³   ÃÄÄÄold_header_abspath
+³   ³   ³   ³   ÃÄÄÄold_simple
+³   ³   ³   ³   ÃÄÄÄold_simple_no_version_string_vars
+³   ³   ³   ³   ÃÄÄÄold_soversion
+³   ³   ³   ³   ÃÄÄÄold_version_file
+³   ³   ³   ³   ÃÄÄÄold_version_file_abspath
+³   ³   ³   ³   ÃÄÄÄold_version_file_anynewer
+³   ³   ³   ³   ÃÄÄÄold_version_file_exact
+³   ³   ³   ³   ÀÄÄÄold_version_file_samemajor
+³   ³   ³   ÃÄÄÄExecuteCoreModules
+³   ³   ³   ÃÄÄÄExecuteKDEModules
+³   ³   ³   ÃÄÄÄFindModules
+³   ³   ³   ÃÄÄÄKDEFetchTranslations
+³   ³   ³   ÃÄÄÄKDEInstallDirsTest
+³   ³   ³   ³   ÃÄÄÄnot_cache_variable
+³   ³   ³   ³   ÃÄÄÄrelative_or_absolute
+³   ³   ³   ³   ÀÄÄÄvars_in_sync
+³   ³   ³   ÃÄÄÄKDEPackageAppTemplatesCrossTest
+³   ³   ³   ÃÄÄÄKDEPackageAppTemplatesForcedTest
+³   ³   ³   ³   ÀÄÄÄqml-plasmoid
+³   ³   ³   ³       ÀÄÄÄpackage
+³   ³   ³   ³           ÀÄÄÄcontents
+³   ³   ³   ³               ÃÄÄÄimages
+³   ³   ³   ³               ÀÄÄÄui
+³   ³   ³   ÃÄÄÄKDEPackageAppTemplatesTest
+³   ³   ³   ³   ÀÄÄÄqml-plasmoid
+³   ³   ³   ³       ÀÄÄÄpackage
+³   ³   ³   ³           ÀÄÄÄcontents
+³   ³   ³   ³               ÃÄÄÄimages
+³   ³   ³   ³               ÀÄÄÄui
+³   ³   ³   ÀÄÄÄUseFindModules
+³   ³   ÀÄÄÄtoolchain
+³   ÃÄÄÄkcoreaddons
+³   ³   ÃÄÄÄautotests
+³   ³   ³   ÃÄÄÄdata
+³   ³   ³   ÀÄÄÄplugin
+³   ³   ³       ÀÄÄÄdata
+³   ³   ÃÄÄÄcmake
+³   ³   ÃÄÄÄdocs
+³   ³   ÃÄÄÄLICENSES
+³   ³   ÃÄÄÄpoqm
+³   ³   ³   ÃÄÄÄaf
+³   ³   ³   ÃÄÄÄar
+³   ³   ³   ÃÄÄÄas
+³   ³   ³   ÃÄÄÄast
+³   ³   ³   ÃÄÄÄaz
+³   ³   ³   ÃÄÄÄbe
+³   ³   ³   ÃÄÄÄbe@latin
+³   ³   ³   ÃÄÄÄbg
+³   ³   ³   ÃÄÄÄbn
+³   ³   ³   ÃÄÄÄbn_IN
+³   ³   ³   ÃÄÄÄbr
+³   ³   ³   ÃÄÄÄbs
+³   ³   ³   ÃÄÄÄca
+³   ³   ³   ÃÄÄÄca@valencia
+³   ³   ³   ÃÄÄÄcrh
+³   ³   ³   ÃÄÄÄcs
+³   ³   ³   ÃÄÄÄcsb
+³   ³   ³   ÃÄÄÄcy
+³   ³   ³   ÃÄÄÄda
+³   ³   ³   ÃÄÄÄde
+³   ³   ³   ÃÄÄÄel
+³   ³   ³   ÃÄÄÄen
+³   ³   ³   ÃÄÄÄen_GB
+³   ³   ³   ÃÄÄÄeo
+³   ³   ³   ÃÄÄÄes
+³   ³   ³   ÃÄÄÄet
+³   ³   ³   ÃÄÄÄeu
+³   ³   ³   ÃÄÄÄfa
+³   ³   ³   ÃÄÄÄfi
+³   ³   ³   ÃÄÄÄfr
+³   ³   ³   ÃÄÄÄfy
+³   ³   ³   ÃÄÄÄga
+³   ³   ³   ÃÄÄÄgd
+³   ³   ³   ÃÄÄÄgl
+³   ³   ³   ÃÄÄÄgu
+³   ³   ³   ÃÄÄÄha
+³   ³   ³   ÃÄÄÄhe
+³   ³   ³   ÃÄÄÄhi
+³   ³   ³   ÃÄÄÄhne
+³   ³   ³   ÃÄÄÄhr
+³   ³   ³   ÃÄÄÄhsb
+³   ³   ³   ÃÄÄÄhu
+³   ³   ³   ÃÄÄÄhy
+³   ³   ³   ÃÄÄÄia
+³   ³   ³   ÃÄÄÄid
+³   ³   ³   ÃÄÄÄie
+³   ³   ³   ÃÄÄÄis
+³   ³   ³   ÃÄÄÄit
+³   ³   ³   ÃÄÄÄja
+³   ³   ³   ÃÄÄÄka
+³   ³   ³   ÃÄÄÄkab
+³   ³   ³   ÃÄÄÄkk
+³   ³   ³   ÃÄÄÄkm
+³   ³   ³   ÃÄÄÄkn
+³   ³   ³   ÃÄÄÄko
+³   ³   ³   ÃÄÄÄku
+³   ³   ³   ÃÄÄÄlb
+³   ³   ³   ÃÄÄÄlg
+³   ³   ³   ÃÄÄÄlt
+³   ³   ³   ÃÄÄÄlv
+³   ³   ³   ÃÄÄÄmai
+³   ³   ³   ÃÄÄÄmk
+³   ³   ³   ÃÄÄÄml
+³   ³   ³   ÃÄÄÄmr
+³   ³   ³   ÃÄÄÄms
+³   ³   ³   ÃÄÄÄmy
+³   ³   ³   ÃÄÄÄnb
+³   ³   ³   ÃÄÄÄnds
+³   ³   ³   ÃÄÄÄne
+³   ³   ³   ÃÄÄÄnl
+³   ³   ³   ÃÄÄÄnn
+³   ³   ³   ÃÄÄÄoc
+³   ³   ³   ÃÄÄÄor
+³   ³   ³   ÃÄÄÄpa
+³   ³   ³   ÃÄÄÄpl
+³   ³   ³   ÃÄÄÄps
+³   ³   ³   ÃÄÄÄpt
+³   ³   ³   ÃÄÄÄpt_BR
+³   ³   ³   ÃÄÄÄro
+³   ³   ³   ÃÄÄÄru
+³   ³   ³   ÃÄÄÄsa
+³   ³   ³   ÃÄÄÄse
+³   ³   ³   ÃÄÄÄsi
+³   ³   ³   ÃÄÄÄsk
+³   ³   ³   ÃÄÄÄsl
+³   ³   ³   ÃÄÄÄsq
+³   ³   ³   ÃÄÄÄsr
+³   ³   ³   ÃÄÄÄsr@ijekavian
+³   ³   ³   ÃÄÄÄsr@ijekavianlatin
+³   ³   ³   ÃÄÄÄsr@latin
+³   ³   ³   ÃÄÄÄsv
+³   ³   ³   ÃÄÄÄsw
+³   ³   ³   ÃÄÄÄta
+³   ³   ³   ÃÄÄÄte
+³   ³   ³   ÃÄÄÄtg
+³   ³   ³   ÃÄÄÄth
+³   ³   ³   ÃÄÄÄtok
+³   ³   ³   ÃÄÄÄtr
+³   ³   ³   ÃÄÄÄtt
+³   ³   ³   ÃÄÄÄug
+³   ³   ³   ÃÄÄÄuk
+³   ³   ³   ÃÄÄÄuz
+³   ³   ³   ÃÄÄÄuz@cyrillic
+³   ³   ³   ÃÄÄÄvi
+³   ³   ³   ÃÄÄÄwa
+³   ³   ³   ÃÄÄÄxh
+³   ³   ³   ÃÄÄÄzh_CN
+³   ³   ³   ÃÄÄÄzh_HK
+³   ³   ³   ÀÄÄÄzh_TW
+³   ³   ÃÄÄÄpython
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ÃÄÄÄcaching
+³   ³   ³   ³   ÃÄÄÄio
+³   ³   ³   ³   ÃÄÄÄjobs
+³   ³   ³   ³   ÃÄÄÄlicenses
+³   ³   ³   ³   ÃÄÄÄplugin
+³   ³   ³   ³   ÃÄÄÄrandomness
+³   ³   ³   ³   ÃÄÄÄtext
+³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ÃÄÄÄmimetypes
+³   ³   ³   ÀÄÄÄqml
+³   ³   ÀÄÄÄtests
+³   ÃÄÄÄkcrash
+³   ³   ÃÄÄÄautotests
+³   ³   ³   ÀÄÄÄcore_patterns
+³   ³   ÃÄÄÄLICENSES
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄKDMacTouchBar
+³   ³   ÃÄÄÄ.github
+³   ³   ³   ÀÄÄÄworkflows
+³   ³   ÃÄÄÄcmake
+³   ³   ÃÄÄÄdocs
+³   ³   ÃÄÄÄexamples
+³   ³   ³   ÀÄÄÄmactouchbar
+³   ³   ÃÄÄÄfeatures
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄkirigami
+³   ³   ÃÄÄÄautotests
+³   ³   ³   ÃÄÄÄmobile
+³   ³   ³   ÃÄÄÄpagepool
+³   ³   ³   ÀÄÄÄwheelhandler
+³   ³   ÃÄÄÄdocs
+³   ³   ³   ÀÄÄÄpics
+³   ³   ³       ÀÄÄÄicon
+³   ³   ÃÄÄÄexamples
+³   ³   ³   ÃÄÄÄapplicationitemapp
+³   ³   ³   ÃÄÄÄflexcolumn
+³   ³   ³   ÃÄÄÄicon
+³   ³   ³   ÃÄÄÄImage Colors
+³   ³   ³   ³   ÀÄÄÄcomponents
+³   ³   ³   ÃÄÄÄmultiplatformnotesapp
+³   ³   ³   ÃÄÄÄsettingscomponents
+³   ³   ³   ÃÄÄÄsimpleexamples
+³   ³   ³   ÃÄÄÄstaticcmake
+³   ³   ³   ³   ÃÄÄÄ3rdparty
+³   ³   ³   ³   ÀÄÄÄsrc
+³   ³   ³   ÀÄÄÄwheelhandler
+³   ³   ÃÄÄÄLICENSES
+³   ³   ÃÄÄÄpoqm
+³   ³   ³   ÃÄÄÄar
+³   ³   ³   ÃÄÄÄast
+³   ³   ³   ÃÄÄÄaz
+³   ³   ³   ÃÄÄÄbg
+³   ³   ³   ÃÄÄÄca
+³   ³   ³   ÃÄÄÄca@valencia
+³   ³   ³   ÃÄÄÄcs
+³   ³   ³   ÃÄÄÄda
+³   ³   ³   ÃÄÄÄde
+³   ³   ³   ÃÄÄÄel
+³   ³   ³   ÃÄÄÄen_GB
+³   ³   ³   ÃÄÄÄeo
+³   ³   ³   ÃÄÄÄes
+³   ³   ³   ÃÄÄÄet
+³   ³   ³   ÃÄÄÄeu
+³   ³   ³   ÃÄÄÄfi
+³   ³   ³   ÃÄÄÄfr
+³   ³   ³   ÃÄÄÄgl
+³   ³   ³   ÃÄÄÄhe
+³   ³   ³   ÃÄÄÄhi
+³   ³   ³   ÃÄÄÄhu
+³   ³   ³   ÃÄÄÄia
+³   ³   ³   ÃÄÄÄid
+³   ³   ³   ÃÄÄÄis
+³   ³   ³   ÃÄÄÄit
+³   ³   ³   ÃÄÄÄja
+³   ³   ³   ÃÄÄÄka
+³   ³   ³   ÃÄÄÄko
+³   ³   ³   ÃÄÄÄlt
+³   ³   ³   ÃÄÄÄlv
+³   ³   ³   ÃÄÄÄml
+³   ³   ³   ÃÄÄÄnb
+³   ³   ³   ÃÄÄÄnl
+³   ³   ³   ÃÄÄÄnn
+³   ³   ³   ÃÄÄÄpa
+³   ³   ³   ÃÄÄÄpl
+³   ³   ³   ÃÄÄÄpt
+³   ³   ³   ÃÄÄÄpt_BR
+³   ³   ³   ÃÄÄÄro
+³   ³   ³   ÃÄÄÄru
+³   ³   ³   ÃÄÄÄsa
+³   ³   ³   ÃÄÄÄsk
+³   ³   ³   ÃÄÄÄsl
+³   ³   ³   ÃÄÄÄsr
+³   ³   ³   ÃÄÄÄsr@ijekavian
+³   ³   ³   ÃÄÄÄsr@ijekavianlatin
+³   ³   ³   ÃÄÄÄsr@latin
+³   ³   ³   ÃÄÄÄsv
+³   ³   ³   ÃÄÄÄta
+³   ³   ³   ÃÄÄÄtg
+³   ³   ³   ÃÄÄÄtr
+³   ³   ³   ÃÄÄÄuk
+³   ³   ³   ÃÄÄÄzh_CN
+³   ³   ³   ÀÄÄÄzh_TW
+³   ³   ÃÄÄÄscripts
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÃÄÄÄcontrols
+³   ³   ³   ³   ÃÄÄÄprivate
+³   ³   ³   ³   ³   ÀÄÄÄglobaltoolbar
+³   ³   ³   ³   ÀÄÄÄtemplates
+³   ³   ³   ³       ÀÄÄÄprivate
+³   ³   ³   ÃÄÄÄdelegates
+³   ³   ³   ÃÄÄÄdialogs
+³   ³   ³   ÃÄÄÄlayouts
+³   ³   ³   ÃÄÄÄplatform
+³   ³   ³   ÃÄÄÄprimitives
+³   ³   ³   ³   ÃÄÄÄscenegraph
+³   ³   ³   ³   ÀÄÄÄshaders
+³   ³   ³   ÀÄÄÄstyles
+³   ³   ³       ÃÄÄÄMaterial
+³   ³   ³       ÀÄÄÄorg.kde.desktop
+³   ³   ÃÄÄÄtemplates
+³   ³   ³   ÀÄÄÄkirigami6
+³   ³   ³       ÃÄÄÄandroid
+³   ³   ³       ³   ÀÄÄÄres
+³   ³   ³       ³       ÀÄÄÄdrawable
+³   ³   ³       ÃÄÄÄLICENSES
+³   ³   ³       ÀÄÄÄsrc
+³   ³   ³           ÀÄÄÄcontents
+³   ³   ³               ÀÄÄÄui
+³   ³   ÀÄÄÄtests
+³   ³       ÀÄÄÄwheelhandler
+³   ÃÄÄÄQHotkey
+³   ³   ÃÄÄÄ.github
+³   ³   ³   ÀÄÄÄworkflows
+³   ³   ÃÄÄÄdoc
+³   ³   ÃÄÄÄHotkeyTest
+³   ³   ÀÄÄÄQHotkey
+³   ÀÄÄÄvcpkg
+³       ÃÄÄÄ.github
+³       ³   ÃÄÄÄISSUE_TEMPLATE
+³       ³   ÀÄÄÄworkflows
+³       ÃÄÄÄdocs
+³       ³   ÃÄÄÄabout
+³       ³   ÀÄÄÄusers
+³       ÃÄÄÄports
+³       ³   ÃÄÄÄ3fd
+³       ³   ÃÄÄÄ7zip
+³       ³   ÃÄÄÄableton
+³       ³   ÃÄÄÄableton-link
+³       ³   ÃÄÄÄabseil
+³       ³   ÃÄÄÄabsent
+³       ³   ÃÄÄÄace
+³       ³   ÃÄÄÄacl
+³       ³   ÃÄÄÄactivemq-cpp
+³       ³   ÃÄÄÄada-url
+³       ³   ÃÄÄÄade
+³       ³   ÃÄÄÄadios2
+³       ³   ÃÄÄÄadvobfuscator
+³       ³   ÃÄÄÄair-ctl
+³       ³   ÃÄÄÄaixlog
+³       ³   ÃÄÄÄaklomp-base64
+³       ³   ÃÄÄÄalac
+³       ³   ÃÄÄÄalac-decoder
+³       ³   ÃÄÄÄalembic
+³       ³   ÃÄÄÄaliyun-oss-c-sdk
+³       ³   ÃÄÄÄallegro5
+³       ³   ÃÄÄÄalpaca
+³       ³   ÃÄÄÄalpaka
+³       ³   ÃÄÄÄalsa
+³       ³   ÃÄÄÄamd-adl-sdk
+³       ³   ÃÄÄÄamd-amf
+³       ³   ÃÄÄÄampl-asl
+³       ³   ÃÄÄÄampl-mp
+³       ³   ÃÄÄÄamqpcpp
+³       ³   ÃÄÄÄanari
+³       ³   ÃÄÄÄanax
+³       ³   ÃÄÄÄangelscript
+³       ³   ÃÄÄÄangle
+³       ³   ³   ÀÄÄÄcmake-buildsystem
+³       ³   ³       ÀÄÄÄcmake
+³       ³   ÃÄÄÄankurvdev-embedresource
+³       ³   ÃÄÄÄannoy
+³       ³   ÃÄÄÄantlr4
+³       ³   ÃÄÄÄany-lite
+³       ³   ÃÄÄÄanyrpc
+³       ³   ÃÄÄÄaom
+³       ³   ÃÄÄÄapache-datasketches
+³       ³   ÃÄÄÄapproval-tests-cpp
+³       ³   ÃÄÄÄapr
+³       ³   ÃÄÄÄapr-util
+³       ³   ÃÄÄÄapriltag
+³       ³   ÃÄÄÄapsi
+³       ³   ÃÄÄÄarb
+³       ³   ÃÄÄÄarcus
+³       ³   ÃÄÄÄarg-router
+³       ³   ÃÄÄÄargagg
+³       ³   ÃÄÄÄargh
+³       ³   ÃÄÄÄargon2
+³       ³   ÃÄÄÄargparse
+³       ³   ÃÄÄÄargs
+³       ³   ÃÄÄÄargtable2
+³       ³   ÃÄÄÄargtable3
+³       ³   ÃÄÄÄargumentum
+³       ³   ÃÄÄÄaricpp
+³       ³   ÃÄÄÄarmadillo
+³       ³   ÃÄÄÄarpack-ng
+³       ³   ÃÄÄÄarrayfire
+³       ³   ÃÄÄÄarrow
+³       ³   ÃÄÄÄarsenalgear
+³       ³   ÃÄÄÄashes
+³       ³   ÃÄÄÄasio
+³       ³   ÃÄÄÄasio-grpc
+³       ³   ÃÄÄÄasiochan
+³       ³   ÃÄÄÄasiosdk
+³       ³   ÃÄÄÄasmjit
+³       ³   ÃÄÄÄasmtk
+³       ³   ÃÄÄÄassimp
+³       ³   ÃÄÄÄastr
+³       ³   ÃÄÄÄasync-mqtt
+³       ³   ÃÄÄÄasync-simple
+³       ³   ÃÄÄÄasynch
+³       ³   ÃÄÄÄasyncplusplus
+³       ³   ÃÄÄÄat-spi2-atk
+³       ³   ÃÄÄÄat-spi2-core
+³       ³   ÃÄÄÄatk
+³       ³   ÃÄÄÄatkmm
+³       ³   ÃÄÄÄatl
+³       ³   ÃÄÄÄatliac-minitest
+³       ³   ÃÄÄÄatlmfc
+³       ³   ÃÄÄÄatomic-queue
+³       ³   ÃÄÄÄattr
+³       ³   ÃÄÄÄaubio
+³       ³   ÃÄÄÄaudiofile
+³       ³   ÃÄÄÄaudit
+³       ³   ÃÄÄÄaurora
+³       ³   ÃÄÄÄautobahn
+³       ³   ÃÄÄÄautodock-vina
+³       ³   ÃÄÄÄavcpp
+³       ³   ÃÄÄÄavisynthplus
+³       ³   ÃÄÄÄavro-c
+³       ³   ÃÄÄÄavro-cpp
+³       ³   ÃÄÄÄawlib
+³       ³   ÃÄÄÄaws-c-auth
+³       ³   ÃÄÄÄaws-c-cal
+³       ³   ÃÄÄÄaws-c-common
+³       ³   ÃÄÄÄaws-c-compression
+³       ³   ÃÄÄÄaws-c-event-stream
+³       ³   ÃÄÄÄaws-c-http
+³       ³   ÃÄÄÄaws-c-io
+³       ³   ÃÄÄÄaws-c-mqtt
+³       ³   ÃÄÄÄaws-c-s3
+³       ³   ÃÄÄÄaws-c-sdkutils
+³       ³   ÃÄÄÄaws-checksums
+³       ³   ÃÄÄÄaws-crt-cpp
+³       ³   ÃÄÄÄaws-lambda-cpp
+³       ³   ÃÄÄÄaws-sdk-cpp
+³       ³   ÃÄÄÄazmq
+³       ³   ÃÄÄÄazure-c-shared-utility
+³       ³   ÃÄÄÄazure-core-amqp-cpp
+³       ³   ÃÄÄÄazure-core-cpp
+³       ³   ÃÄÄÄazure-core-tracing-opentelemetry-cpp
+³       ³   ÃÄÄÄazure-data-tables-cpp
+³       ³   ÃÄÄÄazure-identity-cpp
+³       ³   ÃÄÄÄazure-iot-sdk-c
+³       ³   ÃÄÄÄazure-kinect-sensor-sdk
+³       ³   ÃÄÄÄazure-macro-utils-c
+³       ³   ÃÄÄÄazure-messaging-eventhubs-checkpointstore-blob-cpp
+³       ³   ÃÄÄÄazure-messaging-eventhubs-cpp
+³       ³   ÃÄÄÄazure-security-attestation-cpp
+³       ³   ÃÄÄÄazure-security-keyvault-administration-cpp
+³       ³   ÃÄÄÄazure-security-keyvault-certificates-cpp
+³       ³   ÃÄÄÄazure-security-keyvault-keys-cpp
+³       ³   ÃÄÄÄazure-security-keyvault-secrets-cpp
+³       ³   ÃÄÄÄazure-storage-blobs-cpp
+³       ³   ÃÄÄÄazure-storage-common-cpp
+³       ³   ÃÄÄÄazure-storage-cpp
+³       ³   ÃÄÄÄazure-storage-files-datalake-cpp
+³       ³   ÃÄÄÄazure-storage-files-shares-cpp
+³       ³   ÃÄÄÄazure-storage-queues-cpp
+³       ³   ÃÄÄÄazure-uamqp-c
+³       ³   ÃÄÄÄazure-uhttp-c
+³       ³   ÃÄÄÄazure-umqtt-c
+³       ³   ÃÄÄÄb64
+³       ³   ÃÄÄÄbackward-cpp
+³       ³   ÃÄÄÄbaresip-libre
+³       ³   ÃÄÄÄbasisu
+³       ³   ÃÄÄÄbcg729
+³       ³   ÃÄÄÄbddisasm
+³       ³   ÃÄÄÄbde
+³       ³   ÃÄÄÄbdwgc
+³       ³   ÃÄÄÄbeast
+³       ³   ÃÄÄÄbehaviortree-cpp
+³       ³   ÃÄÄÄbenchmark
+³       ³   ÃÄÄÄbento4
+³       ³   ÃÄÄÄberkeleydb
+³       ³   ÃÄÄÄbetter-enums
+³       ³   ÃÄÄÄbext-di
+³       ³   ÃÄÄÄbext-mp
+³       ³   ÃÄÄÄbext-sml
+³       ³   ÃÄÄÄbext-sml2
+³       ³   ÃÄÄÄbext-ut
+³       ³   ÃÄÄÄbext-wintls
+³       ³   ÃÄÄÄbfgroup-lyra
+³       ³   ÃÄÄÄbgfx
+³       ³   ÃÄÄÄbigint
+³       ³   ÃÄÄÄbinlog
+³       ³   ÃÄÄÄbinn
+³       ³   ÃÄÄÄbitmagic
+³       ³   ÃÄÄÄbitserializer
+³       ³   ÃÄÄÄbitserializer-cpprestjson
+³       ³   ÃÄÄÄbitserializer-pugixml
+³       ³   ÃÄÄÄbitserializer-rapidjson
+³       ³   ÃÄÄÄbitserializer-rapidyaml
+³       ³   ÃÄÄÄbitsery
+³       ³   ÃÄÄÄblake3
+³       ³   ÃÄÄÄblas
+³       ³   ÃÄÄÄblaze
+³       ³   ÃÄÄÄblend2d
+³       ³   ÃÄÄÄblingfire
+³       ³   ÃÄÄÄblitz
+³       ³   ÃÄÄÄbloomberg-quantum
+³       ³   ÃÄÄÄblosc
+³       ³   ÃÄÄÄblpapi
+³       ³   ÃÄÄÄboinc
+³       ³   ÃÄÄÄbond
+³       ³   ÃÄÄÄboolinq
+³       ³   ÃÄÄÄboost
+³       ³   ÃÄÄÄboost-accumulators
+³       ³   ÃÄÄÄboost-algorithm
+³       ³   ÃÄÄÄboost-align
+³       ³   ÃÄÄÄboost-any
+³       ³   ÃÄÄÄboost-array
+³       ³   ÃÄÄÄboost-asio
+³       ³   ÃÄÄÄboost-assert
+³       ³   ÃÄÄÄboost-assign
+³       ³   ÃÄÄÄboost-atomic
+³       ³   ÃÄÄÄboost-beast
+³       ³   ÃÄÄÄboost-bimap
+³       ³   ÃÄÄÄboost-bind
+³       ³   ÃÄÄÄboost-build
+³       ³   ÃÄÄÄboost-callable-traits
+³       ³   ÃÄÄÄboost-charconv
+³       ³   ÃÄÄÄboost-chrono
+³       ³   ÃÄÄÄboost-circular-buffer
+³       ³   ÃÄÄÄboost-cmake
+³       ³   ÃÄÄÄboost-cobalt
+³       ³   ÃÄÄÄboost-compat
+³       ³   ÃÄÄÄboost-compatibility
+³       ³   ÃÄÄÄboost-compute
+³       ³   ÃÄÄÄboost-concept-check
+³       ³   ÃÄÄÄboost-config
+³       ³   ÃÄÄÄboost-container
+³       ³   ÃÄÄÄboost-container-hash
+³       ³   ÃÄÄÄboost-context
+³       ³   ÃÄÄÄboost-contract
+³       ³   ÃÄÄÄboost-conversion
+³       ³   ÃÄÄÄboost-convert
+³       ³   ÃÄÄÄboost-core
+³       ³   ÃÄÄÄboost-coroutine
+³       ³   ÃÄÄÄboost-coroutine2
+³       ³   ÃÄÄÄboost-crc
+³       ³   ÃÄÄÄboost-date-time
+³       ³   ÃÄÄÄboost-describe
+³       ³   ÃÄÄÄboost-detail
+³       ³   ÃÄÄÄboost-dll
+³       ³   ÃÄÄÄboost-dynamic-bitset
+³       ³   ÃÄÄÄboost-endian
+³       ³   ÃÄÄÄboost-exception
+³       ³   ÃÄÄÄboost-fiber
+³       ³   ÃÄÄÄboost-filesystem
+³       ³   ÃÄÄÄboost-flyweight
+³       ³   ÃÄÄÄboost-foreach
+³       ³   ÃÄÄÄboost-format
+³       ³   ÃÄÄÄboost-function
+³       ³   ÃÄÄÄboost-function-types
+³       ³   ÃÄÄÄboost-functional
+³       ³   ÃÄÄÄboost-fusion
+³       ³   ÃÄÄÄboost-geometry
+³       ³   ÃÄÄÄboost-gil
+³       ³   ÃÄÄÄboost-graph
+³       ³   ÃÄÄÄboost-graph-parallel
+³       ³   ÃÄÄÄboost-hana
+³       ³   ÃÄÄÄboost-headers
+³       ³   ÃÄÄÄboost-heap
+³       ³   ÃÄÄÄboost-histogram
+³       ³   ÃÄÄÄboost-hof
+³       ³   ÃÄÄÄboost-icl
+³       ³   ÃÄÄÄboost-integer
+³       ³   ÃÄÄÄboost-interprocess
+³       ³   ÃÄÄÄboost-interval
+³       ³   ÃÄÄÄboost-intrusive
+³       ³   ÃÄÄÄboost-io
+³       ³   ÃÄÄÄboost-iostreams
+³       ³   ÃÄÄÄboost-iterator
+³       ³   ÃÄÄÄboost-json
+³       ³   ÃÄÄÄboost-lambda
+³       ³   ÃÄÄÄboost-lambda2
+³       ³   ÃÄÄÄboost-leaf
+³       ³   ÃÄÄÄboost-lexical-cast
+³       ³   ÃÄÄÄboost-local-function
+³       ³   ÃÄÄÄboost-locale
+³       ³   ÃÄÄÄboost-lockfree
+³       ³   ÃÄÄÄboost-log
+³       ³   ÃÄÄÄboost-logic
+³       ³   ÃÄÄÄboost-math
+³       ³   ÃÄÄÄboost-metaparse
+³       ³   ÃÄÄÄboost-move
+³       ³   ÃÄÄÄboost-mp11
+³       ³   ÃÄÄÄboost-mpi
+³       ³   ÃÄÄÄboost-mpl
+³       ³   ÃÄÄÄboost-msm
+³       ³   ÃÄÄÄboost-multi-array
+³       ³   ÃÄÄÄboost-multi-index
+³       ³   ÃÄÄÄboost-multiprecision
+³       ³   ÃÄÄÄboost-mysql
+³       ³   ÃÄÄÄboost-nowide
+³       ³   ÃÄÄÄboost-numeric-conversion
+³       ³   ÃÄÄÄboost-odeint
+³       ³   ÃÄÄÄboost-optional
+³       ³   ÃÄÄÄboost-outcome
+³       ³   ÃÄÄÄboost-parameter
+³       ³   ÃÄÄÄboost-parameter-python
+³       ³   ÃÄÄÄboost-pfr
+³       ³   ÃÄÄÄboost-phoenix
+³       ³   ÃÄÄÄboost-poly-collection
+³       ³   ÃÄÄÄboost-polygon
+³       ³   ÃÄÄÄboost-pool
+³       ³   ÃÄÄÄboost-predef
+³       ³   ÃÄÄÄboost-preprocessor
+³       ³   ÃÄÄÄboost-process
+³       ³   ÃÄÄÄboost-program-options
+³       ³   ÃÄÄÄboost-property-map
+³       ³   ÃÄÄÄboost-property-map-parallel
+³       ³   ÃÄÄÄboost-property-tree
+³       ³   ÃÄÄÄboost-proto
+³       ³   ÃÄÄÄboost-ptr-container
+³       ³   ÃÄÄÄboost-python
+³       ³   ÃÄÄÄboost-qvm
+³       ³   ÃÄÄÄboost-random
+³       ³   ÃÄÄÄboost-range
+³       ³   ÃÄÄÄboost-ratio
+³       ³   ÃÄÄÄboost-rational
+³       ³   ÃÄÄÄboost-redis
+³       ³   ÃÄÄÄboost-regex
+³       ³   ÃÄÄÄboost-safe-numerics
+³       ³   ÃÄÄÄboost-scope
+³       ³   ÃÄÄÄboost-scope-exit
+³       ³   ÃÄÄÄboost-serialization
+³       ³   ÃÄÄÄboost-signals2
+³       ³   ÃÄÄÄboost-smart-ptr
+³       ³   ÃÄÄÄboost-sort
+³       ³   ÃÄÄÄboost-spirit
+³       ³   ÃÄÄÄboost-stacktrace
+³       ³   ÃÄÄÄboost-statechart
+³       ³   ÃÄÄÄboost-static-assert
+³       ³   ÃÄÄÄboost-static-string
+³       ³   ÃÄÄÄboost-stl-interfaces
+³       ³   ÃÄÄÄboost-system
+³       ³   ÃÄÄÄboost-test
+³       ³   ÃÄÄÄboost-thread
+³       ³   ÃÄÄÄboost-throw-exception
+³       ³   ÃÄÄÄboost-timer
+³       ³   ÃÄÄÄboost-tokenizer
+³       ³   ÃÄÄÄboost-tti
+³       ³   ÃÄÄÄboost-tuple
+³       ³   ÃÄÄÄboost-type-erasure
+³       ³   ÃÄÄÄboost-type-index
+³       ³   ÃÄÄÄboost-type-traits
+³       ³   ÃÄÄÄboost-typeof
+³       ³   ÃÄÄÄboost-ublas
+³       ³   ÃÄÄÄboost-uninstall
+³       ³   ÃÄÄÄboost-units
+³       ³   ÃÄÄÄboost-unordered
+³       ³   ÃÄÄÄboost-url
+³       ³   ÃÄÄÄboost-utility
+³       ³   ÃÄÄÄboost-uuid
+³       ³   ÃÄÄÄboost-variant
+³       ³   ÃÄÄÄboost-variant2
+³       ³   ÃÄÄÄboost-vmd
+³       ³   ÃÄÄÄboost-wave
+³       ³   ÃÄÄÄboost-winapi
+³       ³   ÃÄÄÄboost-xpressive
+³       ³   ÃÄÄÄboost-yap
+³       ³   ÃÄÄÄboringssl
+³       ³   ÃÄÄÄbotan
+³       ³   ÃÄÄÄbox2d
+³       ³   ÃÄÄÄbraft
+³       ³   ÃÄÄÄbreakpad
+³       ³   ÃÄÄÄbrigand
+³       ³   ÃÄÄÄbrotli
+³       ³   ÃÄÄÄbrpc
+³       ³   ÃÄÄÄbrunocodutra-metal
+³       ³   ÃÄÄÄbrynet
+³       ³   ÃÄÄÄbshoshany-thread-pool
+³       ³   ÃÄÄÄbsio
+³       ³   ÃÄÄÄbuck-yeh-bux
+³       ³   ÃÄÄÄbuck-yeh-bux-mariadb-client
+³       ³   ÃÄÄÄbuck-yeh-bux-sqlite
+³       ³   ÃÄÄÄbullet3
+³       ³   ÃÄÄÄbustache
+³       ³   ÃÄÄÄbutteraugli
+³       ³   ÃÄÄÄbxzstr
+³       ³   ÃÄÄÄbyte-lite
+³       ³   ÃÄÄÄbzip2
+³       ³   ÃÄÄÄc-ares
+³       ³   ÃÄÄÄc-dbg-macro
+³       ³   ÃÄÄÄc4core
+³       ³   ÃÄÄÄc89stringutils
+³       ³   ÃÄÄÄc9y
+³       ³   ÃÄÄÄcachelib
+³       ³   ÃÄÄÄcaf
+³       ³   ÃÄÄÄcaffe2
+³       ³   ÃÄÄÄcairo
+³       ³   ÃÄÄÄcairomm
+³       ³   ÃÄÄÄcalceph
+³       ³   ÃÄÄÄcamport3
+³       ³   ÃÄÄÄcanvas-ity
+³       ³   ÃÄÄÄcapnproto
+³       ³   ÃÄÄÄcapstone
+³       ³   ÃÄÄÄcargs
+³       ³   ÃÄÄÄcartographer
+³       ³   ÃÄÄÄcasclib
+³       ³   ÃÄÄÄcatch
+³       ³   ÃÄÄÄcatch-classic
+³       ³   ÃÄÄÄcatch2
+³       ³   ÃÄÄÄcblas
+³       ³   ÃÄÄÄcccapstone
+³       ³   ÃÄÄÄccd
+³       ³   ÃÄÄÄccfits
+³       ³   ÃÄÄÄcctag
+³       ³   ÃÄÄÄcctz
+³       ³   ÃÄÄÄcdt
+³       ³   ÃÄÄÄcelero
+³       ³   ÃÄÄÄcello
+³       ³   ÃÄÄÄcereal
+³       ³   ÃÄÄÄceres
+³       ³   ÃÄÄÄcfitsio
+³       ³   ÃÄÄÄcgal
+³       ³   ÃÄÄÄcgicc
+³       ³   ÃÄÄÄcglm
+³       ³   ÃÄÄÄcgltf
+³       ³   ÃÄÄÄcgns
+³       ³   ÃÄÄÄchaiscript
+³       ³   ÃÄÄÄchakracore
+³       ³   ÃÄÄÄcharls
+³       ³   ÃÄÄÄchartdir
+³       ³   ÃÄÄÄcheck
+³       ³   ÃÄÄÄchipmunk
+³       ³   ÃÄÄÄchmlib
+³       ³   ÃÄÄÄchromaprint
+³       ³   ÃÄÄÄchromium-base
+³       ³   ³   ÀÄÄÄres
+³       ³   ³       ÃÄÄÄbuild_overrides
+³       ³   ³       ÃÄÄÄfontconfig
+³       ³   ³       ÃÄÄÄicu
+³       ³   ³       ÃÄÄÄlibxml
+³       ³   ³       ÃÄÄÄprotobuf
+³       ³   ³       ÃÄÄÄtesting
+³       ³   ³       ³   ÃÄÄÄgmock
+³       ³   ³       ³   ÃÄÄÄgtest
+³       ³   ³       ³   ÀÄÄÄlibfuzzer
+³       ³   ³       ÃÄÄÄtest_fonts
+³       ³   ³       ÀÄÄÄtools
+³       ³   ³           ÀÄÄÄwin
+³       ³   ³               ÀÄÄÄDebugVisualizers
+³       ³   ÃÄÄÄchronoengine
+³       ³   ÃÄÄÄcialloo-rcon
+³       ³   ÃÄÄÄcimg
+³       ³   ÃÄÄÄcista
+³       ³   ÃÄÄÄcityhash
+³       ³   ÃÄÄÄcivetweb
+³       ³   ÃÄÄÄcjson
+³       ³   ÃÄÄÄclamav
+³       ³   ÃÄÄÄclap-cleveraudio
+³       ³   ÃÄÄÄclapack
+³       ³   ÃÄÄÄclara
+³       ³   ÃÄÄÄclblas
+³       ³   ÃÄÄÄclblast
+³       ³   ÃÄÄÄcld3
+³       ³   ÃÄÄÄclfft
+³       ³   ÃÄÄÄcli
+³       ³   ÃÄÄÄcli11
+³       ³   ÃÄÄÄclickhouse-cpp
+³       ³   ÃÄÄÄclipboardxx
+³       ³   ÃÄÄÄclipp
+³       ³   ÃÄÄÄclipper2
+³       ³   ÃÄÄÄclockutils
+³       ³   ÃÄÄÄclrng
+³       ³   ÃÄÄÄclue
+³       ³   ÃÄÄÄcmakerc
+³       ³   ÃÄÄÄcmark
+³       ³   ÃÄÄÄcminpack
+³       ³   ÃÄÄÄcmocka
+³       ³   ÃÄÄÄcnats
+³       ³   ÃÄÄÄcnl
+³       ³   ÃÄÄÄco
+³       ³   ÃÄÄÄcocoyaxi
+³       ³   ÃÄÄÄcoin
+³       ³   ÃÄÄÄcoin-or-buildtools
+³       ³   ÃÄÄÄcoin-or-cbc
+³       ³   ÃÄÄÄcoin-or-cgl
+³       ³   ÃÄÄÄcoin-or-clp
+³       ³   ÃÄÄÄcoin-or-ipopt
+³       ³   ÃÄÄÄcoin-or-osi
+³       ³   ÃÄÄÄcoinutils
+³       ³   ÃÄÄÄcollada-dom
+³       ³   ÃÄÄÄcolmap
+³       ³   ÃÄÄÄcolor-console
+³       ³   ÃÄÄÄcomms
+³       ³   ÃÄÄÄcomms-ublox
+³       ³   ÃÄÄÄcommsdsl
+³       ³   ÃÄÄÄcompoundfilereader
+³       ³   ÃÄÄÄconcurrencpp
+³       ³   ÃÄÄÄconcurrentqueue
+³       ³   ÃÄÄÄconfigcat
+³       ³   ÃÄÄÄconjure-enum
+³       ³   ÃÄÄÄconsole-bridge
+³       ³   ÃÄÄÄconstexpr
+³       ³   ÃÄÄÄconstexpr-contracts
+³       ³   ÃÄÄÄcontinuable
+³       ³   ÃÄÄÄconvectionkernels
+³       ³   ÃÄÄÄcoolprop
+³       ³   ÃÄÄÄcopypp
+³       ³   ÃÄÄÄcoroutine
+³       ³   ÃÄÄÄcorrade
+³       ³   ÃÄÄÄcorrelation-vector-cpp
+³       ³   ÃÄÄÄcpp-async
+³       ³   ÃÄÄÄcpp-base64
+³       ³   ÃÄÄÄcpp-httplib
+³       ³   ÃÄÄÄcpp-ipc
+³       ³   ÃÄÄÄcpp-jwt
+³       ³   ÃÄÄÄcpp-netlib
+³       ³   ÃÄÄÄcpp-peglib
+³       ³   ÃÄÄÄcpp-redis
+³       ³   ³   ÀÄÄÄtacopie
+³       ³   ÃÄÄÄcpp-sort
+³       ³   ÃÄÄÄcpp-taskflow
+³       ³   ÃÄÄÄcpp-timsort
+³       ³   ÃÄÄÄcppad
+³       ³   ÃÄÄÄcppcms
+³       ³   ÃÄÄÄcppcodec
+³       ³   ÃÄÄÄcppcoro
+³       ³   ÃÄÄÄcppdap
+³       ³   ÃÄÄÄcppfs
+³       ³   ÃÄÄÄcppgraphqlgen
+³       ³   ÃÄÄÄcppitertools
+³       ³   ÃÄÄÄcppkafka
+³       ³   ÃÄÄÄcppmicroservices
+³       ³   ÃÄÄÄcppp-reiconv
+³       ³   ÃÄÄÄcpprealm
+³       ³   ÃÄÄÄcpprestsdk
+³       ³   ÃÄÄÄcppslippi
+³       ³   ÃÄÄÄcpptoml
+³       ³   ÃÄÄÄcpptrace
+³       ³   ÃÄÄÄcppunit
+³       ³   ÃÄÄÄcpputest
+³       ³   ÃÄÄÄcppwinrt
+³       ³   ÃÄÄÄcppxaml
+³       ³   ÃÄÄÄcppzmq
+³       ³   ÃÄÄÄcpr
+³       ³   ÃÄÄÄcpu-features
+³       ³   ÃÄÄÄcpuid
+³       ³   ÃÄÄÄcpuinfo
+³       ³   ÃÄÄÄcr
+³       ³   ÃÄÄÄcrashpad
+³       ³   ÃÄÄÄcrashrpt
+³       ³   ÃÄÄÄcrc32c
+³       ³   ÃÄÄÄcrfsuite
+³       ³   ÃÄÄÄcroncpp
+³       ³   ÃÄÄÄcrossguid
+³       ³   ÃÄÄÄcrow
+³       ³   ÃÄÄÄcryptopp
+³       ³   ÃÄÄÄcserialport
+³       ³   ÃÄÄÄcspice
+³       ³   ÃÄÄÄctbench
+³       ³   ÃÄÄÄctbignum
+³       ³   ÃÄÄÄctemplate
+³       ³   ÃÄÄÄctp
+³       ³   ÃÄÄÄctpg
+³       ³   ÃÄÄÄctre
+³       ³   ÃÄÄÄctstraffic
+³       ³   ÃÄÄÄcub
+³       ³   ÃÄÄÄcubeb
+³       ³   ÃÄÄÄcuda
+³       ³   ÃÄÄÄcuda-api-wrappers
+³       ³   ÃÄÄÄcudnn
+³       ³   ÃÄÄÄcunit
+³       ³   ÃÄÄÄcurl
+³       ³   ÃÄÄÄcurlcpp
+³       ³   ÃÄÄÄcurlpp
+³       ³   ÃÄÄÄcute-headers
+³       ³   ÃÄÄÄcutelyst2
+³       ³   ÃÄÄÄcwalk
+³       ³   ÃÄÄÄcwapi3d
+³       ³   ÃÄÄÄcxxgraph
+³       ³   ÃÄÄÄcxxopts
+³       ³   ÃÄÄÄcyclonedds
+³       ³   ÃÄÄÄcyclonedds-cxx
+³       ³   ÃÄÄÄcyrus-sasl
+³       ³   ÃÄÄÄczmq
+³       ³   ÃÄÄÄd3d12-memory-allocator
+³       ³   ÃÄÄÄd3dx12
+³       ³   ÃÄÄÄdarknet
+³       ³   ÃÄÄÄdarts-clone
+³       ³   ÃÄÄÄdartsim
+³       ³   ÃÄÄÄdataframe
+³       ³   ÃÄÄÄdate
+³       ³   ÃÄÄÄdatraw
+³       ³   ÃÄÄÄdav1d
+³       ³   ÃÄÄÄdaw-header-libraries
+³       ³   ÃÄÄÄdaw-json-link
+³       ³   ÃÄÄÄdaw-utf-range
+³       ³   ÃÄÄÄdaxa
+³       ³   ÃÄÄÄdbg-macro
+³       ³   ÃÄÄÄdbghelp
+³       ³   ÃÄÄÄdbow2
+³       ³   ÃÄÄÄdbow3
+³       ³   ÃÄÄÄdbus
+³       ³   ÃÄÄÄdcmtk
+³       ³   ÃÄÄÄdebug-assert
+³       ³   ÃÄÄÄdecimal-for-cpp
+³       ³   ÃÄÄÄdetours
+³       ³   ÃÄÄÄdevicenameresolver
+³       ³   ÃÄÄÄdevil
+³       ³   ÃÄÄÄdimcli
+³       ³   ÃÄÄÄdingo
+³       ³   ÃÄÄÄdirectx-dxc
+³       ³   ÃÄÄÄdirectx-headers
+³       ³   ÃÄÄÄdirectx12-agility
+³       ³   ÃÄÄÄdirectxmath
+³       ³   ÃÄÄÄdirectxmesh
+³       ³   ÃÄÄÄdirectxsdk
+³       ³   ÃÄÄÄdirectxtex
+³       ³   ÃÄÄÄdirectxtk
+³       ³   ÃÄÄÄdirectxtk12
+³       ³   ÃÄÄÄdirent
+³       ³   ÃÄÄÄdiscord-game-sdk
+³       ³   ÃÄÄÄdiscord-rpc
+³       ³   ÃÄÄÄdiscordcoreapi
+³       ³   ÃÄÄÄdiscount
+³       ³   ÃÄÄÄdiscreture
+³       ³   ÃÄÄÄdistorm
+³       ³   ÃÄÄÄdlfcn-win32
+³       ³   ÃÄÄÄdlib
+³       ³   ÃÄÄÄdlpack
+³       ³   ÃÄÄÄdmlc
+³       ³   ÃÄÄÄdocopt
+³       ³   ÃÄÄÄdoctest
+³       ³   ÃÄÄÄdouble-conversion
+³       ³   ÃÄÄÄdp-thread-pool
+³       ³   ÃÄÄÄdpdk
+³       ³   ÃÄÄÄdpp
+³       ³   ÃÄÄÄdraco
+³       ³   ÃÄÄÄdrekar-launch-process-cpp
+³       ³   ÃÄÄÄdrlibs
+³       ³   ÃÄÄÄdrogon
+³       ³   ÃÄÄÄdstorage
+³       ³   ÃÄÄÄdtl
+³       ³   ÃÄÄÄduckx
+³       ³   ÃÄÄÄduilib
+³       ³   ÃÄÄÄdukglue
+³       ³   ÃÄÄÄduktape
+³       ³   ÃÄÄÄdumb
+³       ³   ÃÄÄÄdv-processing
+³       ³   ÃÄÄÄdx
+³       ³   ÃÄÄÄdxsdk-d3dx
+³       ³   ÃÄÄÄdxut
+³       ³   ÃÄÄÄdylib
+³       ³   ÃÄÄÄdyno
+³       ³   ÃÄÄÄeabase
+³       ³   ÃÄÄÄearcut-hpp
+³       ³   ÃÄÄÄeastl
+³       ³   ÃÄÄÄeasycl
+³       ³   ÃÄÄÄeasyexif
+³       ³   ÃÄÄÄeasyhook
+³       ³   ÃÄÄÄeasyloggingpp
+³       ³   ÃÄÄÄeathread
+³       ³   ÃÄÄÄebml
+³       ³   ÃÄÄÄecal
+³       ³   ÃÄÄÄecm
+³       ³   ÃÄÄÄecos
+³       ³   ÃÄÄÄed25519
+³       ³   ÃÄÄÄedflib
+³       ³   ÃÄÄÄedlib
+³       ³   ÃÄÄÄeffects11
+³       ³   ÃÄÄÄeffolkronium-random
+³       ³   ÃÄÄÄefsw
+³       ³   ÃÄÄÄegl
+³       ³   ÃÄÄÄegl-registry
+³       ³   ÃÄÄÄeigen3
+³       ³   ÃÄÄÄelements
+³       ³   ÃÄÄÄelfio
+³       ³   ÃÄÄÄelfutils
+³       ³   ÃÄÄÄembree3
+³       ³   ÃÄÄÄenet
+³       ³   ÃÄÄÄenkits
+³       ³   ÃÄÄÄensmallen
+³       ³   ÃÄÄÄentityx
+³       ³   ÃÄÄÄentt
+³       ³   ÃÄÄÄepsilon
+³       ³   ÃÄÄÄereignis
+³       ³   ÃÄÄÄesaxx
+³       ³   ÃÄÄÄetcd-cpp-apiv3
+³       ³   ÃÄÄÄetl
+³       ³   ÃÄÄÄeve
+³       ³   ÃÄÄÄeventpp
+³       ³   ÃÄÄÄevpp
+³       ³   ÃÄÄÄexiv2
+³       ³   ÃÄÄÄexpat
+³       ³   ÃÄÄÄexpected-lite
+³       ³   ÃÄÄÄexprtk
+³       ³   ÃÄÄÄezc3d
+³       ³   ÃÄÄÄezfoundation
+³       ³   ÃÄÄÄfaad2
+³       ³   ÃÄÄÄfadbad
+³       ³   ÃÄÄÄfaiss
+³       ³   ÃÄÄÄfakeit
+³       ³   ÃÄÄÄfameta-counter
+³       ³   ÃÄÄÄfann
+³       ³   ÃÄÄÄfarmhash
+³       ³   ÃÄÄÄfast-cpp-csv-parser
+³       ³   ÃÄÄÄfast-double-parser
+³       ³   ÃÄÄÄfast-float
+³       ³   ÃÄÄÄfastcdr
+³       ³   ÃÄÄÄfastcgi
+³       ³   ÃÄÄÄfastfeat
+³       ³   ÃÄÄÄfastgltf
+³       ³   ÃÄÄÄfastio
+³       ³   ÃÄÄÄfastlz
+³       ³   ÃÄÄÄfastor
+³       ³   ÃÄÄÄfastrtps
+³       ³   ÃÄÄÄfaudio
+³       ³   ÃÄÄÄfawdlstty-libfv
+³       ³   ÃÄÄÄfbgemm
+³       ³   ÃÄÄÄfbthrift
+³       ³   ÃÄÄÄfcl
+³       ³   ÃÄÄÄfdk-aac
+³       ³   ÃÄÄÄfdlibm
+³       ³   ÃÄÄÄffmpeg
+³       ³   ÃÄÄÄffnvcodec
+³       ³   ÃÄÄÄfftw3
+³       ³   ÃÄÄÄfftwpp
+³       ³   ÃÄÄÄfineftp
+³       ³   ÃÄÄÄfins
+³       ³   ÃÄÄÄfixed-string
+³       ³   ÃÄÄÄfizz
+³       ³   ÃÄÄÄflagpp
+³       ³   ÃÄÄÄflann
+³       ³   ÃÄÄÄflash-runtime-extensions
+³       ³   ÃÄÄÄflashlight-cpu
+³       ³   ÃÄÄÄflashlight-cuda
+³       ³   ÃÄÄÄflashlight-sequence
+³       ³   ÃÄÄÄflashlight-text
+³       ³   ÃÄÄÄflat
+³       ³   ÃÄÄÄflatbuffers
+³       ³   ÃÄÄÄflatbush
+³       ³   ÃÄÄÄflecs
+³       ³   ÃÄÄÄflint
+³       ³   ÃÄÄÄfltk
+³       ³   ÃÄÄÄfluidlite
+³       ³   ÃÄÄÄfluidsynth
+³       ³   ÃÄÄÄflux
+³       ³   ÃÄÄÄfmem
+³       ³   ÃÄÄÄfmi4cpp
+³       ³   ÃÄÄÄfmilib
+³       ³   ÃÄÄÄfmt
+³       ³   ÃÄÄÄfolly
+³       ³   ÃÄÄÄfont-chef
+³       ³   ÃÄÄÄfont-util
+³       ³   ÃÄÄÄfontconfig
+³       ³   ÃÄÄÄfoonathan-lexy
+³       ³   ÃÄÄÄfoonathan-memory
+³       ³   ÃÄÄÄforge
+³       ³   ÃÄÄÄfoxi
+³       ³   ÃÄÄÄfp16
+³       ³   ÃÄÄÄfreealut
+³       ³   ÃÄÄÄfreeglut
+³       ³   ÃÄÄÄfreeimage
+³       ³   ÃÄÄÄfreeopcua
+³       ³   ÃÄÄÄfreerdp
+³       ³   ÃÄÄÄfreetds
+³       ³   ÃÄÄÄfreetype
+³       ³   ÃÄÄÄfreetype-gl
+³       ³   ÃÄÄÄfreexl
+³       ³   ÃÄÄÄfribidi
+³       ³   ÃÄÄÄfrozen
+³       ³   ÃÄÄÄfrugally-deep
+³       ³   ÃÄÄÄfruit
+³       ³   ÃÄÄÄftgl
+³       ³   ÃÄÄÄftxui
+³       ³   ÃÄÄÄfunction2
+³       ³   ÃÄÄÄfunctionalplus
+³       ³   ÃÄÄÄfunctions-framework-cpp
+³       ³   ÃÄÄÄfuzzylite
+³       ³   ÃÄÄÄfxdiv
+³       ³   ÃÄÄÄg2o
+³       ³   ÃÄÄÄg3log
+³       ³   ÃÄÄÄgainput
+³       ³   ÃÄÄÄgamedev-framework
+³       ³   ÃÄÄÄgamenetworkingsockets
+³       ³   ÃÄÄÄgames101-cgl
+³       ³   ÃÄÄÄgamma
+³       ³   ÃÄÄÄgapp
+³       ³   ÃÄÄÄgasol
+³       ³   ÃÄÄÄgaussianlib
+³       ³   ÃÄÄÄgazebo
+³       ³   ÃÄÄÄgcem
+³       ³   ÃÄÄÄgdal
+³       ³   ÃÄÄÄgdcm
+³       ³   ÃÄÄÄgdcm2
+³       ³   ÃÄÄÄgdk-pixbuf
+³       ³   ÃÄÄÄgemmlowp
+³       ³   ÃÄÄÄgenann
+³       ³   ÃÄÄÄgeogram
+³       ³   ÃÄÄÄgeographiclib
+³       ³   ÃÄÄÄgeos
+³       ³   ÃÄÄÄgeotrans
+³       ³   ÃÄÄÄgetdns
+³       ³   ÃÄÄÄgetopt
+³       ³   ÃÄÄÄgetopt-win32
+³       ³   ÃÄÄÄgettext
+³       ³   ÃÄÄÄgettext-libintl
+³       ³   ³   ÀÄÄÄdetect
+³       ³   ÃÄÄÄgettimeofday
+³       ³   ÃÄÄÄgflags
+³       ³   ÃÄÄÄghc-filesystem
+³       ³   ÃÄÄÄgherkin-c
+³       ³   ÃÄÄÄgiflib
+³       ³   ÃÄÄÄginkgo
+³       ³   ÃÄÄÄgklib
+³       ³   ÃÄÄÄgl2ps
+³       ³   ÃÄÄÄgl3w
+³       ³   ÃÄÄÄglad
+³       ³   ÃÄÄÄglaze
+³       ³   ÃÄÄÄglbinding
+³       ³   ÃÄÄÄglew
+³       ³   ÃÄÄÄglfw3
+³       ³   ÃÄÄÄgli
+³       ³   ÃÄÄÄglib
+³       ³   ÃÄÄÄglib-networking
+³       ³   ÃÄÄÄglibmm
+³       ³   ÃÄÄÄglm
+³       ³   ÃÄÄÄglobjects
+³       ³   ÃÄÄÄglog
+³       ³   ÃÄÄÄgloo
+³       ³   ÃÄÄÄglpk
+³       ³   ÃÄÄÄglslang
+³       ³   ÃÄÄÄglui
+³       ³   ÃÄÄÄgmime
+³       ³   ÃÄÄÄgmmlib
+³       ³   ÃÄÄÄgmp
+³       ³   ÃÄÄÄgmsh
+³       ³   ÃÄÄÄgobject-introspection
+³       ³   ÃÄÄÄgodot-cpp
+³       ³   ÃÄÄÄgoogle-cloud-cpp
+³       ³   ÃÄÄÄgoogle-cloud-cpp-common
+³       ³   ÃÄÄÄgoogle-cloud-cpp-spanner
+³       ³   ÃÄÄÄgoogleapis
+³       ³   ÃÄÄÄgperf
+³       ³   ÃÄÄÄgperftools
+³       ³   ÃÄÄÄgpgme
+³       ³   ÃÄÄÄgpgmm
+³       ³   ÃÄÄÄgppanel
+³       ³   ÃÄÄÄgrantlee
+³       ³   ÃÄÄÄgraphene
+³       ³   ÃÄÄÄgraphicsmagick
+³       ³   ÃÄÄÄgraphite2
+³       ³   ÃÄÄÄgraphviz
+³       ³   ÃÄÄÄgreatest
+³       ³   ÃÄÄÄgrpc
+³       ³   ÃÄÄÄgrppi
+³       ³   ÃÄÄÄgsasl
+³       ³   ÃÄÄÄgsl
+³       ³   ÃÄÄÄgsl-lite
+³       ³   ÃÄÄÄgsoap
+³       ³   ÃÄÄÄgst-rtsp-server
+³       ³   ÃÄÄÄgstreamer
+³       ³   ÃÄÄÄgtest
+³       ³   ÃÄÄÄgtk
+³       ³   ÃÄÄÄgtk3
+³       ³   ÃÄÄÄgtkmm
+³       ³   ÃÄÄÄgtl
+³       ³   ÃÄÄÄgts
+³       ³   ÃÄÄÄgtsam
+³       ³   ÃÄÄÄguetzli
+³       ³   ÃÄÄÄguile
+³       ³   ÃÄÄÄguilite
+³       ³   ÃÄÄÄgul14
+³       ³   ÃÄÄÄgumbo
+³       ³   ÃÄÄÄgz-cmake3
+³       ³   ³   ÀÄÄÄvcpkg
+³       ³   ÃÄÄÄgz-common5
+³       ³   ÃÄÄÄgz-fuel-tools8
+³       ³   ÃÄÄÄgz-gui7
+³       ³   ÃÄÄÄgz-math7
+³       ³   ÃÄÄÄgz-msgs9
+³       ³   ÃÄÄÄgz-physics6
+³       ³   ÃÄÄÄgz-plugin2
+³       ³   ÃÄÄÄgz-rendering7
+³       ³   ÃÄÄÄgz-sensors7
+³       ³   ÃÄÄÄgz-tools2
+³       ³   ÃÄÄÄgz-transport12
+³       ³   ÃÄÄÄgz-utils2
+³       ³   ÃÄÄÄgzip-hpp
+³       ³   ÃÄÄÄh3
+³       ³   ÃÄÄÄh5py-lzf
+³       ³   ÃÄÄÄhalf
+³       ³   ÃÄÄÄhalide
+³       ³   ÃÄÄÄhapply
+³       ³   ÃÄÄÄhareflow
+³       ³   ÃÄÄÄharfbuzz
+³       ³   ÃÄÄÄhash-library
+³       ³   ÃÄÄÄhashids
+³       ³   ÃÄÄÄhayai
+³       ³   ÃÄÄÄhazelcast-cpp-client
+³       ³   ÃÄÄÄhdf5
+³       ³   ÃÄÄÄhdr-histogram
+³       ³   ÃÄÄÄhealpix
+³       ³   ÃÄÄÄhedley
+³       ³   ÃÄÄÄhello-imgui
+³       ³   ÃÄÄÄhexl
+³       ³   ÃÄÄÄhffix
+³       ³   ÃÄÄÄhfsm2
+³       ³   ÃÄÄÄhidapi
+³       ³   ÃÄÄÄhighfive
+³       ³   ÃÄÄÄhighs
+³       ³   ÃÄÄÄhighway
+³       ³   ÃÄÄÄhikogui
+³       ³   ÃÄÄÄhiredis
+³       ³   ÃÄÄÄhjson-cpp
+³       ³   ÃÄÄÄhlslpp
+³       ³   ÃÄÄÄhnswlib
+³       ³   ÃÄÄÄhps
+³       ³   ÃÄÄÄhpx
+³       ³   ÃÄÄÄhtscodecs
+³       ³   ÃÄÄÄhtslib
+³       ³   ÃÄÄÄhttp-parser
+³       ³   ÃÄÄÄhungarian
+³       ³   ÃÄÄÄhunspell
+³       ³   ÃÄÄÄhwloc
+³       ³   ÃÄÄÄhyperscan
+³       ³   ÃÄÄÄhypodermic
+³       ³   ÃÄÄÄhypre
+³       ³   ÃÄÄÄiceoryx
+³       ³   ÃÄÄÄicu
+³       ³   ÃÄÄÄideviceinstaller
+³       ³   ÃÄÄÄidevicerestore
+³       ³   ÃÄÄÄidyntree
+³       ³   ÃÄÄÄif97
+³       ³   ÃÄÄÄigloo
+³       ³   ÃÄÄÄignition-cmake0
+³       ³   ÃÄÄÄignition-cmake2
+³       ³   ÃÄÄÄignition-common1
+³       ³   ÃÄÄÄignition-common3
+³       ³   ÃÄÄÄignition-fuel-tools1
+³       ³   ÃÄÄÄignition-fuel-tools4
+³       ³   ÃÄÄÄignition-math4
+³       ³   ÃÄÄÄignition-math6
+³       ³   ÃÄÄÄignition-modularscripts
+³       ³   ÃÄÄÄignition-msgs1
+³       ³   ÃÄÄÄignition-msgs5
+³       ³   ÃÄÄÄignition-msgs6
+³       ³   ÃÄÄÄignition-plugin1
+³       ³   ÃÄÄÄignition-tools
+³       ³   ÃÄÄÄignition-transport4
+³       ³   ÃÄÄÄignition-transport8
+³       ³   ÃÄÄÄignition-transport9
+³       ³   ÃÄÄÄignition-utils1
+³       ³   ÃÄÄÄigraph
+³       ³   ÃÄÄÄiir1
+³       ³   ÃÄÄÄijg-libjpeg
+³       ³   ÃÄÄÄim3d
+³       ³   ÃÄÄÄimageinfo
+³       ³   ÃÄÄÄimath
+³       ³   ÃÄÄÄimcce-openfa
+³       ³   ÃÄÄÄimgui
+³       ³   ÃÄÄÄimgui-node-editor
+³       ³   ÃÄÄÄimgui-sfml
+³       ³   ÃÄÄÄimguizmo
+³       ³   ÃÄÄÄimmer
+³       ³   ÃÄÄÄimplot
+³       ³   ÃÄÄÄindicators
+³       ³   ÃÄÄÄindirect-value
+³       ³   ÃÄÄÄinfluxdb-cxx
+³       ³   ÃÄÄÄinfoware
+³       ³   ÃÄÄÄinih
+³       ³   ÃÄÄÄiniparser
+³       ³   ÃÄÄÄinipp
+³       ³   ÃÄÄÄinja
+³       ³   ÃÄÄÄintel-ipsec
+³       ³   ÃÄÄÄintel-mkl
+³       ³   ÃÄÄÄintelrdfpmathlib
+³       ³   ÃÄÄÄio2d
+³       ³   ÃÄÄÄiowa-hills-dsp
+³       ³   ÃÄÄÄirrlicht
+³       ³   ÃÄÄÄirrxml
+³       ³   ÃÄÄÄisal
+³       ³   ÃÄÄÄismrmrd
+³       ³   ÃÄÄÄitay-grudev-singleapplication
+³       ³   ÃÄÄÄitk
+³       ³   ³   ÀÄÄÄrtk
+³       ³   ÃÄÄÄitpp
+³       ³   ÃÄÄÄitsy-bitsy
+³       ³   ÃÄÄÄixwebsocket
+³       ³   ÃÄÄÄjack2
+³       ³   ÃÄÄÄjaeger-client-cpp
+³       ³   ÃÄÄÄjansson
+³       ³   ÃÄÄÄjasper
+³       ³   ÃÄÄÄjbig2dec
+³       ³   ÃÄÄÄjbigkit
+³       ³   ÃÄÄÄjemalloc
+³       ³   ÃÄÄÄjhasse-poly2tri
+³       ³   ÃÄÄÄjinja2cpplight
+³       ³   ÃÄÄÄjkqtplotter
+³       ³   ÃÄÄÄjoltphysics
+³       ³   ÃÄÄÄjosuttis-jthread
+³       ³   ÃÄÄÄjsmn
+³       ³   ÃÄÄÄjson-c
+³       ³   ÃÄÄÄjson-dto
+³       ³   ÃÄÄÄjson-rpc-cxx
+³       ³   ÃÄÄÄjson-schema-validator
+³       ³   ÃÄÄÄjson-spirit
+³       ³   ÃÄÄÄjson11
+³       ³   ÃÄÄÄjson5-parser
+³       ³   ÃÄÄÄjsoncons
+³       ³   ÃÄÄÄjsoncpp
+³       ³   ÃÄÄÄjsonifier
+³       ³   ÃÄÄÄjsonnet
+³       ³   ÃÄÄÄjuce
+³       ³   ÃÄÄÄjwt-cpp
+³       ³   ÃÄÄÄjxrlib
+³       ³   ÃÄÄÄkaitai-struct-cpp-stl-runtime
+³       ³   ÃÄÄÄkangaru
+³       ³   ÃÄÄÄkcp
+³       ³   ÃÄÄÄkdalgorithms
+³       ³   ÃÄÄÄkdbindings
+³       ³   ÃÄÄÄkddockwidgets
+³       ³   ÃÄÄÄkdsoap
+³       ³   ÃÄÄÄkealib
+³       ³   ÃÄÄÄkeccak-tiny
+³       ³   ÃÄÄÄkenlm
+³       ³   ÃÄÄÄkerbal
+³       ³   ÃÄÄÄkeystone
+³       ³   ÃÄÄÄkf5archive
+³       ³   ÃÄÄÄkf5attica
+³       ³   ÃÄÄÄkf5auth
+³       ³   ÃÄÄÄkf5bookmarks
+³       ³   ÃÄÄÄkf5codecs
+³       ³   ÃÄÄÄkf5completion
+³       ³   ÃÄÄÄkf5config
+³       ³   ÃÄÄÄkf5configwidgets
+³       ³   ÃÄÄÄkf5coreaddons
+³       ³   ÃÄÄÄkf5crash
+³       ³   ÃÄÄÄkf5dbusaddons
+³       ³   ÃÄÄÄkf5declarative
+³       ³   ÃÄÄÄkf5diagram
+³       ³   ÃÄÄÄkf5globalaccel
+³       ³   ÃÄÄÄkf5guiaddons
+³       ³   ÃÄÄÄkf5holidays
+³       ³   ÃÄÄÄkf5i18n
+³       ³   ÃÄÄÄkf5iconthemes
+³       ³   ÃÄÄÄkf5itemmodels
+³       ³   ÃÄÄÄkf5itemviews
+³       ³   ÃÄÄÄkf5jobwidgets
+³       ³   ÃÄÄÄkf5kcmutils
+³       ³   ÃÄÄÄkf5kio
+³       ³   ÃÄÄÄkf5newstuff
+³       ³   ÃÄÄÄkf5notifications
+³       ³   ÃÄÄÄkf5package
+³       ³   ÃÄÄÄkf5parts
+³       ³   ÃÄÄÄkf5plotting
+³       ³   ÃÄÄÄkf5service
+³       ³   ÃÄÄÄkf5solid
+³       ³   ÃÄÄÄkf5sonnet
+³       ³   ÃÄÄÄkf5syntaxhighlighting
+³       ³   ÃÄÄÄkf5texteditor
+³       ³   ÃÄÄÄkf5textwidgets
+³       ³   ÃÄÄÄkf5wallet
+³       ³   ÃÄÄÄkf5widgetsaddons
+³       ³   ÃÄÄÄkf5windowsystem
+³       ³   ÃÄÄÄkf5xmlgui
+³       ³   ÃÄÄÄkfr
+³       ³   ÃÄÄÄkinectsdk1
+³       ³   ÃÄÄÄkinectsdk2
+³       ³   ÃÄÄÄkissfft
+³       ³   ÃÄÄÄkissnet
+³       ³   ÃÄÄÄklein
+³       ³   ÃÄÄÄknet
+³       ³   ÃÄÄÄkrabsetw
+³       ³   ÃÄÄÄkrb5
+³       ³   ³   ÀÄÄÄwindows_pc_files
+³       ³   ÃÄÄÄktx
+³       ³   ÃÄÄÄkubazip
+³       ³   ÃÄÄÄkubernetes
+³       ³   ÃÄÄÄkuku
+³       ³   ÃÄÄÄkvasir-mpl
+³       ³   ÃÄÄÄkwsys
+³       ³   ÃÄÄÄlager
+³       ³   ÃÄÄÄlapack
+³       ³   ÃÄÄÄlapack-reference
+³       ³   ÃÄÄÄlastools
+³       ³   ÃÄÄÄlaszip
+³       ³   ÃÄÄÄlaunch-darkly-server
+³       ³   ÃÄÄÄlazy-importer
+³       ³   ÃÄÄÄlcm
+³       ³   ÃÄÄÄlcms
+³       ³   ÃÄÄÄleaf
+³       ³   ÃÄÄÄlemon
+³       ³   ÃÄÄÄlemon-parser-generator
+³       ³   ÃÄÄÄlensfun
+³       ³   ÃÄÄÄleptonica
+³       ³   ÃÄÄÄlerc
+³       ³   ÃÄÄÄlest
+³       ³   ÃÄÄÄlevel-zero
+³       ³   ÃÄÄÄleveldb
+³       ³   ÃÄÄÄlevmar
+³       ³   ÃÄÄÄlexbor
+³       ³   ÃÄÄÄlib3mf
+³       ³   ÃÄÄÄlibaaplus
+³       ³   ÃÄÄÄlibadlmidi
+³       ³   ÃÄÄÄlibadwaita
+³       ³   ÃÄÄÄlibaes-siv
+³       ³   ÃÄÄÄlibaiff
+³       ³   ÃÄÄÄlibaio
+³       ³   ÃÄÄÄlibalkimia
+³       ³   ÃÄÄÄlibao
+³       ³   ÃÄÄÄlibarchive
+³       ³   ÃÄÄÄlibass
+³       ³   ÃÄÄÄlibassert
+³       ³   ÃÄÄÄlibassuan
+³       ³   ÃÄÄÄlibatomic-ops
+³       ³   ÃÄÄÄlibavif
+³       ³   ÃÄÄÄlibb2
+³       ³   ÃÄÄÄlibbacktrace
+³       ³   ÃÄÄÄlibbf
+³       ³   ÃÄÄÄlibbson
+³       ³   ÃÄÄÄlibcaer
+³       ³   ÃÄÄÄlibcanberra
+³       ³   ÃÄÄÄlibcap
+³       ³   ÃÄÄÄlibcbor
+³       ³   ÃÄÄÄlibcds
+³       ³   ÃÄÄÄlibcerf
+³       ³   ÃÄÄÄlibcgroup
+³       ³   ÃÄÄÄlibconfig
+³       ³   ÃÄÄÄlibconfuse
+³       ³   ÃÄÄÄlibcopp
+³       ³   ÃÄÄÄlibcoro
+³       ³   ÃÄÄÄlibcorrect
+³       ³   ÃÄÄÄlibcpplocate
+³       ³   ÃÄÄÄlibcrafter
+³       ³   ÃÄÄÄlibcroco
+³       ³   ÃÄÄÄlibcsv
+³       ³   ÃÄÄÄlibcuckoo
+³       ³   ÃÄÄÄlibcurl-simple-https
+³       ³   ÃÄÄÄlibdatachannel
+³       ³   ÃÄÄÄlibdatrie
+³       ³   ÃÄÄÄlibdc1394
+³       ³   ÃÄÄÄlibde265
+³       ³   ÃÄÄÄlibdeflate
+³       ³   ÃÄÄÄlibdisasm
+³       ³   ÃÄÄÄlibdivide
+³       ³   ÃÄÄÄlibdjinterop
+³       ³   ÃÄÄÄlibdmx
+³       ³   ÃÄÄÄlibdshowcapture
+³       ³   ÃÄÄÄlibdwarf
+³       ³   ÃÄÄÄlibe57
+³       ³   ÃÄÄÄlibe57format
+³       ³   ÃÄÄÄlibebur128
+³       ³   ÃÄÄÄlibenvpp
+³       ³   ÃÄÄÄlibepoxy
+³       ³   ÃÄÄÄliberasurecode
+³       ³   ÃÄÄÄlibev
+³       ³   ÃÄÄÄlibevent
+³       ³   ÃÄÄÄlibeventheader-decode
+³       ³   ÃÄÄÄlibeventheader-tracepoint
+³       ³   ÃÄÄÄlibevhtp
+³       ³   ÃÄÄÄlibexif
+³       ³   ÃÄÄÄlibfabric
+³       ³   ÃÄÄÄlibffi
+³       ³   ÃÄÄÄlibfido2
+³       ³   ÃÄÄÄlibflac
+³       ³   ÃÄÄÄlibfontenc
+³       ³   ÃÄÄÄlibfork
+³       ³   ÃÄÄÄlibfort
+³       ³   ÃÄÄÄlibfreenect2
+³       ³   ÃÄÄÄlibfs
+³       ³   ÃÄÄÄlibftdi
+³       ³   ÃÄÄÄlibftdi1
+³       ³   ÃÄÄÄlibfuse
+³       ³   ÃÄÄÄlibgcrypt
+³       ³   ÃÄÄÄlibgd
+³       ³   ÃÄÄÄlibgeotiff
+³       ³   ÃÄÄÄlibgig
+³       ³   ÃÄÄÄlibgit2
+³       ³   ÃÄÄÄlibgme
+³       ³   ÃÄÄÄlibgnutls
+³       ³   ÃÄÄÄlibgo
+³       ³   ÃÄÄÄlibgpg-error
+³       ³   ÃÄÄÄlibgpiod
+³       ³   ÃÄÄÄlibgpod
+³       ³   ÃÄÄÄlibgta
+³       ³   ÃÄÄÄlibguarded
+³       ³   ÃÄÄÄlibgwenhywfar
+³       ³   ÃÄÄÄlibgxps
+³       ³   ÃÄÄÄlibharu
+³       ³   ÃÄÄÄlibhdfs3
+³       ³   ÃÄÄÄlibheif
+³       ³   ÃÄÄÄlibhsplasma
+³       ³   ÃÄÄÄlibhv
+³       ³   ÃÄÄÄlibhydrogen
+³       ³   ÃÄÄÄlibical
+³       ³   ÃÄÄÄlibice
+³       ³   ÃÄÄÄlibiconv
+³       ³   ÃÄÄÄlibics
+³       ³   ÃÄÄÄlibid3tag
+³       ³   ÃÄÄÄlibideviceactivation
+³       ³   ÃÄÄÄlibidn2
+³       ³   ÃÄÄÄlibigl
+³       ³   ÃÄÄÄlibilbc
+³       ³   ÃÄÄÄlibimobiledevice
+³       ³   ÃÄÄÄlibimobiledevice-glue
+³       ³   ÃÄÄÄlibirecovery
+³       ³   ÃÄÄÄlibjpeg-turbo
+³       ³   ÃÄÄÄlibjuice
+³       ³   ÃÄÄÄlibjxl
+³       ³   ÃÄÄÄlibkeyfinder
+³       ³   ÃÄÄÄlibkml
+³       ³   ÃÄÄÄliblas
+³       ³   ÃÄÄÄliblbfgs
+³       ³   ÃÄÄÄlibleidenalg
+³       ³   ÃÄÄÄliblemon
+³       ³   ÃÄÄÄliblinear
+³       ³   ÃÄÄÄliblo
+³       ³   ÃÄÄÄliblrc
+³       ³   ÃÄÄÄliblsl
+³       ³   ÃÄÄÄliblsquic
+³       ³   ÃÄÄÄliblzf
+³       ³   ÃÄÄÄliblzma
+³       ³   ÃÄÄÄlibmad
+³       ³   ÃÄÄÄlibmagic
+³       ³   ÃÄÄÄlibmariadb
+³       ³   ÃÄÄÄlibmaxminddb
+³       ³   ÃÄÄÄlibmediainfo
+³       ³   ÃÄÄÄlibmesh
+³       ³   ÃÄÄÄlibmicrodns
+³       ³   ÃÄÄÄlibmicrohttpd
+³       ³   ÃÄÄÄlibmidi2
+³       ³   ÃÄÄÄlibmikmod
+³       ³   ÃÄÄÄlibmodbus
+³       ³   ÃÄÄÄlibmodman
+³       ³   ÃÄÄÄlibmodplug
+³       ³   ÃÄÄÄlibmorton
+³       ³   ÃÄÄÄlibmount
+³       ³   ÃÄÄÄlibmpeg2
+³       ³   ÃÄÄÄlibmspack
+³       ³   ÃÄÄÄlibmt32emu
+³       ³   ÃÄÄÄlibmupdf
+³       ³   ÃÄÄÄlibmysql
+³       ³   ÃÄÄÄlibnice
+³       ³   ÃÄÄÄlibnice-gst
+³       ³   ÃÄÄÄlibnick
+³       ³   ÃÄÄÄlibnoise
+³       ³   ÃÄÄÄlibnop
+³       ³   ÃÄÄÄlibobfuscate
+³       ³   ÃÄÄÄlibodb
+³       ³   ÃÄÄÄlibodb-boost
+³       ³   ÃÄÄÄlibodb-mysql
+³       ³   ÃÄÄÄlibodb-pgsql
+³       ³   ÃÄÄÄlibodb-sqlite
+³       ³   ÃÄÄÄlibofx
+³       ³   ÃÄÄÄlibogg
+³       ³   ÃÄÄÄlibopenmpt
+³       ³   ÃÄÄÄlibopensp
+³       ³   ÃÄÄÄlibopnmidi
+³       ³   ÃÄÄÄlibopusenc
+³       ³   ÃÄÄÄliborigin
+³       ³   ÃÄÄÄlibosdp
+³       ³   ÃÄÄÄlibosip2
+³       ³   ÃÄÄÄlibosmium
+³       ³   ÃÄÄÄlibosmscout
+³       ³   ÃÄÄÄlibp7-baical
+³       ³   ÃÄÄÄlibp7client
+³       ³   ÃÄÄÄlibpcap
+³       ³   ÃÄÄÄlibpff
+³       ³   ÃÄÄÄlibphonenumber
+³       ³   ÃÄÄÄlibplist
+³       ³   ÃÄÄÄlibpmemobj-cpp
+³       ³   ÃÄÄÄlibpng
+³       ³   ÃÄÄÄlibpopt
+³       ³   ÃÄÄÄlibpq
+³       ³   ³   ÃÄÄÄandroid
+³       ³   ³   ÃÄÄÄunix
+³       ³   ³   ÀÄÄÄwindows
+³       ³   ÃÄÄÄlibpqxx
+³       ³   ÃÄÄÄlibprotobuf-mutator
+³       ³   ÃÄÄÄlibproxy
+³       ³   ÃÄÄÄlibpsl
+³       ³   ÃÄÄÄlibqcow
+³       ³   ÃÄÄÄlibqglviewer
+³       ³   ÃÄÄÄlibqrencode
+³       ³   ÃÄÄÄlibqtrest
+³       ³   ÃÄÄÄlibrabbitmq
+³       ³   ÃÄÄÄlibraqm
+³       ³   ÃÄÄÄlibraw
+³       ³   ÃÄÄÄlibrdkafka
+³       ³   ÃÄÄÄlibredwg
+³       ³   ÃÄÄÄlibremidi
+³       ³   ÃÄÄÄlibressl
+³       ³   ÃÄÄÄlibrsvg
+³       ³   ÃÄÄÄlibrsync
+³       ³   ÃÄÄÄlibrtmp
+³       ³   ÃÄÄÄlibrttopo
+³       ³   ÃÄÄÄlibsamplerate
+³       ³   ÃÄÄÄlibsass
+³       ³   ÃÄÄÄlibsbml
+³       ³   ÃÄÄÄlibsbsms
+³       ³   ÃÄÄÄlibsecret
+³       ³   ÃÄÄÄlibsercomm
+³       ³   ÃÄÄÄlibsersi
+³       ³   ÃÄÄÄlibsigcpp
+³       ³   ÃÄÄÄlibsigcpp-3
+³       ³   ÃÄÄÄlibslirp
+³       ³   ÃÄÄÄlibsm
+³       ³   ÃÄÄÄlibsmacker
+³       ³   ÃÄÄÄlibsmb2
+³       ³   ÃÄÄÄlibsndfile
+³       ³   ÃÄÄÄlibsnoretoast
+³       ³   ÃÄÄÄlibsodium
+³       ³   ÃÄÄÄlibsonic
+³       ³   ÃÄÄÄlibsoundio
+³       ³   ÃÄÄÄlibsoup
+³       ³   ÃÄÄÄlibspatialindex
+³       ³   ÃÄÄÄlibspatialite
+³       ³   ÃÄÄÄlibspnav
+³       ³   ÃÄÄÄlibspng
+³       ³   ÃÄÄÄlibsquish
+³       ³   ÃÄÄÄlibsrt
+³       ³   ÃÄÄÄlibsrtp
+³       ³   ÃÄÄÄlibssh
+³       ³   ÃÄÄÄlibssh2
+³       ³   ÃÄÄÄlibstemmer
+³       ³   ÃÄÄÄlibstk
+³       ³   ÃÄÄÄlibsvm
+³       ³   ÃÄÄÄlibsystemd
+³       ³   ÃÄÄÄlibtar
+³       ³   ÃÄÄÄlibtasn1
+³       ³   ÃÄÄÄlibtcod
+³       ³   ÃÄÄÄlibtess2
+³       ³   ÃÄÄÄlibtheora
+³       ³   ÃÄÄÄlibtins
+³       ³   ÃÄÄÄlibtomcrypt
+³       ³   ÃÄÄÄlibtommath
+³       ³   ÃÄÄÄlibtorch
+³       ³   ÃÄÄÄlibtorrent
+³       ³   ÃÄÄÄlibtracepoint
+³       ³   ÃÄÄÄlibtracepoint-control
+³       ³   ÃÄÄÄlibtracepoint-decode
+³       ³   ÃÄÄÄlibu2f-server
+³       ³   ÃÄÄÄlibudis86
+³       ³   ÃÄÄÄlibudns
+³       ³   ÃÄÄÄlibui
+³       ³   ÃÄÄÄlibunibreak
+³       ³   ÃÄÄÄlibunifex
+³       ³   ÃÄÄÄlibunistring
+³       ³   ÃÄÄÄlibunwind
+³       ³   ÃÄÄÄliburing
+³       ³   ÃÄÄÄlibusb
+³       ³   ÃÄÄÄlibusb-win32
+³       ³   ÃÄÄÄlibusbmuxd
+³       ³   ÃÄÄÄlibuuid
+³       ³   ÃÄÄÄlibuv
+³       ³   ÃÄÄÄlibuvc
+³       ³   ÃÄÄÄlibvault
+³       ³   ÃÄÄÄlibvhdi
+³       ³   ÃÄÄÄlibvmdk
+³       ³   ÃÄÄÄlibvorbis
+³       ³   ÃÄÄÄlibvpx
+³       ³   ÃÄÄÄlibwandio
+³       ³   ÃÄÄÄlibwebm
+³       ³   ÃÄÄÄlibwebp
+³       ³   ÃÄÄÄlibwebsockets
+³       ³   ÃÄÄÄlibx11
+³       ³   ÃÄÄÄlibxau
+³       ³   ÃÄÄÄlibxaw
+³       ³   ÃÄÄÄlibxcomposite
+³       ³   ÃÄÄÄlibxcrypt
+³       ³   ÃÄÄÄlibxcvt
+³       ³   ÃÄÄÄlibxdamage
+³       ³   ÃÄÄÄlibxdf
+³       ³   ÃÄÄÄlibxdiff
+³       ³   ÃÄÄÄlibxdmcp
+³       ³   ÃÄÄÄlibxext
+³       ³   ÃÄÄÄlibxfixes
+³       ³   ÃÄÄÄlibxfont
+³       ³   ÃÄÄÄlibxft
+³       ³   ÃÄÄÄlibxi
+³       ³   ÃÄÄÄlibxinerama
+³       ³   ÃÄÄÄlibxkbcommon
+³       ³   ÃÄÄÄlibxkbfile
+³       ³   ÃÄÄÄlibxlsxwriter
+³       ³   ÃÄÄÄlibxml2
+³       ³   ÃÄÄÄlibxmlmm
+³       ³   ÃÄÄÄlibxmlpp
+³       ³   ÃÄÄÄlibxmp
+³       ³   ÃÄÄÄlibxmu
+³       ³   ÃÄÄÄlibxpm
+³       ³   ÃÄÄÄlibxpresent
+³       ³   ÃÄÄÄlibxrandr
+³       ³   ÃÄÄÄlibxrender
+³       ³   ÃÄÄÄlibxres
+³       ³   ÃÄÄÄlibxscrnsaver
+³       ³   ÃÄÄÄlibxslt
+³       ³   ÃÄÄÄlibxt
+³       ³   ÃÄÄÄlibxtst
+³       ³   ÃÄÄÄlibxv
+³       ³   ÃÄÄÄlibxxf86vm
+³       ³   ÃÄÄÄlibyaml
+³       ³   ÃÄÄÄlibyuv
+³       ³   ÃÄÄÄlibzen
+³       ³   ÃÄÄÄlibzim
+³       ³   ÃÄÄÄlibzip
+³       ³   ÃÄÄÄlibzippp
+³       ³   ÃÄÄÄlicensepp
+³       ³   ÃÄÄÄlightgbm
+³       ³   ÃÄÄÄlightningscanner
+³       ³   ÃÄÄÄlilv
+³       ³   ÃÄÄÄlinalg
+³       ³   ÃÄÄÄlinmath
+³       ³   ÃÄÄÄlionkor-commandline
+³       ³   ÃÄÄÄlitehtml
+³       ³   ÃÄÄÄlive555
+³       ³   ÃÄÄÄllfio
+³       ³   ÃÄÄÄllgi
+³       ³   ÃÄÄÄllgl
+³       ³   ÃÄÄÄllhttp
+³       ³   ÃÄÄÄllnl-units
+³       ³   ÃÄÄÄllvm
+³       ³   ÃÄÄÄlmdb
+³       ³   ³   ÀÄÄÄcmake
+³       ³   ³       ÀÄÄÄcmake
+³       ³   ÃÄÄÄlockpp
+³       ³   ÃÄÄÄlodepng
+³       ³   ÃÄÄÄlodepng-c
+³       ³   ÃÄÄÄlog4cplus
+³       ³   ÃÄÄÄlog4cpp-log4cpp
+³       ³   ÃÄÄÄlog4cxx
+³       ³   ÃÄÄÄloguru
+³       ³   ÃÄÄÄlpeg
+³       ³   ÃÄÄÄls-qpack
+³       ³   ÃÄÄÄltla-aarand
+³       ³   ÃÄÄÄltla-cppirlba
+³       ³   ÃÄÄÄltla-cppkmeans
+³       ³   ÃÄÄÄltla-knncolle
+³       ³   ÃÄÄÄltla-powerit
+³       ³   ÃÄÄÄltla-umappp
+³       ³   ÃÄÄÄlua
+³       ³   ÃÄÄÄlua-compat53
+³       ³   ÃÄÄÄluabridge
+³       ³   ÃÄÄÄluabridge3
+³       ³   ÃÄÄÄluafilesystem
+³       ³   ÃÄÄÄluajit
+³       ³   ÃÄÄÄluasec
+³       ³   ÃÄÄÄluasocket
+³       ³   ÃÄÄÄluminoengine
+³       ³   ÃÄÄÄlunarg-vulkantools
+³       ³   ÃÄÄÄlunasvg
+³       ³   ÃÄÄÄluv
+³       ³   ÃÄÄÄlv2
+³       ³   ÃÄÄÄlz4
+³       ³   ÃÄÄÄlzav
+³       ³   ÃÄÄÄlzfse
+³       ³   ÃÄÄÄlzo
+³       ³   ÃÄÄÄlzokay
+³       ³   ÃÄÄÄmaddy
+³       ³   ÃÄÄÄmagic-enum
+³       ³   ÃÄÄÄmagic-get
+³       ³   ÃÄÄÄmagma
+³       ³   ÃÄÄÄmagnum
+³       ³   ÃÄÄÄmagnum-extras
+³       ³   ÃÄÄÄmagnum-integration
+³       ³   ÃÄÄÄmagnum-plugins
+³       ³   ÃÄÄÄmailio
+³       ³   ÃÄÄÄmakeid
+³       ³   ÃÄÄÄmanif
+³       ³   ÃÄÄÄmapbox-geojson-cpp
+³       ³   ÃÄÄÄmapbox-geojson-vt-cpp
+³       ³   ÃÄÄÄmapbox-geometry
+³       ³   ÃÄÄÄmapbox-polylabel
+³       ³   ÃÄÄÄmapbox-variant
+³       ³   ÃÄÄÄmapbox-wagyu
+³       ³   ÃÄÄÄmapnik
+³       ³   ÃÄÄÄmarble
+³       ³   ÃÄÄÄmariadb-connector-cpp
+³       ³   ÃÄÄÄmarisa-trie
+³       ³   ÃÄÄÄmarl
+³       ³   ÃÄÄÄmatchit
+³       ³   ÃÄÄÄmaterialx
+³       ³   ÃÄÄÄmathc
+³       ³   ÃÄÄÄmathgl
+³       ³   ÃÄÄÄmathter
+³       ³   ÃÄÄÄmatio
+³       ³   ÃÄÄÄmatplotlib-cpp
+³       ³   ÃÄÄÄmatplotplusplus
+³       ³   ÃÄÄÄmatroska
+³       ³   ÃÄÄÄmbedtls
+³       ³   ÃÄÄÄmchehab-zbar
+³       ³   ÃÄÄÄmcpp
+³       ³   ÃÄÄÄmdl-sdk
+³       ³   ÃÄÄÄmdns
+³       ³   ÃÄÄÄmdnsresponder
+³       ³   ÃÄÄÄmdspan
+³       ³   ÃÄÄÄmecab
+³       ³   ÃÄÄÄmemorymodule
+³       ³   ÃÄÄÄmesa
+³       ³   ÃÄÄÄmeschach
+³       ³   ÃÄÄÄmeshoptimizer
+³       ³   ÃÄÄÄmetis
+³       ³   ÃÄÄÄmetrohash
+³       ³   ÃÄÄÄmfl
+³       ³   ÃÄÄÄmfx-dispatch
+³       ³   ÃÄÄÄmgnlibs
+³       ³   ÃÄÄÄmhook
+³       ³   ÃÄÄÄmichaelmiller-sec21
+³       ³   ÃÄÄÄmicro-gl
+³       ³   ÃÄÄÄmicrosoft-signalr
+³       ³   ÃÄÄÄmikktspace
+³       ³   ÃÄÄÄmilerius-sfml-imgui
+³       ³   ÃÄÄÄmimalloc
+³       ³   ÃÄÄÄminc
+³       ³   ÃÄÄÄminhook
+³       ³   ÃÄÄÄminiaudio
+³       ³   ÃÄÄÄminifb
+³       ³   ÃÄÄÄminimp3
+³       ³   ÃÄÄÄminio-cpp
+³       ³   ÃÄÄÄminiply
+³       ³   ÃÄÄÄminisat-master-keying
+³       ³   ÃÄÄÄminitrace
+³       ³   ÃÄÄÄminiupnpc
+³       ³   ÃÄÄÄminiz
+³       ³   ÃÄÄÄminizip
+³       ³   ÃÄÄÄminizip-ng
+³       ³   ÃÄÄÄmio
+³       ³   ÃÄÄÄmlpack
+³       ³   ÃÄÄÄmman
+³       ³   ÃÄÄÄmmloader
+³       ³   ÃÄÄÄmmx
+³       ³   ÃÄÄÄmnn
+³       ³   ÃÄÄÄmodern-cpp-kafka
+³       ³   ÃÄÄÄmodp-base64
+³       ³   ÃÄÄÄmongo-c-driver
+³       ³   ÃÄÄÄmongo-cxx-driver
+³       ³   ÃÄÄÄmongoose
+³       ³   ÃÄÄÄmonkeys-audio
+³       ³   ÃÄÄÄmoos-core
+³       ³   ÃÄÄÄmoos-essential
+³       ³   ÃÄÄÄmoos-ui
+³       ³   ÃÄÄÄmorton-nd
+³       ³   ÃÄÄÄmosquitto
+³       ³   ÃÄÄÄmozjpeg
+³       ³   ÃÄÄÄmp-units
+³       ³   ÃÄÄÄmp3lame
+³       ³   ÃÄÄÄmpark-patterns
+³       ³   ÃÄÄÄmpark-variant
+³       ³   ÃÄÄÄmpc
+³       ³   ÃÄÄÄmpfr
+³       ³   ÃÄÄÄmpg123
+³       ³   ÃÄÄÄmpi
+³       ³   ÃÄÄÄmpir
+³       ³   ÃÄÄÄmpmcqueue
+³       ³   ÃÄÄÄmqtt-cpp
+³       ³   ÃÄÄÄms-angle
+³       ³   ÃÄÄÄms-gdkx
+³       ³   ÃÄÄÄms-gltf
+³       ³   ÃÄÄÄms-gsl
+³       ³   ÃÄÄÄms-ifc-sdk
+³       ³   ÃÄÄÄmsdfgen
+³       ³   ÃÄÄÄmsgpack
+³       ³   ÃÄÄÄmsgpack-c
+³       ³   ÃÄÄÄmsgpack11
+³       ³   ÃÄÄÄmsinttypes
+³       ³   ÃÄÄÄmsix
+³       ³   ÃÄÄÄmsmpi
+³       ³   ÃÄÄÄmsquic
+³       ³   ÃÄÄÄmstch
+³       ³   ÃÄÄÄmtlt
+³       ³   ÃÄÄÄmujoco
+³       ³   ÃÄÄÄmujs
+³       ³   ÃÄÄÄmunit
+³       ³   ÃÄÄÄmuparser
+³       ³   ÃÄÄÄmurmur3
+³       ³   ÃÄÄÄmurmurhash
+³       ³   ÃÄÄÄmvfst
+³       ³   ÃÄÄÄmygui
+³       ³   ÃÄÄÄmysql-connector-cpp
+³       ³   ÃÄÄÄnameof
+³       ³   ÃÄÄÄnana
+³       ³   ÃÄÄÄnano-signal-slot
+³       ³   ÃÄÄÄnanobench
+³       ³   ÃÄÄÄnanobind
+³       ³   ÃÄÄÄnanodbc
+³       ³   ÃÄÄÄnanoflann
+³       ³   ÃÄÄÄnanogui
+³       ³   ÃÄÄÄnanojsonc
+³       ³   ÃÄÄÄnanomsg
+³       ³   ÃÄÄÄnanopb
+³       ³   ÃÄÄÄnanoprintf
+³       ³   ÃÄÄÄnanorange
+³       ³   ÃÄÄÄnanort
+³       ³   ÃÄÄÄnanosvg
+³       ³   ÃÄÄÄnanovg
+³       ³   ÃÄÄÄnativefiledialog-extended
+³       ³   ÃÄÄÄnayuki-qr-code-generator
+³       ³   ÃÄÄÄnccl
+³       ³   ÃÄÄÄncnn
+³       ³   ÃÄÄÄncurses
+³       ³   ÃÄÄÄndis-driver-library
+³       ³   ÃÄÄÄneargye-semver
+³       ³   ÃÄÄÄned14-internal-quickcpplib
+³       ³   ÃÄÄÄneon2sse
+³       ³   ÃÄÄÄnetcdf-c
+³       ³   ÃÄÄÄnetcdf-cxx4
+³       ³   ÃÄÄÄnetcpp
+³       ³   ÃÄÄÄnetgen
+³       ³   ÃÄÄÄnethost
+³       ³   ÃÄÄÄnettle
+³       ³   ÃÄÄÄnetworkdirect-sdk
+³       ³   ÃÄÄÄnghttp2
+³       ³   ÃÄÄÄnghttp2-asio
+³       ³   ÃÄÄÄnghttp3
+³       ³   ÃÄÄÄngspice
+³       ³   ÃÄÄÄngtcp2
+³       ³   ÃÄÄÄnifly
+³       ³   ÃÄÄÄnifticlib
+³       ³   ÃÄÄÄnlohmann-fifo-map
+³       ³   ÃÄÄÄnlohmann-json
+³       ³   ÃÄÄÄnlopt
+³       ³   ÃÄÄÄnmap
+³       ³   ÃÄÄÄnmslib
+³       ³   ÃÄÄÄnng
+³       ³   ÃÄÄÄnngpp
+³       ³   ÃÄÄÄnnpack
+³       ³   ÃÄÄÄnode-addon-api
+³       ³   ÃÄÄÄnode-api-headers
+³       ³   ÃÄÄÄnodesoup
+³       ³   ÃÄÄÄnonius
+³       ³   ÃÄÄÄnowide
+³       ³   ÃÄÄÄnrf-ble-driver
+³       ³   ÃÄÄÄnspr
+³       ³   ÃÄÄÄnss
+³       ³   ÃÄÄÄnsync
+³       ³   ÃÄÄÄnt-wrapper
+³       ³   ÃÄÄÄntf-core
+³       ³   ÃÄÄÄnu-book-zxing-cpp
+³       ³   ÃÄÄÄnuklear
+³       ³   ÃÄÄÄnumactl
+³       ³   ÃÄÄÄnumcpp
+³       ³   ÃÄÄÄnuspell
+³       ³   ÃÄÄÄnvidia-cutlass
+³       ³   ÃÄÄÄnvtt
+³       ³   ÃÄÄÄnyan-lang
+³       ³   ÃÄÄÄoatpp
+³       ³   ÃÄÄÄoatpp-consul
+³       ³   ÃÄÄÄoatpp-curl
+³       ³   ÃÄÄÄoatpp-libressl
+³       ³   ÃÄÄÄoatpp-mbedtls
+³       ³   ÃÄÄÄoatpp-mongo
+³       ³   ÃÄÄÄoatpp-openssl
+³       ³   ÃÄÄÄoatpp-postgresql
+³       ³   ÃÄÄÄoatpp-sqlite
+³       ³   ÃÄÄÄoatpp-ssdp
+³       ³   ÃÄÄÄoatpp-swagger
+³       ³   ÃÄÄÄoatpp-websocket
+³       ³   ÃÄÄÄoatpp-zlib
+³       ³   ÃÄÄÄoboe
+³       ³   ÃÄÄÄobserver-ptr-lite
+³       ³   ÃÄÄÄocilib
+³       ³   ÃÄÄÄoctave
+³       ³   ÃÄÄÄoctomap
+³       ³   ÃÄÄÄode
+³       ³   ÃÄÄÄoffscale-libetcd-cpp
+³       ³   ÃÄÄÄogdf
+³       ³   ÃÄÄÄogre
+³       ³   ÃÄÄÄogre-next
+³       ³   ÃÄÄÄois
+³       ³   ÃÄÄÄomniorb
+³       ³   ÃÄÄÄompl
+³       ³   ÃÄÄÄomplapp
+³       ³   ÃÄÄÄonednn
+³       ³   ÃÄÄÄoniguruma
+³       ³   ÃÄÄÄonnx
+³       ³   ÃÄÄÄonnx-optimizer
+³       ³   ÃÄÄÄonnxruntime-gpu
+³       ³   ÃÄÄÄoof
+³       ³   ÃÄÄÄopen-dis-cpp
+³       ³   ÃÄÄÄopen62541
+³       ³   ÃÄÄÄopen62541pp
+³       ³   ÃÄÄÄopenal-soft
+³       ³   ÃÄÄÄopenblas
+³       ³   ÃÄÄÄopencascade
+³       ³   ÃÄÄÄopencc
+³       ³   ÃÄÄÄopencensus-cpp
+³       ³   ÃÄÄÄopencl
+³       ³   ÃÄÄÄopencolorio
+³       ³   ÃÄÄÄopencsg
+³       ³   ÃÄÄÄopenctm
+³       ³   ÃÄÄÄopencv
+³       ³   ÃÄÄÄopencv2
+³       ³   ÃÄÄÄopencv3
+³       ³   ÃÄÄÄopencv4
+³       ³   ÃÄÄÄopendnp3
+³       ³   ³   ÀÄÄÄdeps
+³       ³   ÃÄÄÄopenexr
+³       ³   ÃÄÄÄopenfbx
+³       ³   ÃÄÄÄopenfx
+³       ³   ÃÄÄÄopengl
+³       ³   ÃÄÄÄopengl-registry
+³       ³   ÃÄÄÄopenh264
+³       ³   ÃÄÄÄopenigtlink
+³       ³   ÃÄÄÄopenimageio
+³       ³   ÃÄÄÄopenjpeg
+³       ³   ÃÄÄÄopenldap
+³       ³   ÃÄÄÄopenmama
+³       ³   ÃÄÄÄopenmesh
+³       ³   ÃÄÄÄopenmpi
+³       ³   ÃÄÄÄopenmvg
+³       ³   ÃÄÄÄopenmvs
+³       ³   ÃÄÄÄopenni2
+³       ³   ÃÄÄÄopenscap
+³       ³   ÃÄÄÄopenslide
+³       ³   ÃÄÄÄopenssl
+³       ³   ³   ÃÄÄÄunix
+³       ³   ³   ÀÄÄÄwindows
+³       ³   ÃÄÄÄopenssl-unix
+³       ³   ÃÄÄÄopenssl-uwp
+³       ³   ÃÄÄÄopenssl-windows
+³       ³   ÃÄÄÄopensubdiv
+³       ³   ÃÄÄÄopentelemetry-cpp
+³       ³   ÃÄÄÄopentelemetry-cpp-contrib-version
+³       ³   ÃÄÄÄopentracing
+³       ³   ÃÄÄÄopenturns
+³       ³   ÃÄÄÄopenvdb
+³       ³   ÃÄÄÄopenvino
+³       ³   ÃÄÄÄopenvpn3
+³       ³   ÃÄÄÄopenvr
+³       ³   ÃÄÄÄopenxr-loader
+³       ³   ÃÄÄÄoptimus-cpp
+³       ³   ÃÄÄÄoptional-bare
+³       ³   ÃÄÄÄoptional-lite
+³       ³   ÃÄÄÄopus
+³       ³   ÃÄÄÄopusfile
+³       ³   ÃÄÄÄorc
+³       ³   ÃÄÄÄorocos-kdl
+³       ³   ÃÄÄÄosg
+³       ³   ÃÄÄÄosg-qt
+³       ³   ÃÄÄÄosgearth
+³       ³   ÃÄÄÄosmanip
+³       ³   ÃÄÄÄotl
+³       ³   ÃÄÄÄoutcome
+³       ³   ÃÄÄÄp-ranav-csv
+³       ³   ÃÄÄÄp-ranav-csv2
+³       ³   ÃÄÄÄpagmo2
+³       ³   ÃÄÄÄpaho-mqtt
+³       ³   ÃÄÄÄpaho-mqttpp3
+³       ³   ÃÄÄÄpalsigslot
+³       ³   ÃÄÄÄpango
+³       ³   ÃÄÄÄpangolin
+³       ³   ÃÄÄÄpangomm
+³       ³   ÃÄÄÄparallel-hashmap
+³       ³   ÃÄÄÄparallelstl
+³       ³   ÃÄÄÄparaview
+³       ³   ÃÄÄÄparmetis
+³       ³   ÃÄÄÄparquet
+³       ³   ÃÄÄÄparsi
+³       ³   ÃÄÄÄparson
+³       ³   ÃÄÄÄpbc
+³       ³   ÃÄÄÄpcapplusplus
+³       ³   ÃÄÄÄpcg
+³       ³   ÃÄÄÄpciids
+³       ³   ÃÄÄÄpcl
+³       ³   ÃÄÄÄpcre
+³       ³   ÃÄÄÄpcre2
+³       ³   ÃÄÄÄpdal
+³       ³   ÃÄÄÄpdal-c
+³       ³   ÃÄÄÄpdcurses
+³       ³   ÃÄÄÄpdqsort
+³       ³   ÃÄÄÄpe-parse
+³       ³   ÃÄÄÄpegtl
+³       ³   ÃÄÄÄpegtl-2
+³       ³   ÃÄÄÄperfetto
+³       ³   ÃÄÄÄpffft
+³       ³   ÃÄÄÄpfring
+³       ³   ÃÄÄÄpfultz2-linq
+³       ³   ÃÄÄÄphnt
+³       ³   ÃÄÄÄphysac
+³       ³   ÃÄÄÄphysfs
+³       ³   ÃÄÄÄphysx
+³       ³   ÃÄÄÄpicojson
+³       ³   ÃÄÄÄpicosha2
+³       ³   ÃÄÄÄpiex
+³       ³   ÃÄÄÄpipewire
+³       ³   ÃÄÄÄpistache
+³       ³   ÃÄÄÄpixel
+³       ³   ÃÄÄÄpixman
+³       ³   ÃÄÄÄpkgconf
+³       ³   ÃÄÄÄplasma-wayland-protocols
+³       ³   ÃÄÄÄplatform-folders
+³       ³   ÃÄÄÄplf-colony
+³       ³   ÃÄÄÄplf-hive
+³       ³   ÃÄÄÄplf-list
+³       ³   ÃÄÄÄplf-nanotimer
+³       ³   ÃÄÄÄplf-queue
+³       ³   ÃÄÄÄplf-stack
+³       ³   ÃÄÄÄplib
+³       ³   ÃÄÄÄplibsys
+³       ³   ÃÄÄÄplog
+³       ³   ÃÄÄÄplplot
+³       ³   ÃÄÄÄplustache
+³       ³   ÃÄÄÄpmdk
+³       ³   ÃÄÄÄpmp-library
+³       ³   ÃÄÄÄpngpp
+³       ³   ÃÄÄÄpngwriter
+³       ³   ÃÄÄÄpocketfft
+³       ³   ÃÄÄÄpocketpy
+³       ³   ÃÄÄÄpoco
+³       ³   ÃÄÄÄpodofo
+³       ³   ÃÄÄÄpoissonrecon
+³       ³   ÃÄÄÄpolyclipping
+³       ³   ÃÄÄÄpolyhook2
+³       ³   ÃÄÄÄpolymorphic-value
+³       ³   ÃÄÄÄponder
+³       ³   ÃÄÄÄpoolstl
+³       ³   ÃÄÄÄpoppler
+³       ³   ÃÄÄÄpopsift
+³       ³   ÃÄÄÄportable-file-dialogs
+³       ³   ÃÄÄÄportable-snippets
+³       ³   ÃÄÄÄportaudio
+³       ³   ÃÄÄÄportmidi
+³       ³   ÃÄÄÄportsmf
+³       ³   ÃÄÄÄppconsul
+³       ³   ÃÄÄÄppmagic
+³       ³   ÃÄÄÄpprint
+³       ³   ÃÄÄÄpqp
+³       ³   ÃÄÄÄpravila00-enum-string
+³       ³   ÃÄÄÄpravila00-enumflag
+³       ³   ÃÄÄÄpravila00-make-vector
+³       ³   ÃÄÄÄpresentmon
+³       ³   ÃÄÄÄproj
+³       ³   ÃÄÄÄprojectm-eval
+³       ³   ÃÄÄÄprometheus-cpp
+³       ³   ÃÄÄÄpromise-cpp
+³       ³   ÃÄÄÄprotobuf
+³       ³   ÃÄÄÄprotobuf-c
+³       ³   ÃÄÄÄprotopuf
+³       ³   ÃÄÄÄprotozero
+³       ³   ÃÄÄÄproxsuite
+³       ³   ÃÄÄÄproxy
+³       ³   ÃÄÄÄproxygen
+³       ³   ÃÄÄÄpsimd
+³       ³   ÃÄÄÄptc-print
+³       ³   ÃÄÄÄptex
+³       ³   ÃÄÄÄpthread
+³       ³   ÃÄÄÄpthread-stubs
+³       ³   ÃÄÄÄpthreadpool
+³       ³   ÃÄÄÄpthreads
+³       ³   ÃÄÄÄptyqt
+³       ³   ÃÄÄÄpugixml
+³       ³   ÃÄÄÄpulsar-client-cpp
+³       ³   ÃÄÄÄpulseaudio
+³       ³   ÃÄÄÄpulzed-mini
+³       ³   ÃÄÄÄpybind11
+³       ³   ÃÄÄÄpystring
+³       ³   ÃÄÄÄpython2
+³       ³   ÃÄÄÄpython3
+³       ³   ÃÄÄÄqca
+³       ³   ÃÄÄÄqcoro
+³       ³   ÃÄÄÄqcustomplot
+³       ³   ÃÄÄÄqhttpengine
+³       ³   ÃÄÄÄqhull
+³       ³   ÃÄÄÄqnnpack
+³       ³   ÃÄÄÄqoi
+³       ³   ÃÄÄÄqoixx
+³       ³   ÃÄÄÄqpid-proton
+³       ³   ÃÄÄÄqscintilla
+³       ³   ÃÄÄÄqt
+³       ³   ÃÄÄÄqt-advanced-docking-system
+³       ³   ÃÄÄÄqt3d
+³       ³   ÃÄÄÄqt5
+³       ³   ÃÄÄÄqt5-3d
+³       ³   ÃÄÄÄqt5-activeqt
+³       ³   ÃÄÄÄqt5-androidextras
+³       ³   ÃÄÄÄqt5-base
+³       ³   ³   ÃÄÄÄcmake
+³       ³   ³   ÀÄÄÄpatches
+³       ³   ÃÄÄÄqt5-canvas3d
+³       ³   ÃÄÄÄqt5-charts
+³       ³   ÃÄÄÄqt5-connectivity
+³       ³   ÃÄÄÄqt5-datavis3d
+³       ³   ÃÄÄÄqt5-declarative
+³       ³   ÃÄÄÄqt5-doc
+³       ³   ÃÄÄÄqt5-gamepad
+³       ³   ÃÄÄÄqt5-graphicaleffects
+³       ³   ÃÄÄÄqt5-imageformats
+³       ³   ÃÄÄÄqt5-location
+³       ³   ÃÄÄÄqt5-macextras
+³       ³   ÃÄÄÄqt5-modularscripts
+³       ³   ÃÄÄÄqt5-mqtt
+³       ³   ÃÄÄÄqt5-multimedia
+³       ³   ÃÄÄÄqt5-networkauth
+³       ³   ³   ÀÄÄÄpatches
+³       ³   ÃÄÄÄqt5-purchasing
+³       ³   ÃÄÄÄqt5-quickcontrols
+³       ³   ÃÄÄÄqt5-quickcontrols2
+³       ³   ÃÄÄÄqt5-remoteobjects
+³       ³   ÃÄÄÄqt5-script
+³       ³   ÃÄÄÄqt5-scxml
+³       ³   ÃÄÄÄqt5-sensors
+³       ³   ÃÄÄÄqt5-serialbus
+³       ³   ÃÄÄÄqt5-serialport
+³       ³   ÃÄÄÄqt5-speech
+³       ³   ÃÄÄÄqt5-svg
+³       ³   ÃÄÄÄqt5-tools
+³       ³   ÃÄÄÄqt5-translations
+³       ³   ÃÄÄÄqt5-virtualkeyboard
+³       ³   ÃÄÄÄqt5-wayland
+³       ³   ÃÄÄÄqt5-webchannel
+³       ³   ÃÄÄÄqt5-webengine
+³       ³   ÃÄÄÄqt5-webglplugin
+³       ³   ÃÄÄÄqt5-websockets
+³       ³   ÃÄÄÄqt5-webview
+³       ³   ÃÄÄÄqt5-winextras
+³       ³   ³   ÀÄÄÄpatches
+³       ³   ÃÄÄÄqt5-x11extras
+³       ³   ÃÄÄÄqt5-xmlpatterns
+³       ³   ÃÄÄÄqt5compat
+³       ³   ÃÄÄÄqtactiveqt
+³       ³   ÃÄÄÄqtapplicationmanager
+³       ³   ÃÄÄÄqtbase
+³       ³   ³   ÀÄÄÄcmake
+³       ³   ÃÄÄÄqtcharts
+³       ³   ÃÄÄÄqtcoap
+³       ³   ÃÄÄÄqtconnectivity
+³       ³   ÃÄÄÄqtdatavis3d
+³       ³   ÃÄÄÄqtdeclarative
+³       ³   ÃÄÄÄqtdeviceutilities
+³       ³   ÃÄÄÄqtdoc
+³       ³   ÃÄÄÄqtgraphs
+³       ³   ÃÄÄÄqtgrpc
+³       ³   ÃÄÄÄqthttpserver
+³       ³   ÃÄÄÄqtimageformats
+³       ³   ÃÄÄÄqtinterfaceframework
+³       ³   ÃÄÄÄqtkeychain
+³       ³   ÃÄÄÄqtkeychain-qt6
+³       ³   ÃÄÄÄqtlanguageserver
+³       ³   ÃÄÄÄqtlocation
+³       ³   ÃÄÄÄqtlottie
+³       ³   ÃÄÄÄqtmqtt
+³       ³   ÃÄÄÄqtmultimedia
+³       ³   ÃÄÄÄqtnetworkauth
+³       ³   ÃÄÄÄqtopcua
+³       ³   ÃÄÄÄqtpositioning
+³       ³   ÃÄÄÄqtquick3d
+³       ³   ÃÄÄÄqtquick3dphysics
+³       ³   ÃÄÄÄqtquickcontrols2
+³       ³   ÃÄÄÄqtquickeffectmaker
+³       ³   ÃÄÄÄqtquicktimeline
+³       ³   ÃÄÄÄqtremoteobjects
+³       ³   ÃÄÄÄqtscxml
+³       ³   ÃÄÄÄqtsensors
+³       ³   ÃÄÄÄqtserialbus
+³       ³   ÃÄÄÄqtserialport
+³       ³   ÃÄÄÄqtshadertools
+³       ³   ÃÄÄÄqtspeech
+³       ³   ÃÄÄÄqtsvg
+³       ³   ÃÄÄÄqttools
+³       ³   ÃÄÄÄqttranslations
+³       ³   ÃÄÄÄqtvirtualkeyboard
+³       ³   ÃÄÄÄqtwayland
+³       ³   ÃÄÄÄqtwebchannel
+³       ³   ÃÄÄÄqtwebengine
+³       ³   ÃÄÄÄqtwebsockets
+³       ³   ÃÄÄÄqtwebview
+³       ³   ÃÄÄÄquadtree
+³       ³   ÃÄÄÄquantlib
+³       ³   ÃÄÄÄquaternions
+³       ³   ÃÄÄÄquazip
+³       ³   ÃÄÄÄquickfast
+³       ³   ÃÄÄÄquickfix
+³       ³   ÃÄÄÄquill
+³       ³   ÃÄÄÄquirc
+³       ³   ÃÄÄÄqwt
+³       ³   ÃÄÄÄqwtw
+³       ³   ÃÄÄÄrabit
+³       ³   ÃÄÄÄragel
+³       ³   ÃÄÄÄrandom123
+³       ³   ÃÄÄÄrandomstr
+³       ³   ÃÄÄÄrang
+³       ³   ÃÄÄÄrange-v3
+³       ³   ÃÄÄÄrange-v3-vs2015
+³       ³   ÃÄÄÄrapidcheck
+³       ³   ÃÄÄÄrapidcsv
+³       ³   ÃÄÄÄrapidfuzz
+³       ³   ÃÄÄÄrapidhash
+³       ³   ÃÄÄÄrapidjson
+³       ³   ÃÄÄÄrapidxml
+³       ³   ÃÄÄÄrapidxml-ns
+³       ³   ÃÄÄÄrappture
+³       ³   ÃÄÄÄraygui
+³       ³   ÃÄÄÄraylib
+³       ³   ÃÄÄÄrbdl
+³       ³   ÃÄÄÄrbdl-orb
+³       ³   ÃÄÄÄre2
+³       ³   ÃÄÄÄreactiveplusplus
+³       ³   ÃÄÄÄreaderwriterqueue
+³       ³   ÃÄÄÄreadline
+³       ³   ÃÄÄÄreadline-osx
+³       ³   ÃÄÄÄreadline-unix
+³       ³   ÃÄÄÄreadline-win32
+³       ³   ÃÄÄÄreadosm
+³       ³   ÃÄÄÄrealm-core
+³       ³   ÃÄÄÄrealsense2
+³       ³   ÃÄÄÄrecast
+³       ³   ÃÄÄÄrecastnavigation
+³       ³   ÃÄÄÄrecycle
+³       ³   ÃÄÄÄredis-plus-plus
+³       ³   ÃÄÄÄrefl-cpp
+³       ³   ÃÄÄÄrefprop-headers
+³       ³   ÃÄÄÄrendergraph
+³       ³   ÃÄÄÄreplxx
+³       ³   ÃÄÄÄreproc
+³       ³   ÃÄÄÄrest-rpc
+³       ³   ÃÄÄÄrestbed
+³       ³   ÃÄÄÄrestc-cpp
+³       ³   ÃÄÄÄrestclient-cpp
+³       ³   ÃÄÄÄrestinio
+³       ³   ÃÄÄÄrexo
+³       ³   ÃÄÄÄrhash
+³       ³   ÃÄÄÄrhasheq
+³       ³   ÃÄÄÄriffcpp
+³       ³   ÃÄÄÄring-span-lite
+³       ³   ÃÄÄÄrioki-glow
+³       ³   ÃÄÄÄrivers
+³       ³   ÃÄÄÄrkcommon
+³       ³   ÃÄÄÄrmlui
+³       ³   ÃÄÄÄrmqcpp
+³       ³   ÃÄÄÄroaring
+³       ³   ÃÄÄÄrobin-hood-hashing
+³       ³   ÃÄÄÄrobin-map
+³       ³   ÃÄÄÄrobotraconteur
+³       ³   ÃÄÄÄrobotraconteur-companion
+³       ³   ÃÄÄÄrocksdb
+³       ³   ÃÄÄÄrpclib
+³       ³   ÃÄÄÄrply
+³       ³   ÃÄÄÄrsasynccpp
+³       ³   ÃÄÄÄrsig
+³       ³   ÃÄÄÄrsm-binary-io
+³       ³   ÃÄÄÄrsm-bsa
+³       ³   ÃÄÄÄrsm-mmio
+³       ³   ÃÄÄÄrsocket
+³       ³   ÃÄÄÄrtabmap
+³       ³   ÃÄÄÄrtabmap-res-tool
+³       ³   ÃÄÄÄrtaudio
+³       ³   ÃÄÄÄrtlsdr
+³       ³   ÃÄÄÄrtmfp-cpp
+³       ³   ÃÄÄÄrtmidi
+³       ³   ÃÄÄÄrttr
+³       ³   ÃÄÄÄrubberband
+³       ³   ÃÄÄÄrxcpp
+³       ³   ÃÄÄÄrxqt
+³       ³   ÃÄÄÄrxspencer
+³       ³   ÃÄÄÄryml
+³       ³   ÃÄÄÄryu
+³       ³   ÃÄÄÄs2geometry
+³       ³   ÃÄÄÄs2n
+³       ³   ÃÄÄÄsafeint
+³       ³   ÃÄÄÄsail
+³       ³   ÃÄÄÄsajson
+³       ³   ÃÄÄÄsalome-configuration
+³       ³   ÃÄÄÄsalome-med-fichier
+³       ³   ÃÄÄÄsalome-medcoupling
+³       ³   ÃÄÄÄsassc
+³       ³   ÃÄÄÄsaucer
+³       ³   ÃÄÄÄsbp
+³       ³   ÃÄÄÄscenepic
+³       ³   ÃÄÄÄscintilla
+³       ³   ÃÄÄÄsciplot
+³       ³   ÃÄÄÄsciter
+³       ³   ÃÄÄÄsciter-js
+³       ³   ÃÄÄÄscnlib
+³       ³   ÃÄÄÄscope-guard
+³       ³   ÃÄÄÄscotch
+³       ³   ÃÄÄÄscottt-debugbreak
+³       ³   ÃÄÄÄscylla-wrapper
+³       ³   ÃÄÄÄsdbus-cpp
+³       ³   ÃÄÄÄsdformat10
+³       ³   ÃÄÄÄsdformat13
+³       ³   ÃÄÄÄsdformat6
+³       ³   ÃÄÄÄsdformat9
+³       ³   ÃÄÄÄsdl1
+³       ³   ÃÄÄÄsdl1-mixer
+³       ³   ÃÄÄÄsdl1-net
+³       ³   ÃÄÄÄsdl2
+³       ³   ÃÄÄÄsdl2-gfx
+³       ³   ÃÄÄÄsdl2-image
+³       ³   ÃÄÄÄsdl2-mixer
+³       ³   ÃÄÄÄsdl2-mixer-ext
+³       ³   ÃÄÄÄsdl2-net
+³       ³   ÃÄÄÄsdl2-ttf
+³       ³   ÃÄÄÄsdl2pp
+³       ³   ÃÄÄÄseacas
+³       ³   ÃÄÄÄseal
+³       ³   ÃÄÄÄseasocks
+³       ³   ÃÄÄÄsecp256k1
+³       ³   ÃÄÄÄselene
+³       ³   ÃÄÄÄsentencepiece
+³       ³   ÃÄÄÄsentry-native
+³       ³   ÃÄÄÄseptag-dmon
+³       ³   ÃÄÄÄseptag-sx
+³       ³   ÃÄÄÄseqan
+³       ³   ÃÄÄÄserd
+³       ³   ÃÄÄÄserdepp
+³       ³   ÃÄÄÄsese
+³       ³   ÃÄÄÄsf2cute
+³       ³   ÃÄÄÄsfgui
+³       ³   ÃÄÄÄsfml
+³       ³   ÃÄÄÄsfsexp
+³       ³   ÃÄÄÄshader-slang
+³       ³   ÃÄÄÄshaderc
+³       ³   ÃÄÄÄshaderwriter
+³       ³   ÃÄÄÄshapelib
+³       ³   ÃÄÄÄshiftmedia-libgcrypt
+³       ³   ÃÄÄÄshiftmedia-libgnutls
+³       ³   ÃÄÄÄshiftmedia-libgpg-error
+³       ³   ÃÄÄÄshiva
+³       ³   ÃÄÄÄshogun
+³       ³   ÃÄÄÄsi
+³       ³   ÃÄÄÄsigmatch
+³       ³   ÃÄÄÄsignalrclient
+³       ³   ÃÄÄÄsigslot
+³       ³   ÃÄÄÄsimage
+³       ³   ÃÄÄÄsimbody
+³       ³   ÃÄÄÄsimd
+³       ³   ÃÄÄÄsimde
+³       ³   ÃÄÄÄsimdjson
+³       ³   ÃÄÄÄsimdutf
+³       ³   ÃÄÄÄsimonbrunel-qtpromise
+³       ³   ³   ÀÄÄÄpatches
+³       ³   ÃÄÄÄsimple-fft
+³       ³   ÃÄÄÄsimpleble
+³       ³   ÃÄÄÄsimpleini
+³       ³   ÃÄÄÄsimsimd
+³       ³   ÃÄÄÄsjpeg
+³       ³   ÃÄÄÄskcrypter
+³       ³   ÃÄÄÄskia
+³       ³   ³   ÀÄÄÄexample
+³       ³   ÃÄÄÄskyr-url
+³       ³   ÃÄÄÄsleef
+³       ³   ÃÄÄÄsleepy-discord
+³       ³   ÃÄÄÄslikenet
+³       ³   ÃÄÄÄsltbench
+³       ³   ÃÄÄÄsmall-gicp
+³       ³   ÃÄÄÄsmf
+³       ³   ÃÄÄÄsmpeg2
+³       ³   ÃÄÄÄsnap7
+³       ³   ÃÄÄÄsnappy
+³       ³   ÃÄÄÄsndfile
+³       ³   ÃÄÄÄsnitch
+³       ³   ÃÄÄÄsnowhouse
+³       ³   ÃÄÄÄso5extra
+³       ³   ÃÄÄÄsoapysdr
+³       ³   ÃÄÄÄsobjectizer
+³       ³   ÃÄÄÄsoci
+³       ³   ÃÄÄÄsocket-io-client
+³       ³   ÃÄÄÄsockpp
+³       ³   ÃÄÄÄsoem
+³       ³   ÃÄÄÄsoil
+³       ³   ÃÄÄÄsoil2
+³       ³   ÃÄÄÄsokol
+³       ³   ÃÄÄÄsol2
+³       ³   ÃÄÄÄsolid3
+³       ³   ÃÄÄÄsophus
+³       ³   ÃÄÄÄsoqt
+³       ³   ÃÄÄÄsord
+³       ³   ÃÄÄÄsoundtouch
+³       ³   ÃÄÄÄsoxr
+³       ³   ÃÄÄÄspaceland
+³       ³   ÃÄÄÄspan-lite
+³       ³   ÃÄÄÄsparsehash
+³       ³   ÃÄÄÄsparsepp
+³       ³   ÃÄÄÄspatialite-tools
+³       ³   ÃÄÄÄspdk
+³       ³   ÃÄÄÄspdk-dpdk
+³       ³   ÃÄÄÄspdk-ipsec
+³       ³   ÃÄÄÄspdk-isal
+³       ³   ÃÄÄÄspdlog
+³       ³   ÃÄÄÄspectra
+³       ³   ÃÄÄÄspeex
+³       ³   ÃÄÄÄspeexdsp
+³       ³   ÃÄÄÄspglib
+³       ³   ÃÄÄÄspine-runtimes
+³       ³   ÃÄÄÄspirit-po
+³       ³   ÃÄÄÄspirv-cross
+³       ³   ÃÄÄÄspirv-headers
+³       ³   ÃÄÄÄspirv-reflect
+³       ³   ÃÄÄÄspirv-tools
+³       ³   ÃÄÄÄspout2
+³       ³   ÃÄÄÄsprout
+³       ³   ÃÄÄÄspscqueue
+³       ³   ÃÄÄÄsqlcipher
+³       ³   ÃÄÄÄsqlite-modern-cpp
+³       ³   ÃÄÄÄsqlite-orm
+³       ³   ÃÄÄÄsqlite3
+³       ³   ÃÄÄÄsqlitecpp
+³       ³   ÃÄÄÄsqlpp11
+³       ³   ÃÄÄÄsqlpp11-connector-mysql
+³       ³   ÃÄÄÄsqlpp11-connector-sqlite3
+³       ³   ÃÄÄÄsquirrel
+³       ³   ÃÄÄÄsratom
+³       ³   ÃÄÄÄsrell
+³       ³   ÃÄÄÄsrpc
+³       ³   ÃÄÄÄsse2neon
+³       ³   ÃÄÄÄstackwalker
+³       ³   ÃÄÄÄstarlink-ast
+³       ³   ÃÄÄÄstaticjson
+³       ³   ÃÄÄÄstatus-code
+³       ³   ÃÄÄÄstatus-value-lite
+³       ³   ÃÄÄÄstb
+³       ³   ÃÄÄÄstdexec
+³       ³   ÃÄÄÄstduuid
+³       ³   ÃÄÄÄstftpitchshift
+³       ³   ÃÄÄÄstlab
+³       ³   ÃÄÄÄstormlib
+³       ³   ÃÄÄÄstr-view
+³       ³   ÃÄÄÄstrict-variant
+³       ³   ÃÄÄÄstring-theory
+³       ³   ÃÄÄÄstring-view-lite
+³       ³   ÃÄÄÄstringzilla
+³       ³   ÃÄÄÄstrong-type
+³       ³   ÃÄÄÄstronk
+³       ³   ÃÄÄÄstrtk
+³       ³   ÃÄÄÄstx
+³       ³   ÃÄÄÄstxxl
+³       ³   ÃÄÄÄsuitesparse
+³       ³   ÃÄÄÄsundials
+³       ³   ÃÄÄÄsuperlu
+³       ³   ÃÄÄÄswenson-sort
+³       ³   ÃÄÄÄsymengine
+³       ³   ÃÄÄÄsystemc
+³       ³   ÃÄÄÄszip
+³       ³   ÃÄÄÄtabulate
+³       ³   ÃÄÄÄtacopie
+³       ³   ÃÄÄÄtaglib
+³       ³   ÃÄÄÄtalib
+³       ³   ÃÄÄÄtaocpp-json
+³       ³   ÃÄÄÄtap-windows6
+³       ³   ÃÄÄÄtask-thread-pool
+³       ³   ÃÄÄÄtaskflow
+³       ³   ÃÄÄÄtbb
+³       ³   ÃÄÄÄtcb-span
+³       ³   ÃÄÄÄtcl
+³       ³   ÃÄÄÄtclap
+³       ³   ÃÄÄÄtcp-pubsub
+³       ³   ÃÄÄÄtdscpp
+³       ³   ÃÄÄÄtelnetpp
+³       ³   ÃÄÄÄtensorflow
+³       ³   ÃÄÄÄtensorflow-cc
+³       ³   ÃÄÄÄtensorflow-common
+³       ³   ÃÄÄÄtensorpipe
+³       ³   ÃÄÄÄtermcolor
+³       ³   ÃÄÄÄtesseract
+³       ³   ÃÄÄÄtevclient
+³       ³   ÃÄÄÄtfhe
+³       ³   ÃÄÄÄtgbot-cpp
+³       ³   ÃÄÄÄtgc
+³       ³   ÃÄÄÄtgui
+³       ³   ÃÄÄÄtheia
+³       ³   ÃÄÄÄthink-cell-range
+³       ³   ÃÄÄÄthomasmonkman-filewatch
+³       ³   ÃÄÄÄthor
+³       ³   ÃÄÄÄthorvg
+³       ³   ÃÄÄÄthreadpool
+³       ³   ÃÄÄÄthrift
+³       ³   ÃÄÄÄtidy-html5
+³       ³   ÃÄÄÄtiff
+³       ³   ÃÄÄÄtinkerforge
+³       ³   ÃÄÄÄtiny-aes-c
+³       ³   ÃÄÄÄtiny-bignum-c
+³       ³   ÃÄÄÄtiny-dnn
+³       ³   ÃÄÄÄtiny-process-library
+³       ³   ÃÄÄÄtiny-regex-c
+³       ³   ÃÄÄÄtinycbor
+³       ³   ÃÄÄÄtinycthread
+³       ³   ÃÄÄÄtinydir
+³       ³   ÃÄÄÄtinyexif
+³       ³   ÃÄÄÄtinyexpr
+³       ³   ÃÄÄÄtinyexr
+³       ³   ÃÄÄÄtinyfiledialogs
+³       ³   ÃÄÄÄtinyfsm
+³       ³   ÃÄÄÄtinygltf
+³       ³   ÃÄÄÄtinynpy
+³       ³   ÃÄÄÄtinyobjloader
+³       ³   ÃÄÄÄtinyorm
+³       ³   ÃÄÄÄtinyply
+³       ³   ÃÄÄÄtinyspline
+³       ³   ÃÄÄÄtinythread
+³       ³   ÃÄÄÄtinytiff
+³       ³   ÃÄÄÄtinytoml
+³       ³   ÃÄÄÄtinyutf8
+³       ³   ÃÄÄÄtinyxml
+³       ³   ÃÄÄÄtinyxml2
+³       ³   ÃÄÄÄtl-expected
+³       ³   ÃÄÄÄtl-function-ref
+³       ³   ÃÄÄÄtl-generator
+³       ³   ÃÄÄÄtl-optional
+³       ³   ÃÄÄÄtl-ranges
+³       ³   ÃÄÄÄtlx
+³       ³   ÃÄÄÄtmx
+³       ³   ÃÄÄÄtmxlite
+³       ³   ÃÄÄÄtmxparser
+³       ³   ÃÄÄÄtoml11
+³       ³   ÃÄÄÄtomlplusplus
+³       ³   ÃÄÄÄtorch-th
+³       ³   ÃÄÄÄtracy
+³       ³   ÃÄÄÄtranswarp
+³       ³   ÃÄÄÄtrantor
+³       ³   ÃÄÄÄtre
+³       ³   ÃÄÄÄtree-similarity
+³       ³   ÃÄÄÄtree-sitter
+³       ³   ÃÄÄÄtreehh
+³       ³   ÃÄÄÄtreehopper
+³       ³   ÃÄÄÄtriangle
+³       ³   ÃÄÄÄtriton
+³       ³   ÃÄÄÄtrompeloeil
+³       ³   ÃÄÄÄtry-catcher
+³       ³   ÃÄÄÄtsl-hopscotch-map
+³       ³   ÃÄÄÄtsl-ordered-map
+³       ³   ÃÄÄÄtsl-sparse-map
+³       ³   ÃÄÄÄttauri
+³       ³   ÃÄÄÄtuplet
+³       ³   ÃÄÄÄturbobase64
+³       ³   ÃÄÄÄtvision
+³       ³   ÃÄÄÄtweeny
+³       ³   ÃÄÄÄtype-lite
+³       ³   ÃÄÄÄtype-safe
+³       ³   ÃÄÄÄuchardet
+³       ³   ÃÄÄÄudt
+³       ³   ÃÄÄÄumock-c
+³       ³   ÃÄÄÄuni-algo
+³       ³   ÃÄÄÄunicorn
+³       ³   ÃÄÄÄunicorn-lib
+³       ³   ÃÄÄÄunits
+³       ³   ÃÄÄÄunittest-cpp
+³       ³   ÃÄÄÄunixodbc
+³       ³   ÃÄÄÄunordered-dense
+³       ³   ÃÄÄÄunqlite
+³       ³   ÃÄÄÄunrar
+³       ³   ÃÄÄÄupb
+³       ³   ÃÄÄÄurdfdom
+³       ³   ÃÄÄÄurdfdom-headers
+³       ³   ÃÄÄÄurho3d
+³       ³   ÃÄÄÄuriparser
+³       ³   ÃÄÄÄusbmuxd
+³       ³   ÃÄÄÄusd
+³       ³   ÃÄÄÄusearch
+³       ³   ÃÄÄÄusockets
+³       ³   ÃÄÄÄusrsctp
+³       ³   ÃÄÄÄutf8-range
+³       ³   ÃÄÄÄutf8h
+³       ³   ÃÄÄÄutf8proc
+³       ³   ÃÄÄÄutfcpp
+³       ³   ÃÄÄÄutfz
+³       ³   ÃÄÄÄuthash
+³       ³   ÃÄÄÄuthenticode
+³       ³   ÃÄÄÄuvatlas
+³       ³   ÃÄÄÄuvw
+³       ³   ÃÄÄÄuwebsockets
+³       ³   ÃÄÄÄv-hacd
+³       ³   ÃÄÄÄv8
+³       ³   ÃÄÄÄvalijson
+³       ³   ÃÄÄÄvalue-ptr-lite
+³       ³   ÃÄÄÄvamp-sdk
+³       ³   ÃÄÄÄvariant-lite
+³       ³   ÃÄÄÄvc
+³       ³   ÃÄÄÄvcglib
+³       ³   ÃÄÄÄvcpkg-boost
+³       ³   ÃÄÄÄvcpkg-cmake
+³       ³   ÃÄÄÄvcpkg-cmake-config
+³       ³   ÃÄÄÄvcpkg-cmake-get-vars
+³       ³   ³   ÀÄÄÄcmake_get_vars
+³       ³   ÃÄÄÄvcpkg-get-python
+³       ³   ÃÄÄÄvcpkg-get-python-packages
+³       ³   ÃÄÄÄvcpkg-gfortran
+³       ³   ÃÄÄÄvcpkg-gn
+³       ³   ÃÄÄÄvcpkg-msbuild
+³       ³   ÃÄÄÄvcpkg-pkgconfig-get-modules
+³       ³   ÃÄÄÄvcpkg-qmake
+³       ³   ÃÄÄÄvcpkg-tool-bazel
+³       ³   ÃÄÄÄvcpkg-tool-gn
+³       ³   ÃÄÄÄvcpkg-tool-gyp-next
+³       ³   ÃÄÄÄvcpkg-tool-lessmsi
+³       ³   ÃÄÄÄvcpkg-tool-meson
+³       ³   ÃÄÄÄvcpkg-tool-mozbuild
+³       ³   ÃÄÄÄvcpkg-tool-ninja
+³       ³   ÃÄÄÄvcpkg-tool-nodejs
+³       ³   ÃÄÄÄvcpkg-tool-python2
+³       ³   ÃÄÄÄvectorclass
+³       ³   ÃÄÄÄveigar
+³       ³   ÃÄÄÄvelodyne-decoder
+³       ³   ÃÄÄÄverdict
+³       ³   ÃÄÄÄvia-httplib
+³       ³   ÃÄÄÄvili
+³       ³   ÃÄÄÄvincentlaucsb-csv-parser
+³       ³   ÃÄÄÄvisit-struct
+³       ³   ÃÄÄÄvit-vit-ctpl
+³       ³   ÃÄÄÄvk-bootstrap
+³       ³   ÃÄÄÄvkfft
+³       ³   ÃÄÄÄvladimirshaleev-ipaddress
+³       ³   ÃÄÄÄvlfeat
+³       ³   ÃÄÄÄvlpp
+³       ³   ÃÄÄÄvolk
+³       ³   ÃÄÄÄvowpal-wabbit
+³       ³   ÃÄÄÄvs-yasm
+³       ³   ÃÄÄÄvsg
+³       ³   ÃÄÄÄvsgimgui
+³       ³   ÃÄÄÄvsgxchange
+³       ³   ÃÄÄÄvtk
+³       ³   ÃÄÄÄvtk-dicom
+³       ³   ÃÄÄÄvtk-m
+³       ³   ÃÄÄÄvulkan
+³       ³   ÃÄÄÄvulkan-headers
+³       ³   ÃÄÄÄvulkan-hpp
+³       ³   ÃÄÄÄvulkan-loader
+³       ³   ÃÄÄÄvulkan-memory-allocator
+³       ³   ÃÄÄÄvulkan-memory-allocator-hpp
+³       ³   ÃÄÄÄvulkan-sdk-components
+³       ³   ÃÄÄÄvulkan-tools
+³       ³   ÃÄÄÄvulkan-utility-libraries
+³       ³   ÃÄÄÄvulkan-validationlayers
+³       ³   ÃÄÄÄvvenc
+³       ³   ÃÄÄÄvxl
+³       ³   ÃÄÄÄwabt
+³       ³   ÃÄÄÄwampcc
+³       ³   ÃÄÄÄwangle
+³       ³   ÃÄÄÄwasmedge
+³       ³   ÃÄÄÄwavelib
+³       ³   ÃÄÄÄwavpack
+³       ³   ÃÄÄÄwayland
+³       ³   ÃÄÄÄwayland-protocols
+³       ³   ÃÄÄÄwcslib
+³       ³   ÃÄÄÄwebsocketpp
+³       ³   ÃÄÄÄwebview2
+³       ³   ÃÄÄÄwepoll
+³       ³   ÃÄÄÄwg21-linear-algebra
+³       ³   ÃÄÄÄwg21-sg14
+³       ³   ÃÄÄÄwil
+³       ³   ÃÄÄÄwildmidi
+³       ³   ÃÄÄÄwincrypt
+³       ³   ÃÄÄÄwinlamb
+³       ³   ÃÄÄÄwinpcap
+³       ³   ÃÄÄÄwinpty
+³       ³   ÃÄÄÄwinreg
+³       ³   ÃÄÄÄwinsock2
+³       ³   ÃÄÄÄwinsparkle
+³       ³   ÃÄÄÄwintoast
+³       ³   ÃÄÄÄwmipp
+³       ³   ÃÄÄÄwoff2
+³       ³   ÃÄÄÄwolfmqtt
+³       ³   ÃÄÄÄwolfssl
+³       ³   ÃÄÄÄwolftpm
+³       ³   ÃÄÄÄwordnet
+³       ³   ÃÄÄÄworkflow
+³       ³   ÃÄÄÄwpilib
+³       ³   ÃÄÄÄwren
+³       ³   ÃÄÄÄwt
+³       ³   ÃÄÄÄwtl
+³       ³   ÃÄÄÄwxchartdir
+³       ³   ÃÄÄÄwxcharts
+³       ³   ÃÄÄÄwxwidgets
+³       ³   ³   ÀÄÄÄexample
+³       ³   ÃÄÄÄwyhash
+³       ³   ÃÄÄÄx-plane
+³       ³   ÃÄÄÄx264
+³       ³   ÃÄÄÄx265
+³       ³   ÃÄÄÄx86-simd-sort
+³       ³   ÃÄÄÄxapian
+³       ³   ÃÄÄÄxaudio2redist
+³       ³   ÃÄÄÄxbitmaps
+³       ³   ÃÄÄÄxbyak
+³       ³   ÃÄÄÄxcb
+³       ³   ÃÄÄÄxcb-image
+³       ³   ÃÄÄÄxcb-keysyms
+³       ³   ÃÄÄÄxcb-proto
+³       ³   ÃÄÄÄxcb-render-util
+³       ³   ÃÄÄÄxcb-util
+³       ³   ÃÄÄÄxcb-util-errors
+³       ³   ÃÄÄÄxcb-util-m4
+³       ³   ÃÄÄÄxcb-util-wm
+³       ³   ÃÄÄÄxerces-c
+³       ³   ÃÄÄÄxeus
+³       ³   ÃÄÄÄxframe
+³       ³   ÃÄÄÄxlnt
+³       ³   ÃÄÄÄxlsxio
+³       ³   ÃÄÄÄxmlsec
+³       ³   ÃÄÄÄxnnpack
+³       ³   ÃÄÄÄxorg-macros
+³       ³   ÃÄÄÄxorstr
+³       ³   ÃÄÄÄxpack
+³       ³   ÃÄÄÄxproperty
+³       ³   ÃÄÄÄxproto
+³       ³   ÃÄÄÄxqilla
+³       ³   ÃÄÄÄxsimd
+³       ³   ÃÄÄÄxtensor
+³       ³   ÃÄÄÄxtensor-blas
+³       ³   ÃÄÄÄxtensor-fftw
+³       ³   ÃÄÄÄxtensor-io
+³       ³   ÃÄÄÄxtl
+³       ³   ÃÄÄÄxtrans
+³       ³   ÃÄÄÄxxhash
+³       ³   ÃÄÄÄyajl
+³       ³   ÃÄÄÄyaml-cpp
+³       ³   ÃÄÄÄyara
+³       ³   ÃÄÄÄyas
+³       ³   ÃÄÄÄyasm
+³       ³   ÃÄÄÄyasm-tool
+³       ³   ÃÄÄÄyasm-tool-helper
+³       ³   ÃÄÄÄyato
+³       ³   ÃÄÄÄyoga
+³       ³   ÃÄÄÄyomm2
+³       ³   ÃÄÄÄyyjson
+³       ³   ÃÄÄÄz3
+³       ³   ÃÄÄÄz4kn4fein-semver
+³       ³   ÃÄÄÄz85
+³       ³   ÃÄÄÄzeroc-ice
+³       ³   ÃÄÄÄzeromq
+³       ³   ÃÄÄÄzfp
+³       ³   ÃÄÄÄzimpl
+³       ³   ÃÄÄÄzint
+³       ³   ÃÄÄÄzkpp
+³       ³   ÃÄÄÄzlib
+³       ³   ÃÄÄÄzlib-ng
+³       ³   ÃÄÄÄzlmediakit
+³       ³   ÃÄÄÄzoe
+³       ³   ÃÄÄÄzookeeper
+³       ³   ÃÄÄÄzopfli
+³       ³   ÃÄÄÄzpp-bits
+³       ³   ÃÄÄÄzserge-webview
+³       ³   ÃÄÄÄzstd
+³       ³   ÃÄÄÄzstr
+³       ³   ÃÄÄÄztd-cuneicode
+³       ³   ÃÄÄÄztd-encoding-tables
+³       ³   ÃÄÄÄztd-idk
+³       ³   ÃÄÄÄztd-platform
+³       ³   ÃÄÄÄztd-static-containers
+³       ³   ÃÄÄÄztd-text
+³       ³   ÃÄÄÄzug
+³       ³   ÃÄÄÄzycore
+³       ³   ÃÄÄÄzydis
+³       ³   ÃÄÄÄzyre
+³       ³   ÀÄÄÄzziplib
+³       ÃÄÄÄscripts
+³       ³   ÃÄÄÄangle
+³       ³   ÃÄÄÄazure-pipelines
+³       ³   ³   ÃÄÄÄandroid
+³       ³   ³   ÃÄÄÄlinux
+³       ³   ³   ÃÄÄÄosx
+³       ³   ³   ÃÄÄÄwindows
+³       ³   ³   ÀÄÄÄwindows-unstable
+³       ³   ÃÄÄÄboost
+³       ³   ³   ÀÄÄÄpost-build-stubs
+³       ³   ÃÄÄÄbuildsystems
+³       ³   ³   ÃÄÄÄmake_wrapper
+³       ³   ³   ÃÄÄÄmeson
+³       ³   ³   ÃÄÄÄmsbuild
+³       ³   ³   ÀÄÄÄosx
+³       ³   ÃÄÄÄcmake
+³       ³   ÃÄÄÄdetect_compiler
+³       ³   ÃÄÄÄget_cmake_vars
+³       ³   ÃÄÄÄifw
+³       ³   ÃÄÄÄposh-vcpkg
+³       ³   ³   ÀÄÄÄ0.0.1
+³       ³   ÃÄÄÄtemplates
+³       ³   ÃÄÄÄtest_ports
+³       ³   ³   ÃÄÄÄblas-test
+³       ³   ³   ÃÄÄÄcblas-test
+³       ³   ³   ÃÄÄÄcmake
+³       ³   ³   ÃÄÄÄcmake-user
+³       ³   ³   ³   ÀÄÄÄproject
+³       ³   ³   ÃÄÄÄlapack-test
+³       ³   ³   ÃÄÄÄllfio-run-tests
+³       ³   ³   ÃÄÄÄoutcome-run-tests
+³       ³   ³   ÃÄÄÄrpath-test
+³       ³   ³   ÃÄÄÄrpath-test-binaries
+³       ³   ³   ³   ÀÄÄÄproject
+³       ³   ³   ÃÄÄÄtry-compile
+³       ³   ³   ³   ÀÄÄÄtry
+³       ³   ³   ÃÄÄÄunit-test-cmake
+³       ³   ³   ÃÄÄÄvcpkg-acquire-msys-test
+³       ³   ³   ÃÄÄÄvcpkg-ci-ankurvdev-embedresource
+³       ³   ³   ³   ÀÄÄÄproject
+³       ³   ³   ÃÄÄÄvcpkg-ci-arrow
+³       ³   ³   ÃÄÄÄvcpkg-ci-boost
+³       ³   ³   ÃÄÄÄvcpkg-ci-crashpad
+³       ³   ³   ³   ÀÄÄÄproject
+³       ³   ³   ÃÄÄÄvcpkg-ci-curl
+³       ³   ³   ÃÄÄÄvcpkg-ci-ffmpeg
+³       ³   ³   ÃÄÄÄvcpkg-ci-freerdp
+³       ³   ³   ÃÄÄÄvcpkg-ci-gdal
+³       ³   ³   ÃÄÄÄvcpkg-ci-imgui
+³       ³   ³   ÃÄÄÄvcpkg-ci-libdatachannel
+³       ³   ³   ÃÄÄÄvcpkg-ci-libgit2
+³       ³   ³   ÃÄÄÄvcpkg-ci-llvm
+³       ³   ³   ÃÄÄÄvcpkg-ci-mathgl
+³       ³   ³   ÃÄÄÄvcpkg-ci-mimalloc
+³       ³   ³   ÃÄÄÄvcpkg-ci-mongo-cxx-driver
+³       ³   ³   ÃÄÄÄvcpkg-ci-msys2
+³       ³   ³   ÃÄÄÄvcpkg-ci-nanobind
+³       ³   ³   ÃÄÄÄvcpkg-ci-netgen
+³       ³   ³   ÃÄÄÄvcpkg-ci-opencv
+³       ³   ³   ÃÄÄÄvcpkg-ci-openimageio
+³       ³   ³   ³   ÀÄÄÄproject
+³       ³   ³   ÃÄÄÄvcpkg-ci-paraview
+³       ³   ³   ÃÄÄÄvcpkg-ci-skia
+³       ³   ³   ÃÄÄÄvcpkg-ci-soci
+³       ³   ³   ³   ÀÄÄÄproject
+³       ³   ³   ÃÄÄÄvcpkg-ci-wxwidgets
+³       ³   ³   ÃÄÄÄvcpkg-find-acquire-program
+³       ³   ³   ÃÄÄÄvcpkg-fix-rpath
+³       ³   ³   ÃÄÄÄvcpkg-fixup-macho-rpath
+³       ³   ³   ÀÄÄÄvcpkg-from-git-test
+³       ³   ÀÄÄÄtoolchains
+³       ÃÄÄÄtoolsrc
+³       ÃÄÄÄtriplets
+³       ³   ÀÄÄÄcommunity
+³       ÀÄÄÄversions
+³           ÃÄÄÄ3-
+³           ÃÄÄÄ7-
+³           ÃÄÄÄa-
+³           ÃÄÄÄb-
+³           ÃÄÄÄc-
+³           ÃÄÄÄd-
+³           ÃÄÄÄe-
+³           ÃÄÄÄf-
+³           ÃÄÄÄg-
+³           ÃÄÄÄh-
+³           ÃÄÄÄi-
+³           ÃÄÄÄj-
+³           ÃÄÄÄk-
+³           ÃÄÄÄl-
+³           ÃÄÄÄm-
+³           ÃÄÄÄn-
+³           ÃÄÄÄo-
+³           ÃÄÄÄp-
+³           ÃÄÄÄq-
+³           ÃÄÄÄr-
+³           ÃÄÄÄs-
+³           ÃÄÄÄt-
+³           ÃÄÄÄu-
+³           ÃÄÄÄv-
+³           ÃÄÄÄw-
+³           ÃÄÄÄx-
+³           ÃÄÄÄy-
+³           ÀÄÄÄz-
+ÃÄÄÄandroid
+³   ÃÄÄÄgradle
+³   ³   ÀÄÄÄwrapper
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable
+³       ÃÄÄÄmipmap-anydpi-v26
+³       ÃÄÄÄmipmap-hdpi
+³       ÃÄÄÄmipmap-mdpi
+³       ÃÄÄÄmipmap-xhdpi
+³       ÃÄÄÄmipmap-xxhdpi
+³       ÃÄÄÄmipmap-xxxhdpi
+³       ÃÄÄÄvalues
+³       ÀÄÄÄxml
+ÃÄÄÄbuild
+³   ÃÄÄÄ.qt
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄdeploy_qml_imports
+³   ÃÄÄÄ.rcc
+³   ³   ÀÄÄÄqmlcache
+³   ÃÄÄÄbin
+³   ³   ÀÄÄÄorg
+³   ³       ÀÄÄÄkde
+³   ³           ÃÄÄÄcoreaddons
+³   ³           ÀÄÄÄkirigami
+³   ³               ÃÄÄÄdelegates
+³   ³               ÃÄÄÄdialogs
+³   ³               ÃÄÄÄlayouts
+³   ³               ³   ÀÄÄÄprivate
+³   ³               ÃÄÄÄplatform
+³   ³               ÃÄÄÄprimitives
+³   ³               ÃÄÄÄprivate
+³   ³               ³   ÀÄÄÄglobaltoolbar
+³   ³               ÃÄÄÄstyles
+³   ³               ³   ÃÄÄÄMaterial
+³   ³               ³   ÀÄÄÄorg.kde.desktop
+³   ³               ÀÄÄÄtemplates
+³   ³                   ÀÄÄÄprivate
+³   ÃÄÄÄbuild
+³   ³   ÃÄÄÄ.lupdate
+³   ³   ÃÄÄÄ.qsb
+³   ³   ³   ÀÄÄÄshaders
+³   ³   ÃÄÄÄ.qt
+³   ³   ³   ÃÄÄÄqmltypes
+³   ³   ³   ÃÄÄÄqml_imports
+³   ³   ³   ÀÄÄÄrcc
+³   ³   ÃÄÄÄ.rcc
+³   ³   ³   ÃÄÄÄqmlcache
+³   ³   ³   ³   ÃÄÄÄqprompt_kirigami_ui
+³   ³   ³   ³   ³   ÃÄÄÄ+android
+³   ³   ³   ³   ³   ÀÄÄÄ+windows
+³   ³   ³   ³   ÃÄÄÄqprompt_prompter
+³   ³   ³   ³   ³   ÀÄÄÄpointers
+³   ³   ³   ³   ÀÄÄÄqprompt_qt
+³   ³   ³   ÀÄÄÄqmllint
+³   ³   ÃÄÄÄCMakeFiles
+³   ³   ³   ÃÄÄÄqprompt.dir
+³   ³   ³   ³   ÃÄÄÄ.qt
+³   ³   ³   ³   ³   ÀÄÄÄrcc
+³   ³   ³   ³   ÃÄÄÄ.rcc
+³   ³   ³   ³   ³   ÀÄÄÄqmlcache
+³   ³   ³   ³   ³       ÃÄÄÄqprompt_kirigami_ui
+³   ³   ³   ³   ³       ³   ÃÄÄÄ+android
+³   ³   ³   ³   ³       ³   ÀÄÄÄ+windows
+³   ³   ³   ³   ³       ÃÄÄÄqprompt_prompter
+³   ³   ³   ³   ³       ³   ÀÄÄÄpointers
+³   ³   ³   ³   ³       ÀÄÄÄqprompt_qt
+³   ³   ³   ³   ÀÄÄÄqprompt_autogen
+³   ³   ³   ÃÄÄÄqprompt_autogen.dir
+³   ³   ³   ÃÄÄÄqprompt_fonts_obj.dir
+³   ³   ³   ³   ÀÄÄÄ.qt
+³   ³   ³   ³       ÀÄÄÄrcc
+³   ³   ³   ÀÄÄÄqprompt_fonts_obj_autogen.dir
+³   ³   ÃÄÄÄcom
+³   ³   ³   ÀÄÄÄcuperino
+³   ³   ³       ÀÄÄÄqprompt
+³   ³   ³           ÃÄÄÄdocuments
+³   ³   ³           ÃÄÄÄicons
+³   ³   ³           ÃÄÄÄimages
+³   ³   ³           ÃÄÄÄkirigami_ui
+³   ³   ³           ³   ÃÄÄÄ+android
+³   ³   ³           ³   ÀÄÄÄ+windows
+³   ³   ³           ÃÄÄÄprompter
+³   ³   ³           ³   ÀÄÄÄpointers
+³   ³   ³           ÀÄÄÄqt
+³   ³   ÃÄÄÄmeta_types
+³   ³   ÃÄÄÄqmltypes
+³   ³   ÀÄÄÄqprompt_autogen
+³   ³       ÃÄÄÄEWIEGA46WW
+³   ³       ÀÄÄÄinclude
+³   ÃÄÄÄCMakeFiles
+³   ³   ÃÄÄÄ4.2.2
+³   ³   ³   ÃÄÄÄCompilerIdC
+³   ³   ³   ³   ÀÄÄÄtmp
+³   ³   ³   ÀÄÄÄCompilerIdCXX
+³   ³   ³       ÀÄÄÄtmp
+³   ³   ÃÄÄÄCMakeScratch
+³   ³   ÃÄÄÄd
+³   ³   ÃÄÄÄFindOpenMP
+³   ³   ÀÄÄÄpkgRedirects
+³   ÃÄÄÄlib
+³   ÃÄÄÄsubmodules
+³   ³   ÃÄÄÄkcoreaddons
+³   ³   ³   ÃÄÄÄautotests
+³   ³   ³   ³   ÃÄÄÄdata
+³   ³   ³   ³   ÀÄÄÄplugin
+³   ³   ³   ³       ÀÄÄÄdata
+³   ³   ³   ÃÄÄÄcmake
+³   ³   ³   ÃÄÄÄdocs
+³   ³   ³   ÃÄÄÄLICENSES
+³   ³   ³   ÃÄÄÄpoqm
+³   ³   ³   ³   ÃÄÄÄaf
+³   ³   ³   ³   ÃÄÄÄar
+³   ³   ³   ³   ÃÄÄÄas
+³   ³   ³   ³   ÃÄÄÄast
+³   ³   ³   ³   ÃÄÄÄaz
+³   ³   ³   ³   ÃÄÄÄbe
+³   ³   ³   ³   ÃÄÄÄbe@latin
+³   ³   ³   ³   ÃÄÄÄbg
+³   ³   ³   ³   ÃÄÄÄbn
+³   ³   ³   ³   ÃÄÄÄbn_IN
+³   ³   ³   ³   ÃÄÄÄbr
+³   ³   ³   ³   ÃÄÄÄbs
+³   ³   ³   ³   ÃÄÄÄca
+³   ³   ³   ³   ÃÄÄÄca@valencia
+³   ³   ³   ³   ÃÄÄÄcrh
+³   ³   ³   ³   ÃÄÄÄcs
+³   ³   ³   ³   ÃÄÄÄcsb
+³   ³   ³   ³   ÃÄÄÄcy
+³   ³   ³   ³   ÃÄÄÄda
+³   ³   ³   ³   ÃÄÄÄde
+³   ³   ³   ³   ÃÄÄÄel
+³   ³   ³   ³   ÃÄÄÄen
+³   ³   ³   ³   ÃÄÄÄen_GB
+³   ³   ³   ³   ÃÄÄÄeo
+³   ³   ³   ³   ÃÄÄÄes
+³   ³   ³   ³   ÃÄÄÄet
+³   ³   ³   ³   ÃÄÄÄeu
+³   ³   ³   ³   ÃÄÄÄfa
+³   ³   ³   ³   ÃÄÄÄfi
+³   ³   ³   ³   ÃÄÄÄfr
+³   ³   ³   ³   ÃÄÄÄfy
+³   ³   ³   ³   ÃÄÄÄga
+³   ³   ³   ³   ÃÄÄÄgd
+³   ³   ³   ³   ÃÄÄÄgl
+³   ³   ³   ³   ÃÄÄÄgu
+³   ³   ³   ³   ÃÄÄÄha
+³   ³   ³   ³   ÃÄÄÄhe
+³   ³   ³   ³   ÃÄÄÄhi
+³   ³   ³   ³   ÃÄÄÄhne
+³   ³   ³   ³   ÃÄÄÄhr
+³   ³   ³   ³   ÃÄÄÄhsb
+³   ³   ³   ³   ÃÄÄÄhu
+³   ³   ³   ³   ÃÄÄÄhy
+³   ³   ³   ³   ÃÄÄÄia
+³   ³   ³   ³   ÃÄÄÄid
+³   ³   ³   ³   ÃÄÄÄie
+³   ³   ³   ³   ÃÄÄÄis
+³   ³   ³   ³   ÃÄÄÄit
+³   ³   ³   ³   ÃÄÄÄja
+³   ³   ³   ³   ÃÄÄÄka
+³   ³   ³   ³   ÃÄÄÄkab
+³   ³   ³   ³   ÃÄÄÄkk
+³   ³   ³   ³   ÃÄÄÄkm
+³   ³   ³   ³   ÃÄÄÄkn
+³   ³   ³   ³   ÃÄÄÄko
+³   ³   ³   ³   ÃÄÄÄku
+³   ³   ³   ³   ÃÄÄÄlb
+³   ³   ³   ³   ÃÄÄÄlg
+³   ³   ³   ³   ÃÄÄÄlt
+³   ³   ³   ³   ÃÄÄÄlv
+³   ³   ³   ³   ÃÄÄÄmai
+³   ³   ³   ³   ÃÄÄÄmk
+³   ³   ³   ³   ÃÄÄÄml
+³   ³   ³   ³   ÃÄÄÄmr
+³   ³   ³   ³   ÃÄÄÄms
+³   ³   ³   ³   ÃÄÄÄmy
+³   ³   ³   ³   ÃÄÄÄnb
+³   ³   ³   ³   ÃÄÄÄnds
+³   ³   ³   ³   ÃÄÄÄne
+³   ³   ³   ³   ÃÄÄÄnl
+³   ³   ³   ³   ÃÄÄÄnn
+³   ³   ³   ³   ÃÄÄÄoc
+³   ³   ³   ³   ÃÄÄÄor
+³   ³   ³   ³   ÃÄÄÄpa
+³   ³   ³   ³   ÃÄÄÄpl
+³   ³   ³   ³   ÃÄÄÄps
+³   ³   ³   ³   ÃÄÄÄpt
+³   ³   ³   ³   ÃÄÄÄpt_BR
+³   ³   ³   ³   ÃÄÄÄro
+³   ³   ³   ³   ÃÄÄÄru
+³   ³   ³   ³   ÃÄÄÄsa
+³   ³   ³   ³   ÃÄÄÄse
+³   ³   ³   ³   ÃÄÄÄsi
+³   ³   ³   ³   ÃÄÄÄsk
+³   ³   ³   ³   ÃÄÄÄsl
+³   ³   ³   ³   ÃÄÄÄsq
+³   ³   ³   ³   ÃÄÄÄsr
+³   ³   ³   ³   ÃÄÄÄsr@ijekavian
+³   ³   ³   ³   ÃÄÄÄsr@ijekavianlatin
+³   ³   ³   ³   ÃÄÄÄsr@latin
+³   ³   ³   ³   ÃÄÄÄsv
+³   ³   ³   ³   ÃÄÄÄsw
+³   ³   ³   ³   ÃÄÄÄta
+³   ³   ³   ³   ÃÄÄÄte
+³   ³   ³   ³   ÃÄÄÄtg
+³   ³   ³   ³   ÃÄÄÄth
+³   ³   ³   ³   ÃÄÄÄtok
+³   ³   ³   ³   ÃÄÄÄtr
+³   ³   ³   ³   ÃÄÄÄtt
+³   ³   ³   ³   ÃÄÄÄug
+³   ³   ³   ³   ÃÄÄÄuk
+³   ³   ³   ³   ÃÄÄÄuz
+³   ³   ³   ³   ÃÄÄÄuz@cyrillic
+³   ³   ³   ³   ÃÄÄÄvi
+³   ³   ³   ³   ÃÄÄÄwa
+³   ³   ³   ³   ÃÄÄÄxh
+³   ³   ³   ³   ÃÄÄÄzh_CN
+³   ³   ³   ³   ÃÄÄÄzh_HK
+³   ³   ³   ³   ÀÄÄÄzh_TW
+³   ³   ³   ÃÄÄÄpython
+³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ³   ÃÄÄÄcaching
+³   ³   ³   ³   ³   ÃÄÄÄio
+³   ³   ³   ³   ³   ÃÄÄÄjobs
+³   ³   ³   ³   ³   ÃÄÄÄlicenses
+³   ³   ³   ³   ³   ÃÄÄÄplugin
+³   ³   ³   ³   ³   ÃÄÄÄrandomness
+³   ³   ³   ³   ³   ÃÄÄÄtext
+³   ³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ÃÄÄÄmimetypes
+³   ³   ³   ³   ÀÄÄÄqml
+³   ³   ³   ÀÄÄÄtests
+³   ³   ÃÄÄÄkirigami
+³   ³   ³   ÃÄÄÄautotests
+³   ³   ³   ³   ÃÄÄÄmobile
+³   ³   ³   ³   ÃÄÄÄpagepool
+³   ³   ³   ³   ÀÄÄÄwheelhandler
+³   ³   ³   ÃÄÄÄdocs
+³   ³   ³   ³   ÀÄÄÄpics
+³   ³   ³   ³       ÀÄÄÄicon
+³   ³   ³   ÃÄÄÄexamples
+³   ³   ³   ³   ÃÄÄÄapplicationitemapp
+³   ³   ³   ³   ÃÄÄÄflexcolumn
+³   ³   ³   ³   ÃÄÄÄicon
+³   ³   ³   ³   ÃÄÄÄImage Colors
+³   ³   ³   ³   ³   ÀÄÄÄcomponents
+³   ³   ³   ³   ÃÄÄÄmultiplatformnotesapp
+³   ³   ³   ³   ÃÄÄÄsettingscomponents
+³   ³   ³   ³   ÃÄÄÄsimpleexamples
+³   ³   ³   ³   ÃÄÄÄstaticcmake
+³   ³   ³   ³   ³   ÃÄÄÄ3rdparty
+³   ³   ³   ³   ³   ÀÄÄÄsrc
+³   ³   ³   ³   ÀÄÄÄwheelhandler
+³   ³   ³   ÃÄÄÄLICENSES
+³   ³   ³   ÃÄÄÄpoqm
+³   ³   ³   ³   ÃÄÄÄar
+³   ³   ³   ³   ÃÄÄÄast
+³   ³   ³   ³   ÃÄÄÄaz
+³   ³   ³   ³   ÃÄÄÄbg
+³   ³   ³   ³   ÃÄÄÄca
+³   ³   ³   ³   ÃÄÄÄca@valencia
+³   ³   ³   ³   ÃÄÄÄcs
+³   ³   ³   ³   ÃÄÄÄda
+³   ³   ³   ³   ÃÄÄÄde
+³   ³   ³   ³   ÃÄÄÄel
+³   ³   ³   ³   ÃÄÄÄen_GB
+³   ³   ³   ³   ÃÄÄÄeo
+³   ³   ³   ³   ÃÄÄÄes
+³   ³   ³   ³   ÃÄÄÄet
+³   ³   ³   ³   ÃÄÄÄeu
+³   ³   ³   ³   ÃÄÄÄfi
+³   ³   ³   ³   ÃÄÄÄfr
+³   ³   ³   ³   ÃÄÄÄgl
+³   ³   ³   ³   ÃÄÄÄhe
+³   ³   ³   ³   ÃÄÄÄhi
+³   ³   ³   ³   ÃÄÄÄhu
+³   ³   ³   ³   ÃÄÄÄia
+³   ³   ³   ³   ÃÄÄÄid
+³   ³   ³   ³   ÃÄÄÄis
+³   ³   ³   ³   ÃÄÄÄit
+³   ³   ³   ³   ÃÄÄÄja
+³   ³   ³   ³   ÃÄÄÄka
+³   ³   ³   ³   ÃÄÄÄko
+³   ³   ³   ³   ÃÄÄÄlt
+³   ³   ³   ³   ÃÄÄÄlv
+³   ³   ³   ³   ÃÄÄÄml
+³   ³   ³   ³   ÃÄÄÄnb
+³   ³   ³   ³   ÃÄÄÄnl
+³   ³   ³   ³   ÃÄÄÄnn
+³   ³   ³   ³   ÃÄÄÄpa
+³   ³   ³   ³   ÃÄÄÄpl
+³   ³   ³   ³   ÃÄÄÄpt
+³   ³   ³   ³   ÃÄÄÄpt_BR
+³   ³   ³   ³   ÃÄÄÄro
+³   ³   ³   ³   ÃÄÄÄru
+³   ³   ³   ³   ÃÄÄÄsa
+³   ³   ³   ³   ÃÄÄÄsk
+³   ³   ³   ³   ÃÄÄÄsl
+³   ³   ³   ³   ÃÄÄÄsr
+³   ³   ³   ³   ÃÄÄÄsr@ijekavian
+³   ³   ³   ³   ÃÄÄÄsr@ijekavianlatin
+³   ³   ³   ³   ÃÄÄÄsr@latin
+³   ³   ³   ³   ÃÄÄÄsv
+³   ³   ³   ³   ÃÄÄÄta
+³   ³   ³   ³   ÃÄÄÄtg
+³   ³   ³   ³   ÃÄÄÄtr
+³   ³   ³   ³   ÃÄÄÄuk
+³   ³   ³   ³   ÃÄÄÄzh_CN
+³   ³   ³   ³   ÀÄÄÄzh_TW
+³   ³   ³   ÃÄÄÄscripts
+³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ³   ÃÄÄÄcontrols
+³   ³   ³   ³   ³   ÃÄÄÄprivate
+³   ³   ³   ³   ³   ³   ÀÄÄÄglobaltoolbar
+³   ³   ³   ³   ³   ÀÄÄÄtemplates
+³   ³   ³   ³   ³       ÀÄÄÄprivate
+³   ³   ³   ³   ÃÄÄÄdelegates
+³   ³   ³   ³   ÃÄÄÄdialogs
+³   ³   ³   ³   ÃÄÄÄlayouts
+³   ³   ³   ³   ÃÄÄÄplatform
+³   ³   ³   ³   ÃÄÄÄprimitives
+³   ³   ³   ³   ³   ÃÄÄÄscenegraph
+³   ³   ³   ³   ³   ÀÄÄÄshaders
+³   ³   ³   ³   ÀÄÄÄstyles
+³   ³   ³   ³       ÃÄÄÄMaterial
+³   ³   ³   ³       ÀÄÄÄorg.kde.desktop
+³   ³   ³   ÃÄÄÄtemplates
+³   ³   ³   ³   ÀÄÄÄkirigami6
+³   ³   ³   ³       ÃÄÄÄandroid
+³   ³   ³   ³       ³   ÀÄÄÄres
+³   ³   ³   ³       ³       ÀÄÄÄdrawable
+³   ³   ³   ³       ÃÄÄÄLICENSES
+³   ³   ³   ³       ÀÄÄÄsrc
+³   ³   ³   ³           ÀÄÄÄcontents
+³   ³   ³   ³               ÀÄÄÄui
+³   ³   ³   ÀÄÄÄtests
+³   ³   ³       ÀÄÄÄwheelhandler
+³   ³   ÀÄÄÄQHotkey
+³   ³       ÃÄÄÄ.github
+³   ³       ³   ÀÄÄÄworkflows
+³   ³       ÃÄÄÄdoc
+³   ³       ÃÄÄÄHotkeyTest
+³   ³       ÀÄÄÄQHotkey
+³   ÀÄÄÄ_deps
+³       ÃÄÄÄcoreaddons-build
+³       ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ÀÄÄÄExport
+³       ³   ³       ÀÄÄÄbd3e1369595da6fa13407c446fcaddc3
+³       ³   ÃÄÄÄECMPoQm
+³       ³   ³   ÃÄÄÄaf
+³       ³   ³   ÃÄÄÄar
+³       ³   ³   ÃÄÄÄas
+³       ³   ³   ÃÄÄÄast
+³       ³   ³   ÃÄÄÄaz
+³       ³   ³   ÃÄÄÄbe
+³       ³   ³   ÃÄÄÄbe@latin
+³       ³   ³   ÃÄÄÄbg
+³       ³   ³   ÃÄÄÄbn
+³       ³   ³   ÃÄÄÄbn_IN
+³       ³   ³   ÃÄÄÄbr
+³       ³   ³   ÃÄÄÄbs
+³       ³   ³   ÃÄÄÄca
+³       ³   ³   ÃÄÄÄca@valencia
+³       ³   ³   ÃÄÄÄcrh
+³       ³   ³   ÃÄÄÄcs
+³       ³   ³   ÃÄÄÄcsb
+³       ³   ³   ÃÄÄÄcy
+³       ³   ³   ÃÄÄÄda
+³       ³   ³   ÃÄÄÄde
+³       ³   ³   ÃÄÄÄel
+³       ³   ³   ÃÄÄÄen
+³       ³   ³   ÃÄÄÄen_GB
+³       ³   ³   ÃÄÄÄeo
+³       ³   ³   ÃÄÄÄes
+³       ³   ³   ÃÄÄÄet
+³       ³   ³   ÃÄÄÄeu
+³       ³   ³   ÃÄÄÄfa
+³       ³   ³   ÃÄÄÄfi
+³       ³   ³   ÃÄÄÄfr
+³       ³   ³   ÃÄÄÄfy
+³       ³   ³   ÃÄÄÄga
+³       ³   ³   ÃÄÄÄgd
+³       ³   ³   ÃÄÄÄgl
+³       ³   ³   ÃÄÄÄgu
+³       ³   ³   ÃÄÄÄha
+³       ³   ³   ÃÄÄÄhe
+³       ³   ³   ÃÄÄÄhi
+³       ³   ³   ÃÄÄÄhne
+³       ³   ³   ÃÄÄÄhr
+³       ³   ³   ÃÄÄÄhsb
+³       ³   ³   ÃÄÄÄhu
+³       ³   ³   ÃÄÄÄhy
+³       ³   ³   ÃÄÄÄia
+³       ³   ³   ÃÄÄÄid
+³       ³   ³   ÃÄÄÄie
+³       ³   ³   ÃÄÄÄis
+³       ³   ³   ÃÄÄÄit
+³       ³   ³   ÃÄÄÄja
+³       ³   ³   ÃÄÄÄka
+³       ³   ³   ÃÄÄÄkab
+³       ³   ³   ÃÄÄÄkk
+³       ³   ³   ÃÄÄÄkm
+³       ³   ³   ÃÄÄÄkn
+³       ³   ³   ÃÄÄÄko
+³       ³   ³   ÃÄÄÄku
+³       ³   ³   ÃÄÄÄlb
+³       ³   ³   ÃÄÄÄlg
+³       ³   ³   ÃÄÄÄlt
+³       ³   ³   ÃÄÄÄlv
+³       ³   ³   ÃÄÄÄmai
+³       ³   ³   ÃÄÄÄmk
+³       ³   ³   ÃÄÄÄml
+³       ³   ³   ÃÄÄÄmr
+³       ³   ³   ÃÄÄÄms
+³       ³   ³   ÃÄÄÄmy
+³       ³   ³   ÃÄÄÄnb
+³       ³   ³   ÃÄÄÄnds
+³       ³   ³   ÃÄÄÄne
+³       ³   ³   ÃÄÄÄnl
+³       ³   ³   ÃÄÄÄnn
+³       ³   ³   ÃÄÄÄoc
+³       ³   ³   ÃÄÄÄor
+³       ³   ³   ÃÄÄÄpa
+³       ³   ³   ÃÄÄÄpl
+³       ³   ³   ÃÄÄÄps
+³       ³   ³   ÃÄÄÄpt
+³       ³   ³   ÃÄÄÄpt_BR
+³       ³   ³   ÃÄÄÄro
+³       ³   ³   ÃÄÄÄru
+³       ³   ³   ÃÄÄÄsa
+³       ³   ³   ÃÄÄÄse
+³       ³   ³   ÃÄÄÄsi
+³       ³   ³   ÃÄÄÄsk
+³       ³   ³   ÃÄÄÄsl
+³       ³   ³   ÃÄÄÄsq
+³       ³   ³   ÃÄÄÄsr
+³       ³   ³   ÃÄÄÄsr@ijekavian
+³       ³   ³   ÃÄÄÄsr@ijekavianlatin
+³       ³   ³   ÃÄÄÄsr@latin
+³       ³   ³   ÃÄÄÄsv
+³       ³   ³   ÃÄÄÄsw
+³       ³   ³   ÃÄÄÄta
+³       ³   ³   ÃÄÄÄte
+³       ³   ³   ÃÄÄÄtg
+³       ³   ³   ÃÄÄÄth
+³       ³   ³   ÃÄÄÄtok
+³       ³   ³   ÃÄÄÄtr
+³       ³   ³   ÃÄÄÄtt
+³       ³   ³   ÃÄÄÄug
+³       ³   ³   ÃÄÄÄuk
+³       ³   ³   ÃÄÄÄuz
+³       ³   ³   ÃÄÄÄuz@cyrillic
+³       ³   ³   ÃÄÄÄvi
+³       ³   ³   ÃÄÄÄwa
+³       ³   ³   ÃÄÄÄxh
+³       ³   ³   ÃÄÄÄzh_CN
+³       ³   ³   ÃÄÄÄzh_HK
+³       ³   ³   ÀÄÄÄzh_TW
+³       ³   ÀÄÄÄsrc
+³       ³       ÃÄÄÄCMakeFiles
+³       ³       ÃÄÄÄlib
+³       ³       ³   ÃÄÄÄCMakeFiles
+³       ³       ³   ³   ÃÄÄÄKF6CoreAddons.dir
+³       ³       ³   ³   ³   ÃÄÄÄcaching
+³       ³       ³   ³   ³   ÃÄÄÄio
+³       ³       ³   ³   ³   ÃÄÄÄjobs
+³       ³       ³   ³   ³   ÃÄÄÄKF6CoreAddons_autogen
+³       ³       ³   ³   ³   ³   ÀÄÄÄ2QG4HPNWYX
+³       ³       ³   ³   ³   ÃÄÄÄplugin
+³       ³       ³   ³   ³   ÃÄÄÄrandomness
+³       ³       ³   ³   ³   ÃÄÄÄtext
+³       ³       ³   ³   ³   ÀÄÄÄutil
+³       ³       ³   ³   ÀÄÄÄKF6CoreAddons_autogen.dir
+³       ³       ³   ÃÄÄÄio
+³       ³       ³   ÃÄÄÄKF6CoreAddons_autogen
+³       ³       ³   ³   ÃÄÄÄ2QG4HPNWYX
+³       ³       ³   ³   ÀÄÄÄinclude
+³       ³       ³   ÀÄÄÄmeta_types
+³       ³       ÃÄÄÄmimetypes
+³       ³       ³   ÀÄÄÄCMakeFiles
+³       ³       ÀÄÄÄqml
+³       ³           ÃÄÄÄ.qt
+³       ³           ³   ÃÄÄÄqmltypes
+³       ³           ³   ÀÄÄÄrcc
+³       ³           ÃÄÄÄ.rcc
+³       ³           ³   ÀÄÄÄqmllint
+³       ³           ÃÄÄÄCMakeFiles
+³       ³           ³   ÃÄÄÄkcoreaddonsplugin.dir
+³       ³           ³   ³   ÃÄÄÄ.qt
+³       ³           ³   ³   ³   ÀÄÄÄrcc
+³       ³           ³   ³   ÀÄÄÄkcoreaddonsplugin_autogen
+³       ³           ³   ÀÄÄÄkcoreaddonsplugin_autogen.dir
+³       ³           ÃÄÄÄkcoreaddonsplugin_autogen
+³       ³           ³   ÀÄÄÄinclude
+³       ³           ÃÄÄÄmeta_types
+³       ³           ÀÄÄÄqmltypes
+³       ÃÄÄÄcoreaddons-subbuild
+³       ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ÃÄÄÄ4.2.2
+³       ³   ³   ÃÄÄÄcoreaddons-populate.dir
+³       ³   ³   ÀÄÄÄpkgRedirects
+³       ³   ÀÄÄÄcoreaddons-populate-prefix
+³       ³       ÃÄÄÄsrc
+³       ³       ³   ÀÄÄÄcoreaddons-populate-stamp
+³       ³       ÀÄÄÄtmp
+³       ÃÄÄÄkirigami-build
+³       ³   ÃÄÄÄCMakeFiles
+³       ³   ÃÄÄÄECMPoQm
+³       ³   ³   ÃÄÄÄar
+³       ³   ³   ÃÄÄÄast
+³       ³   ³   ÃÄÄÄaz
+³       ³   ³   ÃÄÄÄbg
+³       ³   ³   ÃÄÄÄca
+³       ³   ³   ÃÄÄÄca@valencia
+³       ³   ³   ÃÄÄÄcs
+³       ³   ³   ÃÄÄÄda
+³       ³   ³   ÃÄÄÄde
+³       ³   ³   ÃÄÄÄel
+³       ³   ³   ÃÄÄÄen_GB
+³       ³   ³   ÃÄÄÄeo
+³       ³   ³   ÃÄÄÄes
+³       ³   ³   ÃÄÄÄet
+³       ³   ³   ÃÄÄÄeu
+³       ³   ³   ÃÄÄÄfi
+³       ³   ³   ÃÄÄÄfr
+³       ³   ³   ÃÄÄÄgl
+³       ³   ³   ÃÄÄÄhe
+³       ³   ³   ÃÄÄÄhi
+³       ³   ³   ÃÄÄÄhu
+³       ³   ³   ÃÄÄÄia
+³       ³   ³   ÃÄÄÄid
+³       ³   ³   ÃÄÄÄis
+³       ³   ³   ÃÄÄÄit
+³       ³   ³   ÃÄÄÄja
+³       ³   ³   ÃÄÄÄka
+³       ³   ³   ÃÄÄÄko
+³       ³   ³   ÃÄÄÄlt
+³       ³   ³   ÃÄÄÄlv
+³       ³   ³   ÃÄÄÄml
+³       ³   ³   ÃÄÄÄnb
+³       ³   ³   ÃÄÄÄnl
+³       ³   ³   ÃÄÄÄnn
+³       ³   ³   ÃÄÄÄpa
+³       ³   ³   ÃÄÄÄpl
+³       ³   ³   ÃÄÄÄpt
+³       ³   ³   ÃÄÄÄpt_BR
+³       ³   ³   ÃÄÄÄro
+³       ³   ³   ÃÄÄÄru
+³       ³   ³   ÃÄÄÄsa
+³       ³   ³   ÃÄÄÄsk
+³       ³   ³   ÃÄÄÄsl
+³       ³   ³   ÃÄÄÄsr
+³       ³   ³   ÃÄÄÄsr@ijekavian
+³       ³   ³   ÃÄÄÄsr@ijekavianlatin
+³       ³   ³   ÃÄÄÄsr@latin
+³       ³   ³   ÃÄÄÄsv
+³       ³   ³   ÃÄÄÄta
+³       ³   ³   ÃÄÄÄtg
+³       ³   ³   ÃÄÄÄtr
+³       ³   ³   ÃÄÄÄuk
+³       ³   ³   ÃÄÄÄzh_CN
+³       ³   ³   ÀÄÄÄzh_TW
+³       ³   ÃÄÄÄsrc
+³       ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ÃÄÄÄqmltypes
+³       ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ÀÄÄÄqmllint
+³       ³   ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ³   ÃÄÄÄExport
+³       ³   ³   ³   ³   ÀÄÄÄ085e80c61c1b4637d34c4763f35bf054
+³       ³   ³   ³   ÃÄÄÄKirigami.dir
+³       ³   ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ³   ÀÄÄÄKirigami_autogen
+³       ³   ³   ³   ÃÄÄÄKirigamiplugin.dir
+³       ³   ³   ³   ³   ÀÄÄÄKirigamiplugin_autogen
+³       ³   ³   ³   ÃÄÄÄKirigamiplugin_autogen.dir
+³       ³   ³   ³   ÃÄÄÄKirigamiPrivate.dir
+³       ³   ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ³   ÀÄÄÄKirigamiPrivate_autogen
+³       ³   ³   ³   ÃÄÄÄKirigamiPrivateplugin.dir
+³       ³   ³   ³   ³   ÀÄÄÄKirigamiPrivateplugin_autogen
+³       ³   ³   ³   ÃÄÄÄKirigamiPrivateplugin_autogen.dir
+³       ³   ³   ³   ÃÄÄÄKirigamiPrivate_autogen.dir
+³       ³   ³   ³   ÀÄÄÄKirigami_autogen.dir
+³       ³   ³   ÃÄÄÄdelegates
+³       ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ÃÄÄÄqmltypes
+³       ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ÃÄÄÄqmlcache
+³       ³   ³   ³   ³   ÀÄÄÄqmllint
+³       ³   ³   ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiDelegates.dir
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄqmlcache
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiDelegates_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiDelegatesplugin.dir
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiDelegatesplugin_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiDelegatesplugin_autogen.dir
+³       ³   ³   ³   ³   ÀÄÄÄKirigamiDelegates_autogen.dir
+³       ³   ³   ³   ÃÄÄÄKirigamiDelegatesplugin_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄKirigamiDelegates_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄmeta_types
+³       ³   ³   ³   ÀÄÄÄqmltypes
+³       ³   ³   ÃÄÄÄdialogs
+³       ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ÃÄÄÄqmltypes
+³       ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ÃÄÄÄqmlcache
+³       ³   ³   ³   ³   ÀÄÄÄqmllint
+³       ³   ³   ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiDialogs.dir
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄqmlcache
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiDialogs_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiDialogsplugin.dir
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiDialogsplugin_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiDialogsplugin_autogen.dir
+³       ³   ³   ³   ³   ÀÄÄÄKirigamiDialogs_autogen.dir
+³       ³   ³   ³   ÃÄÄÄKirigamiDialogsplugin_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄKirigamiDialogs_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄmeta_types
+³       ³   ³   ³   ÀÄÄÄqmltypes
+³       ³   ³   ÃÄÄÄKirigamiplugin_autogen
+³       ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ÃÄÄÄKirigamiPrivateplugin_autogen
+³       ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ÃÄÄÄKirigamiPrivate_autogen
+³       ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ÃÄÄÄKirigami_autogen
+³       ³   ³   ³   ÃÄÄÄEWIEGA46WW
+³       ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ÃÄÄÄlayouts
+³       ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ÃÄÄÄqmltypes
+³       ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ÃÄÄÄqmlcache
+³       ³   ³   ³   ³   ÀÄÄÄqmllint
+³       ³   ³   ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiLayouts.dir
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄqmlcache
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiLayouts_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiLayoutsplugin.dir
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiLayoutsplugin_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiLayoutsplugin_autogen.dir
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiLayoutsPrivate.dir
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄqmlcache
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiLayoutsPrivate_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiLayoutsPrivateplugin.dir
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiLayoutsPrivateplugin_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiLayoutsPrivateplugin_autogen.dir
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiLayoutsPrivate_autogen.dir
+³       ³   ³   ³   ³   ÀÄÄÄKirigamiLayouts_autogen.dir
+³       ³   ³   ³   ÃÄÄÄKirigamiLayoutsplugin_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄKirigamiLayoutsPrivateplugin_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄKirigamiLayoutsPrivate_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄKirigamiLayouts_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄmeta_types
+³       ³   ³   ³   ÀÄÄÄqmltypes
+³       ³   ³   ÃÄÄÄmeta_types
+³       ³   ³   ÃÄÄÄplatform
+³       ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ÃÄÄÄqmltypes
+³       ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ÀÄÄÄqmllint
+³       ³   ³   ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ³   ³   ÃÄÄÄExport
+³       ³   ³   ³   ³   ³   ÀÄÄÄ902768f928d3fd8428e6da91822a102c
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiPlatform.dir
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiPlatform_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiPlatformplugin.dir
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiPlatformplugin_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiPlatformplugin_autogen.dir
+³       ³   ³   ³   ³   ÀÄÄÄKirigamiPlatform_autogen.dir
+³       ³   ³   ³   ÃÄÄÄKirigamiPlatformplugin_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄKirigamiPlatform_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄmeta_types
+³       ³   ³   ³   ÀÄÄÄqmltypes
+³       ³   ³   ÃÄÄÄprimitives
+³       ³   ³   ³   ÃÄÄÄ.qsb
+³       ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ÃÄÄÄqmltypes
+³       ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ÃÄÄÄqmlcache
+³       ³   ³   ³   ³   ÀÄÄÄqmllint
+³       ³   ³   ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiPrimitives.dir
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.qt
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄrcc
+³       ³   ³   ³   ³   ³   ÃÄÄÄ.rcc
+³       ³   ³   ³   ³   ³   ³   ÀÄÄÄqmlcache
+³       ³   ³   ³   ³   ³   ÃÄÄÄKirigamiPrimitives_autogen
+³       ³   ³   ³   ³   ³   ÀÄÄÄscenegraph
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiPrimitivesplugin.dir
+³       ³   ³   ³   ³   ³   ÀÄÄÄKirigamiPrimitivesplugin_autogen
+³       ³   ³   ³   ³   ÃÄÄÄKirigamiPrimitivesplugin_autogen.dir
+³       ³   ³   ³   ³   ÀÄÄÄKirigamiPrimitives_autogen.dir
+³       ³   ³   ³   ÃÄÄÄKirigamiPrimitivesplugin_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄKirigamiPrimitives_autogen
+³       ³   ³   ³   ³   ÀÄÄÄinclude
+³       ³   ³   ³   ÃÄÄÄmeta_types
+³       ³   ³   ³   ÀÄÄÄqmltypes
+³       ³   ³   ÀÄÄÄqmltypes
+³       ³   ÀÄÄÄtemplates
+³       ³       ÀÄÄÄCMakeFiles
+³       ÃÄÄÄkirigami-subbuild
+³       ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ÃÄÄÄ4.2.2
+³       ³   ³   ÃÄÄÄkirigami-populate.dir
+³       ³   ³   ÀÄÄÄpkgRedirects
+³       ³   ÀÄÄÄkirigami-populate-prefix
+³       ³       ÃÄÄÄsrc
+³       ³       ³   ÀÄÄÄkirigami-populate-stamp
+³       ³       ÀÄÄÄtmp
+³       ÃÄÄÄqhotkey-build
+³       ³   ÃÄÄÄCMakeFiles
+³       ³   ³   ÃÄÄÄExport
+³       ³   ³   ³   ÀÄÄÄ780296f38fabd842a663f9c594181ed7
+³       ³   ³   ÃÄÄÄqhotkey.dir
+³       ³   ³   ³   ÃÄÄÄQHotkey
+³       ³   ³   ³   ÀÄÄÄqhotkey_autogen
+³       ³   ³   ÀÄÄÄqhotkey_autogen.dir
+³       ³   ÀÄÄÄqhotkey_autogen
+³       ³       ÃÄÄÄCDZSFYPHEU
+³       ³       ÀÄÄÄinclude
+³       ÀÄÄÄqhotkey-subbuild
+³           ÃÄÄÄCMakeFiles
+³           ³   ÃÄÄÄ4.2.2
+³           ³   ÃÄÄÄpkgRedirects
+³           ³   ÀÄÄÄqhotkey-populate.dir
+³           ÀÄÄÄqhotkey-populate-prefix
+³               ÃÄÄÄsrc
+³               ³   ÀÄÄÄqhotkey-populate-stamp
+³               ÀÄÄÄtmp
+ÃÄÄÄcmake
+ÃÄÄÄdeploy
+³   ÃÄÄÄgeneric
+³   ÃÄÄÄiconengines
+³   ÃÄÄÄimageformats
+³   ÃÄÄÄnetworkinformation
+³   ÃÄÄÄplatforms
+³   ÃÄÄÄqml
+³   ³   ÃÄÄÄorg
+³   ³   ³   ÀÄÄÄkde
+³   ³   ³       ÃÄÄÄconfig
+³   ³   ³       ÃÄÄÄcoreaddons
+³   ³   ³       ÃÄÄÄiconthemes
+³   ³   ³       ÃÄÄÄkirigami
+³   ³   ³       ³   ÃÄÄÄdelegates
+³   ³   ³       ³   ÃÄÄÄdialogs
+³   ³   ³       ³   ÃÄÄÄlayouts
+³   ³   ³       ³   ³   ÀÄÄÄprivate
+³   ³   ³       ³   ÃÄÄÄplatform
+³   ³   ³       ³   ÃÄÄÄprimitives
+³   ³   ³       ³   ÃÄÄÄprivate
+³   ³   ³       ³   ³   ÃÄÄÄglobaltoolbar
+³   ³   ³       ³   ³   ÀÄÄÄpolyfill
+³   ³   ³       ³   ÃÄÄÄstyles
+³   ³   ³       ³   ³   ÃÄÄÄMaterial
+³   ³   ³       ³   ³   ÀÄÄÄorg.kde.desktop
+³   ³   ³       ³   ÀÄÄÄtemplates
+³   ³   ³       ³       ÀÄÄÄprivate
+³   ³   ³       ÀÄÄÄkirigamiaddons
+³   ³   ³           ÃÄÄÄcomponents
+³   ³   ³           ³   ÀÄÄÄprivate
+³   ³   ³           ÃÄÄÄdateandtime
+³   ³   ³           ³   ÀÄÄÄprivate
+³   ³   ³           ÃÄÄÄdelegates
+³   ³   ³           ÃÄÄÄformcard
+³   ³   ³           ³   ÀÄÄÄprivate
+³   ³   ³           ÃÄÄÄsettings
+³   ³   ³           ³   ÀÄÄÄprivate
+³   ³   ³           ÃÄÄÄstatefulapp
+³   ³   ³           ³   ÃÄÄÄlabs
+³   ³   ³           ³   ÀÄÄÄprivate
+³   ³   ³           ÀÄÄÄtreeview
+³   ³   ³               ÀÄÄÄstyles
+³   ³   ³                   ÀÄÄÄorg.kde.desktop
+³   ³   ÃÄÄÄQML
+³   ³   ÃÄÄÄQt
+³   ³   ³   ÀÄÄÄlabs
+³   ³   ³       ÃÄÄÄfolderlistmodel
+³   ³   ³       ÃÄÄÄplatform
+³   ³   ³       ÀÄÄÄqmlmodels
+³   ³   ÃÄÄÄQtCore
+³   ³   ÃÄÄÄQtQml
+³   ³   ³   ÃÄÄÄModels
+³   ³   ³   ÃÄÄÄWorkerScript
+³   ³   ³   ÀÄÄÄXmlListModel
+³   ³   ÃÄÄÄQtQuick
+³   ³   ³   ÃÄÄÄControls
+³   ³   ³   ³   ÃÄÄÄBasic
+³   ³   ³   ³   ³   ÀÄÄÄimpl
+³   ³   ³   ³   ÃÄÄÄFluentWinUI3
+³   ³   ³   ³   ³   ÃÄÄÄdark
+³   ³   ³   ³   ³   ³   ÀÄÄÄimages
+³   ³   ³   ³   ³   ÃÄÄÄicons
+³   ³   ³   ³   ³   ÃÄÄÄimpl
+³   ³   ³   ³   ³   ÀÄÄÄlight
+³   ³   ³   ³   ³       ÀÄÄÄimages
+³   ³   ³   ³   ÃÄÄÄFusion
+³   ³   ³   ³   ³   ÀÄÄÄimpl
+³   ³   ³   ³   ÃÄÄÄImagine
+³   ³   ³   ³   ³   ÀÄÄÄimpl
+³   ³   ³   ³   ÃÄÄÄimpl
+³   ³   ³   ³   ÃÄÄÄMaterial
+³   ³   ³   ³   ³   ÀÄÄÄimpl
+³   ³   ³   ³   ÃÄÄÄUniversal
+³   ³   ³   ³   ³   ÀÄÄÄimpl
+³   ³   ³   ³   ÀÄÄÄWindows
+³   ³   ³   ³       ÃÄÄÄimages
+³   ³   ³   ³       ÀÄÄÄimpl
+³   ³   ³   ÃÄÄÄDialogs
+³   ³   ³   ³   ÀÄÄÄquickimpl
+³   ³   ³   ³       ÀÄÄÄqml
+³   ³   ³   ³           ÃÄÄÄ+Fusion
+³   ³   ³   ³           ÃÄÄÄ+Imagine
+³   ³   ³   ³           ÃÄÄÄ+Material
+³   ³   ³   ³           ÀÄÄÄ+Universal
+³   ³   ³   ÃÄÄÄEffects
+³   ³   ³   ÃÄÄÄLayouts
+³   ³   ³   ÃÄÄÄLocalStorage
+³   ³   ³   ÃÄÄÄNativeStyle
+³   ³   ³   ³   ÃÄÄÄcontrols
+³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ÃÄÄÄParticles
+³   ³   ³   ÃÄÄÄShapes
+³   ³   ³   ³   ÀÄÄÄDesignHelpers
+³   ³   ³   ÃÄÄÄTemplates
+³   ³   ³   ÃÄÄÄtooling
+³   ³   ³   ÃÄÄÄVectorImage
+³   ³   ³   ³   ÀÄÄÄHelpers
+³   ³   ³   ÀÄÄÄWindow
+³   ³   ÀÄÄÄQtTest
+³   ÃÄÄÄqmltooling
+³   ÃÄÄÄstyles
+³   ÃÄÄÄtls
+³   ÀÄÄÄtranslations
+ÃÄÄÄdist
+³   ÃÄÄÄHaikuOS
+³   ÀÄÄÄmacos
+ÃÄÄÄdocs
+³   ÀÄÄÄmanpage
+ÃÄÄÄicons
+ÃÄÄÄpo
+ÃÄÄÄQPromptPortable
+³   ÀÄÄÄplatforms
+ÃÄÄÄsrc
+³   ÃÄÄÄCMakeFiles
+³   ³   ÀÄÄÄ3.19.1
+³   ³       ÀÄÄÄx64
+³   ³           ÀÄÄÄDebug
+³   ³               ÀÄÄÄVCTargetsPath.tlog
+³   ÃÄÄÄdocuments
+³   ÃÄÄÄfonts
+³   ³   ÃÄÄÄeditor
+³   ³   ³   ÃÄÄÄdejavu-sans
+³   ³   ³   ÃÄÄÄKalpurush
+³   ³   ³   ÃÄÄÄLibertinus
+³   ³   ³   ³   ÃÄÄÄdocumentation
+³   ³   ³   ³   ÀÄÄÄstatic
+³   ³   ³   ³       ÃÄÄÄOTF
+³   ³   ³   ³       ÀÄÄÄWOFF2
+³   ³   ³   ÃÄÄÄopendyslexic
+³   ³   ³   ³   ÃÄÄÄ.github
+³   ³   ³   ³   ³   ÀÄÄÄISSUE_TEMPLATE
+³   ³   ³   ³   ÃÄÄÄcompiled
+³   ³   ³   ³   ÀÄÄÄsources
+³   ³   ³   ³       ÃÄÄÄopendyslexic
+³   ³   ³   ³       ÃÄÄÄopendyslexic Color
+³   ³   ³   ³       ÃÄÄÄopendyslexic-mono
+³   ³   ³   ³       ÀÄÄÄopendyslexic-r
+³   ³   ³   ³           ÀÄÄÄBackup
+³   ³   ³   ÃÄÄÄPalanquin
+³   ³   ³   ³   ÃÄÄÄDocs
+³   ³   ³   ³   ÃÄÄÄPalanquin
+³   ³   ³   ³   ³   ÃÄÄÄEncodingFile
+³   ³   ³   ³   ³   ÃÄÄÄFeatureFiles
+³   ³   ³   ³   ³   ³   ÃÄÄÄGDEF
+³   ³   ³   ³   ³   ³   ÃÄÄÄGPOS
+³   ³   ³   ³   ³   ³   ÀÄÄÄGSUB
+³   ³   ³   ³   ³   ÃÄÄÄPalanquin
+³   ³   ³   ³   ³   ³   ÀÄÄÄUnHinted
+³   ³   ³   ³   ³   ÀÄÄÄSourceFiles
+³   ³   ³   ³   ³       ÃÄÄÄUFOs
+³   ³   ³   ³   ³       ³   ÃÄÄÄPalanquin Bold.ufo
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄglyphs
+³   ³   ³   ³   ³       ³   ÃÄÄÄPalanquin Light.ufo
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄglyphs
+³   ³   ³   ³   ³       ³   ÃÄÄÄPalanquin Medium.ufo
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄglyphs
+³   ³   ³   ³   ³       ³   ÃÄÄÄPalanquin Regular.ufo
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄglyphs
+³   ³   ³   ³   ³       ³   ÃÄÄÄPalanquin SemiBold.ufo
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄglyphs
+³   ³   ³   ³   ³       ³   ÃÄÄÄPalanquin_ExLt.ufo
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄglyphs
+³   ³   ³   ³   ³       ³   ÀÄÄÄPalanquin_Th.ufo
+³   ³   ³   ³   ³       ³       ÀÄÄÄglyphs
+³   ³   ³   ³   ³       ÀÄÄÄVFBs
+³   ³   ³   ³   ÀÄÄÄPalanquinDark
+³   ³   ³   ³       ÃÄÄÄEncodingFiles
+³   ³   ³   ³       ÃÄÄÄFeatureFiles
+³   ³   ³   ³       ³   ÃÄÄÄGDEF
+³   ³   ³   ³       ³   ÃÄÄÄGPOS
+³   ³   ³   ³       ³   ÀÄÄÄGSUB
+³   ³   ³   ³       ÃÄÄÄPalanquin_Dark
+³   ³   ³   ³       ³   ÀÄÄÄUnHinted
+³   ³   ³   ³       ÀÄÄÄSourceFiles
+³   ³   ³   ³           ÃÄÄÄUFOs
+³   ³   ³   ³           ³   ÃÄÄÄPalanquinDark Bld.ufo
+³   ³   ³   ³           ³   ³   ÀÄÄÄglyphs
+³   ³   ³   ³           ³   ÃÄÄÄPalanquinDark Med.ufo
+³   ³   ³   ³           ³   ³   ÀÄÄÄglyphs
+³   ³   ³   ³           ³   ÃÄÄÄPalanquinDark Reg.ufo
+³   ³   ³   ³           ³   ³   ÀÄÄÄglyphs
+³   ³   ³   ³           ³   ÀÄÄÄPalanquinDark SBld.ufo
+³   ³   ³   ³           ³       ÀÄÄÄglyphs
+³   ³   ³   ³           ÀÄÄÄVFBs
+³   ³   ³   ÃÄÄÄScheherazadeNew
+³   ³   ³   ³   ÃÄÄÄdocumentation
+³   ³   ³   ³   ÀÄÄÄweb
+³   ³   ³   ÀÄÄÄSourceHanSans
+³   ³   ÀÄÄÄicons
+³   ³       ÃÄÄÄcss
+³   ³       ÀÄÄÄfont
+³   ÃÄÄÄicons
+³   ³   ÃÄÄÄ16
+³   ³   ÃÄÄÄ22
+³   ³   ÃÄÄÄ24
+³   ³   ÀÄÄÄhicolor
+³   ÃÄÄÄimages
+³   ÃÄÄÄkirigami_ui
+³   ³   ÃÄÄÄ+android
+³   ³   ÀÄÄÄ+windows
+³   ÃÄÄÄprompter
+³   ³   ÀÄÄÄpointers
+³   ÃÄÄÄqt
+³   ÀÄÄÄshaders
+ÀÄÄÄtest_data

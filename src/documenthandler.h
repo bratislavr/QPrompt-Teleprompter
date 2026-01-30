@@ -284,6 +284,8 @@ private:
     int m_selectionStart;
     int m_selectionEnd;
 
+    int m_savedCursorPosition = -1;
+
     MarkersModel *_markersModel;
     QFileSystemWatcher *_fileSystemWatcher;
 

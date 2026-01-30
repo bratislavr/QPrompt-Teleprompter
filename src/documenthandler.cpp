@@ -576,7 +576,17 @@ void DocumentHandler::loadFromNetworkFinihed()
         setDocumentComesFromNetwork(true);
         m_fileUrl = m_cache->fileName();
         Q_EMIT aboutToReload();
+
+        if (m_autoReload)
+            m_savedCursorPosition = m_cursorPosition;
+
         updateContents(html, Qt::RichText);
+
+        if (m_autoReload && m_savedCursorPosition >= 0) {
+            setCursorPosition(m_savedCursorPosition);
+            m_savedCursorPosition = -1;
+        }
+
         Q_EMIT fileUrlChanged();
     }
 }

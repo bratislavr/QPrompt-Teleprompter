@@ -1,0 +1,41 @@
+Opcija A (najbolja): Fork na GitHub-u
+
+Otvori: https://github.com/Cuperino/QPrompt-Teleprompter
+
+Klikni Fork (gore desno) → napravi fork na svoj nalog (bratislavr/QPrompt-Teleprompter).
+
+Onda u tvom lokalnom projektu:
+
+1) Proveri remote
+cd /c/QPrompt-Teleprompter
+git remote -v
+
+
+Videćeš da je origin i dalje Cuperino/....
+
+2) Promeni origin da pokazuje na tvoj fork
+git remote set-url origin https://github.com/bratislavr/QPrompt-Teleprompter.git
+
+3) (Opcionalno) Dodaj upstream ka originalu
+git remote add upstream https://github.com/Cuperino/QPrompt-Teleprompter.git
+
+4) Push na tvoj repo
+git push -u origin main
+
+git remote -v
+
+git add .
+git commit -m "daily changes"
+git push
+
+
+cd /c/QPrompt-Teleprompter
+cd build
+cmake --build .
+
+cd /c/QPrompt-Teleprompter
+./build/bin/QPrompt.exe
+
+Pokretanje:
+
+/c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe -NoProfile -Command "\$p = Start-Process -FilePath 'C:\QPrompt-Teleprompter\deploy\QPrompt.exe' -PassThru; Start-Sleep -Seconds 2; if (Get-Process -Id \$p.Id -ErrorAction SilentlyContinue) { 'RUNNING id=' + \$p.Id } else { 'EXITED' }"

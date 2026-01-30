@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/KDMacTouchBar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/QHotkey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/extra-cmake-modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/kcoreaddons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/kcrash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/kirigami" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/vcpkg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/submodules/QHotkey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/submodules/kcoreaddons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/submodules/kirigami" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/fonts/editor/Palanquin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/fonts/editor/opendyslexic" vcs="Git" />
+  </component>
+</project>
